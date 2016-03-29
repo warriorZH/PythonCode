@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="新浪通行证,注册,登录,sina">
+<meta name="description" content="新浪网为全球用户24小时提供全面及时的中文资讯，内容覆盖国内外突发新闻事件、体坛赛事、娱乐时尚、产业资讯、实用信息等，设有新闻、体育、娱乐、财经、科技、房产、汽车等30多个内容频道，同时开设博客、视频、论坛等自由互动交流空间。" />
+<title>新浪通行证</title>
+<link href="/css/member/v4.css" rel="stylesheet" type="text/css" />
+<link type="text/css" rel="stylesheet" href="/css/member/style.css" />
+</head>
+
+<body>
+<!-- 头 -->
+<div class="v4_head">
+	<div class="v4_head_inner">
+		<div class="v4_head_mid">
+						<a href="/member/my.php" title="新浪通行证" class="v4_logo"><em>新浪通行证</em></a>
+						<div class="greet">
+				您好：<span class="username">用户2631208437</span> <a href="/sso/logout.php">退出</a>|<a  target="_blank" href="http://www.sina.com.cn">新浪首页</a>|<a target="_blank" href="/help.html">帮助</a>
+			</div>
+			<ul class="v4_nav">
+									<li><a href="/member/my.php" class="cur">我的帐户</a></li>
+													<li><a href="/member/mobile.php">手机服务</a></li>
+													<li><a href="/member/person.php">个人资料</a></li>
+													<li><a href="/member/security.php">安全中心</a></li>
+							</ul>
+		</div>
+	</div>
+</div>
+<!-- 头结束 --><!--用户信息-->
+<div class="v4_user_info">
+    <div class="user_info_top"></div>
+    <div class="user_info_cnt">
+        <a href="/member/avatar_upload.php" class="user_thumb"><img src="http://portrait6.sinaimg.cn/2631208437/blog/50" /></a>
+        <div class="user_resume">
+            <dl>
+                <dt class="user_name"><a href="/member/person.php">用户2631208437</a></dt>
+                <dd>******@s****a.com<a href="/member/person.php" class="linkto">完善资料</a></dd>
+            </dl>
+            <dl class="contact_msg" >
+                <dt>绑定手机：</dt>
+                <dd>15*******80<a href="/member/mobile/bind.php?act=continue&no_resend=1" class="linkto">查看</a></dd>
+                <dt class="binding_mail" style="">安全邮箱：</dt>
+                <dd style=""><span class="mail_address">尚未安全邮箱</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/member/security/mail.php">绑定</a></dd>
+            </dl>
+        </div>
+        <div class="account_safe">
+            <dl>
+                <dt>上次登录：</dt>
+                <dd class="lastlog">2015年12月02日21:45:59 河北</dd>
+            </dl>
+            <dl class="safe_level">
+                <dt>帐户安全度：</dt>
+                <dd>
+                    <span class="safe_state_verylow" id="security_level"><img src="/images/member/space.gif" class="chart_security_level" /><strong>极低</strong></span>
+                    <a href="/member/security/password.php">修改密码</a></dd>
+            </dl>
+        </div>
+    </div>
+    <div class="user_info_bottom"></div>
+    <h1 class="user_title">我的信息</h1>
+</div>
+<!--用户信结束--><div class="main_cnt">
+
+    
+    <!--Dashboad-->
+    <div class="v4_dashboard" id="dashboard">
+        <div class="column" node-type="column" name="column1"></div>
+        <div class="column" node-type="column" name="column2"></div>
+        <div class="column" node-type="column" name="column3"></div>
+    </div>
+    <!--Dashboad end-->
+    
+  <!--新浪服务-->
+	<div class="v4_service" id="service_list">
+		<div class="v4_service_top"><em></em></div>
+        <div class="service_cnt">
+            <h2 class="service_title">新浪服务</h2>
+            <ul class="svc_list">
+                <li action-type="item" target="weibo" class="weibo"><a target="_blank" href="http://weibo.com">微博</a><button action-type="button" node-type="weibo" class="static" onfocus="this.blur();"><span>快速预览</span></button></li>
+                <li action-type="item" target="blog" class="blog"><a target="_blank" href="http://blog.sina.com.cn">博客</a><button action-type="button" node-type="blog" class="static" onfocus="this.blur();"><span>快速预览</span></button></li>
+                <li action-type="item" target="video" class="video"><a target="_blank" href="http://video.sina.com.cn">视频</a></li>
+                <li action-type="item" target="finance" class="finance"><a target="_blank" href="http://finance.sina.com.cn/">财经</a><button action-type="button" node-type="finance" class="static" onfocus="this.blur();"><span>快速预览</span></button></li>
+                <li class="mail"><a target="_blank" href="http://mail.sina.com.cn/">邮箱</a></li>
+                <li class="news"><a target="_blank" href="http://news.sina.com.cn/">新闻</a></li>
+                <li class="sport"><a target="_blank" href="http://sports.sina.com.cn/">体育</a></li>
+                <li action-type="item" target="book" class="book"><a target="_blank" href="http://book.sina.com.cn/">读书</a><button action-type="button" node-type="book" class="static" onfocus="this.blur();"><span>快速预览</span></button></li>
+                <li action-type="item" target="fav" class="fav"><a href="javascript:;" onclick="return false;">我的收藏</a><button action-type="button" node-type="fav" class="static" onfocus="this.blur();"><span>编辑收藏</span></button></li>
+                <li id="service_fav_list" class="fav_cnt" style="display:none">
+                    <ul class="fav_list" node-type="fav_list"></ul>
+                </li>
+                <li class="music"><a target="_blank" href="http://music.sina.com.cn/">乐库</a></li>
+                <li class="mil"><a target="_blank" href="http://mil.news.sina.com.cn/">军事</a></li>
+                <li class="eladies"><a target="_blank" href="http://eladies.sina.com.cn/">女性</a></li>
+                <li class="house"><a target="_blank" href="http://house.sina.com.cn/">房产</a></li>
+                <li class="auto"><a target="_blank" href="http://auto.sina.com.cn/">汽车</a></li>
+                <li class="tech"><a target="_blank" href="http://tech.sina.com.cn/">科技</a></li>
+                <li class="bbs"><a target="_blank" href="http://bbs.sina.com.cn/">论坛</a></li>
+                <li class="life"><a target="_blank" href="http://life.sina.com.cn/">生活</a></li>
+            </ul>
+        </div>
+		<div class="v4_service_bottom"><em></em></div>
+	</div>
+    <!--新浪服务结束-->
+    	<!-- 浮层 start -->
+	<div id="layer_container" class="layer_container"></div>
+    <!-- 浮层 end -->
+    <div class="clearit"></div>
+</div>
+<!--脚-->
+<div class="v4_footer">
+	<div class="mid">
+		<p class="copy">新浪公司  版权所有<br />Copyright 1996-2015 SINA Corporation, All Rights Reserved</p>
+		    	<p class="tips"><a target="_blank" href="http://login.sina.com.cn/help.html">帮助</a><a target="_blank" href="http://help.sina.com.cn/index.php">新手向导</a><a target="_blank" href="http://help.sina.com.cn/contact/contact.html">意见反馈</a><br />客服电话：400-690-0000  提示音后按2键（按当地市话标准计费）</p>        
+    	    </div>
+</div>
+<!--脚结束-->
+<!--返回顶部-->
+<a style="visibility: hidden; position: fixed; bottom: 30px;text-decoration:none;" id="fx_gototop" class="gotop">
+<span class="gotopbg "></span>
+<span class="gotopcon"><em class="toparr">&lt;&lt;</em><span>返回顶部</span></span></a>
+<!--返回顶部结束-->
+<script type="text/javascript" charset="utf-8" src="/js/STK/js/gaea_1_19.js"></script>
+<script type="text/javascript">
+//在这里输出配置信息
+var $CONFIG = {};
+$CONFIG.js_files = [
+	'v1/apps/member/js/home.js'
+];
+$CONFIG.server_time = (new Date()).getTime();
+$CONFIG.sortlist_order = 'weibo|blog,finance|mail,book,weather';
+$CONFIG.weather_data = 'id=1101010101';
+$CONFIG.nick = '用户2631208437';
+</script>
+<script type="text/javascript" charset="utf-8" src="/js/v1/apps/boot/js/boot.js"></script>
+<!--帐户安全状态-->
+<div class="level_message" style="display:none" id="security_level_layer">	
+	<div class="lev_cnt">未绑定过<a href="/member/security.php">安全邮箱</a>和<a href="/member/mobile.php">安全手机</a>？<br /><a href="/member/person.php">个人信息</a>没完善？动动手指，快快提升您的账户安全级别吧。</div>
+	<span class="arrow"></span>
+</div>
+
+
+
+</body>
+</html>

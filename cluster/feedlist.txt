@@ -1,0 +1,2 @@
+http://www.wordspy.com/rss.xml
+http://www.wikihow.com/feed.rss

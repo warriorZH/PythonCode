@@ -1,0 +1,37 @@
+1. re.findall(regexp,word):find the characters in word by the pattern 'regexp'
+2. nltk.regexp_tokenize(text,pattern): :find the characters in text by the pattern 'pattern' 
+3. re.split(r',',string):divide the string by ','
+4. text.concordance('hello'):find 'hello' in text and output the at line 
+5. text.similar('hello'):find the similar attribute like 'hello' and output the word 
+6. sorted(word_list):sort the words in word_list
+7. set(word_list):delete the words 
+8. word_list.append('hello'):add 'hello' to the word_list
+9. len(word_list):count the words number 
+10. word_list.count('hello'):count the number of 'hello' in the word_list				  
+11. word_list.index('hello'):return the index of the first 'hello' in the word_list
+12. fdist = FreqDist(word_list):calculate the words number and create the word:number pairs 
+13. nltk.***.words('fileid'):get the content of 'fileid' in type of words
+14. ***.fileids():return all the fileid in the language library '***'
+15. text = nltk.Text(wordlist):convert the wordlist into the text mode 
+16. PlaintextCorpusReader(path,'.*'):get all the file content in the path
+17. nltk.word_tokenize(string):divide the string into wordlist
+18. nltk.sent_tokenize(string):divide the string into sent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

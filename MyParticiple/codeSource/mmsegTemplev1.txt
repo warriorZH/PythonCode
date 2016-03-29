@@ -1,0 +1,369 @@
+#!/usr/bin/python
+#-*- coding: UTF-8 -*-
+
+#filename: __init__.py
+#description: use mmseg algorithm for paticiple in chinese language
+#author: warrior  ,mail: oowarrioroo@163.com
+#data: 2016-2-5
+#log:
+
+import re
+import pdb
+
+#********************-----------------********************#
+
+#********************-----------------********************#
+class MMSEG(object):
+    '''
+        realize mmseg algorithm in this class
+        U can access mmseg algorithm in:
+        english mode: http://technology.chtsai.org/mmseg/
+        chinese mode: http://www.52nlp.cn/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E5%85%A5%E9%97%A8%E4%B9%8B%E6%9C%80%E5%A4%A7%E5%8C%B9%E9%85%8D%E6%B3%95%E6%89%A9%E5%B1%951
+    '''
+    def __init__(self):
+        #used in word list
+        self.wordList = [] #storage word dictionary
+        self.wordListLength = 0 #length of wordList
+        self.wordElemIndex = 0
+        #
+        self.maxWordLength = 10
+        self.participleList = [""]
+        self.cacheParticipleList = [""]
+        self.sentencePartWordList = [""]
+
+
+
+
+    #-----------------********************-----------------#
+    def getwordsDict(self, fileDir):
+        '''
+            description: get the word dictionary : pku_training_words.utf8,
+                        and construct a sorted dictionary
+            input:
+                fileDir :  the path of word dict file
+            output:
+                none
+        '''
+        wordfile = open(fileDir, 'r')
+        try:
+            all_word_lines = wordfile.read()
+        except:
+            print "open file error!!"
+        finally:
+            wordfile.close()
+
+        self.wordList = all_word_lines.split('\n')
+        self.wordList = sorted(self.wordList)
+        self.wordListLength = len(self.wordList)
+
+
+    #-----------------********************-----------------#
+    def findElemInWordDict(self, wordElem, preElemindex = None):
+        '''
+            description: find wordElem in wordList use binary search,
+                        and if "PreElemindex" is not None,
+                        will search element behind "PreElemindex"
+            input:
+                wordElem: the word to be find
+                preElemindex: the index of  previously find elememt
+            output:
+                True: find the wordElem
+                False: not find the wordElem
+        '''
+        inpreElemindex = preElemindex
+        wordListLeft = 0
+        wordListRight = self.wordListLength-1
+        wordListMid = int((wordListLeft+wordListRight)/2)
+        if preElemindex == None:#
+            while(wordListLeft<=wordListRight):#the binary search
+                if (self.wordList[wordListMid] in wordElem) & (wordElem in self.wordList[wordListMid]):
+                    self.wordElemIndex =  wordListMid
+                    #print self.wordElemIndex
+                    return True
+                elif self.wordList[wordListMid]>wordElem:
+                    wordListRight = wordListMid-1
+                    wordListMid = int((wordListLeft+wordListRight)/2)
+                else:
+                    wordListLeft = wordListMid+1
+                    wordListMid = int((wordListLeft+wordListRight)/2)
+            #print "First NONE"
+            return False
+        else:
+            self.wordElemIndex = preElemindex #search element behind "PreElemindex"
+            while(self.wordElemIndex<=self.wordListLength):
+                if self.wordList[preElemindex] in self.wordList[self.wordElemIndex]:
+                    if (wordElem in self.wordList[self.wordElemIndex]) & (self.wordList[self.wordElemIndex] in wordElem):
+                        #print self.wordElemIndex
+                        return True
+                    else:
+                        self.wordElemIndex +=1
+                else:
+                    #print "Second NONE"
+                    return False
+
+
+
+
+    #-----------------********************-----------------#
+    def MMSEGStep1MaxThreeLength(self, sentence, wordsTable):
+        '''
+            description: base on three continuous words ,
+                        and select the max length of the sum of three words
+            input:
+                sentence: the sentence to be participle
+                wordsTable: the reference word dictionary
+            output:
+                True : select the best participle
+                False : not select the best participle ,need the next step
+        '''
+        #divide the sentence into single character
+        rePattern = re.compile('''(?:[0-\x79]{1}?|[\x80-\xff]{3}?)''')
+        sentenceSingleWordList = rePattern.findall(sentence)
+        word1Left = 0
+        word1RightTemp = 0
+        word1Right = word1Left
+        word2Left = 0
+        word2RightTemp = 0
+        word2Right = word2Left
+        word3Left = 0
+        word3Right = word3Left
+        word1Elem = ""
+        word2Elem = ""
+        word3Elem = ""
+        cacheWord1Elem = ""
+        cacheWord2Elem = ""
+        cacheWord3Elem = ""
+        FirstUnSpreadableFlag = True
+        SecondUnSpreadableFlag = True
+        self.participleList = []
+        self.cacheParticipleList = []
+        self.sentencePartWordList = []
+        while(word1Right<len(sentenceSingleWordList)-1):
+            #pdb.set_trace()
+            word1Elem, word2Elem, word3Elem, word1Right, word2Right= self.findThreeElements(word1Left, word1Right, 0, sentenceSingleWordList);
+            print "start: "+word1Elem, word2Elem, word3Elem
+
+            word1Right = word1Right+1
+            while(word2Right<=len(sentenceSingleWordList)-1):
+                #扩展第一个词
+                cacheWord1Elem, cacheWord2Elem, cacheWord3Elem, word1Right, word2Right= self.findThreeElements(word1Left, word1Right, 1, sentenceSingleWordList)
+                if cacheWord1Elem == word1Elem:#扩展失败，跳出n
+                    FirstUnSpreadableFlag = True
+                else:#继续扩展
+                    FirstUnSpreadableFlag = False
+                    word1Elem = cacheWord1Elem
+                    word2Elem = cacheWord2Elem
+                    word3Elem = cacheWord3Elem
+                    word1Left = word1Left
+                    word1Right = word1Right+1
+                print "first: "+word1Elem, word2Elem, word3Elem
+                if FirstUnSpreadableFlag:
+                    word2Left = word1Right+1
+                else:
+                    word2Left = word1Right
+                word2Right = word2Right+1
+                if(word2Right<len(sentenceSingleWordList)-1):
+                    #扩展第二个词
+                    cacheWord1Elem, cacheWord2Elem, cacheWord3Elem, word1RightTemp, word2Right= self.findThreeElements(word2Left, word2Right, 2, sentenceSingleWordList)
+                    if cacheWord2Elem == word2Elem:
+                        SecondUnSpreadableFlag = True
+                    else:
+                        SecondUnSpreadableFlag = False
+                        word2Elem = cacheWord2Elem
+                        word3Elem = cacheWord3Elem
+                        word2Right = word2Right+1
+                print "second: "+word1Elem, word2Elem, word3Elem
+                if (FirstUnSpreadableFlag & SecondUnSpreadableFlag):
+                    print "break"
+                    break
+            #self.findElemInWordDict(word1Elem)
+            self.sentencePartWordList.append(word1Elem)
+            print "end: "+word1Elem, word2Elem, word3Elem  #self.sentencePartWordList
+            word1Left = word2Left
+            word1Right = word1Left
+        self.sentencePartWordList.append(word2Elem)
+        self.sentencePartWordList.append(word3Elem)
+
+
+    #-----------------********************-----------------#
+    def findThreeElements(self ,startLeft, startRight, spreadFlag,sentenceSingleWordList):
+        word1Elem = ""
+        word2Elem = ""
+        word3Elem = ""
+        tempElem = ""
+        word1Left = 0
+        word1Right = word1Left
+        word2Left = 0
+        word2Right = word2Left
+        word3Left = 0
+        word3Right = word3Left
+        if spreadFlag == 0:
+            #search the first element use Minimum Matching
+            word1Left = startLeft
+            word1Right = startRight
+            cacheRightIndex = word1Right
+            sentenceSingleWordList = sentenceSingleWordList
+            for i in range(word1Left, word1Right+1):  #get the left element
+                word1Elem = word1Elem + sentenceSingleWordList[i]
+            tempElem = word1Elem
+            while(self.findElemInWordDict(tempElem) == False):
+                if((word1Right-word1Left+1 < self.maxWordLength) & (word1Right < len(sentenceSingleWordList)-1)):
+                    word1Right = word1Right+1
+                    tempElem = tempElem + sentenceSingleWordList[word1Right]
+                else:
+                    word1Right = cacheRightIndex
+                    tempElem = word1Elem #如果找不到和这个字相关的词，就默认为单字词
+                    break
+            word1Elem = tempElem
+            if word1Right >= len(sentenceSingleWordList)-1:
+                word2Elem = ""
+                word3Elem = ""
+                #print word1Elem, word2Elem, word3Elem
+                return word1Elem, word2Elem, word3Elem, word1Right, word2Right
+
+            #search the Second element use Minimum Matching
+            word2Left = word1Right+1
+            word2Right = word2Left
+            cacheRightIndex = word2Right
+            for i in range(word2Left, word2Right+1):  #get the left element
+                word2Elem = word2Elem + sentenceSingleWordList[i]
+            tempElem = word2Elem
+            while(self.findElemInWordDict(tempElem) == False):
+                if((word2Right-word2Left+1 < self.maxWordLength) & (word2Right < len(sentenceSingleWordList)-1)):
+                    word2Right = word2Right+1
+                    tempElem = tempElem + sentenceSingleWordList[word2Right]
+                else:
+                    word2Right = cacheRightIndex
+                    tempElem = word2Elem #如果找不到和这个字相关的词，就默认为单字词
+                    break
+            word2Elem = tempElem
+            if word2Right >= len(sentenceSingleWordList)-1:
+                word3Elem = ""
+                #print word1Elem, word2Elem, word3Elem
+                return word1Elem, word2Elem, word3Elem, word1Right, word2Right
+        elif spreadFlag == 1:
+
+            #spread the first element use Minimum Matching
+            word1Left = startLeft
+            word1Right = startRight
+            cacheRightIndex = word1Right
+            sentenceSingleWordList = sentenceSingleWordList
+            for i in range(word1Left, word1Right):  #get the left element
+                word1Elem = word1Elem + sentenceSingleWordList[i]
+            tempElem = word1Elem+sentenceSingleWordList[word1Right]
+            while(self.findElemInWordDict(tempElem) == False):
+                if((word1Right-word1Left+1 < self.maxWordLength) & (word1Right < len(sentenceSingleWordList)-1)):
+                    word1Right = word1Right+1
+                    tempElem = tempElem + sentenceSingleWordList[word1Right]
+                else:
+                    word1Right = cacheRightIndex-1
+                    tempElem = word1Elem #如果找不到和这个字相关的词，就默认为单字词
+                    break
+            #if(self.findElemInWordDict(tempElem) == True):
+            #    print tempElem
+            word1Elem = tempElem
+            if word1Right >= len(sentenceSingleWordList)-1:
+                word2Elem = ""
+                word3Elem = ""
+                #print word1Elem, word2Elem, word3Elem
+                return word1Elem, word2Elem, word3Elem, word1Right, word2Right
+
+            #search the Second element use Minimum Matching
+            word2Left = word1Right+1
+            word2Right = word2Left
+            cacheRightIndex = word2Right
+            word2Elem = ""
+            for i in range(word2Left, word2Right+1):  #get the left element
+                word2Elem = word2Elem + sentenceSingleWordList[i]
+            tempElem = word2Elem
+            while(self.findElemInWordDict(tempElem) == False):
+                if((word2Right-word2Left+1 < self.maxWordLength) & (word2Right < len(sentenceSingleWordList)-1)):
+                    word2Right = word2Right+1
+                    tempElem = tempElem + sentenceSingleWordList[word2Right]
+                else:
+                    word2Right = cacheRightIndex
+                    tempElem = word2Elem #如果找不到和这个字相关的词，就默认为单字词
+                    break
+            word2Elem = tempElem
+            if word2Right >= len(sentenceSingleWordList)-1:
+                word3Elem = ""
+                #print word1Elem, word2Elem, word3Elem
+                return word1Elem, word2Elem, word3Elem, word1Right, word2Right
+        elif spreadFlag == 2:
+            #spread the Second element use Minimum Matching
+            word2Left = startLeft
+            word2Right = startRight
+            cacheRightIndex = word2Right
+            for i in range(word2Left, word2Right):
+                word2Elem = word2Elem + sentenceSingleWordList[i]
+            tempElem = word2Elem + sentenceSingleWordList[word2Right]
+            while(self.findElemInWordDict(tempElem) == False):
+                if((word2Right-word2Left+1 < self.maxWordLength) & (word2Right < len(sentenceSingleWordList)-1)):
+                    word2Right = word2Right+1
+                    tempElem = tempElem + sentenceSingleWordList[word2Right]
+                else:
+                    word2Right = cacheRightIndex-1
+                    tempElem = word2Elem #如果找不到和这个字相关的词，就默认为单字词
+                    break
+            word2Elem = tempElem
+            if word2Right >= len(sentenceSingleWordList)-1:
+                word3Elem = ""
+                #print word1Elem, word2Elem, word3Elem
+                return word1Elem, word2Elem, word3Elem, word1Right, word2Right
+        #search the third elememt use Maximum Matching
+        word3Left = word2Right+1
+        word3Right = word3Left
+        if(len(sentenceSingleWordList)-word3Left > self.maxWordLength):
+            word3Elem=sentenceSingleWordList[word3Left]
+            tempElem = ""
+            for i in range(word3Left,word3Left+self.maxWordLength):
+                tempElem = tempElem + sentenceSingleWordList[i]
+                if self.findElemInWordDict(tempElem):
+                    word3Elem = tempElem
+        else:
+            word3Elem=sentenceSingleWordList[word3Left]
+            tempElem = ""
+            for i in range(word3Left,len(sentenceSingleWordList)):
+                tempElem = tempElem + sentenceSingleWordList[i]
+                if self.findElemInWordDict(tempElem):
+                    word3Elem = tempElem
+
+
+        ##while(!self.findElemInWordDict(word3Elem)):
+        ##    if(word3Right - word3Left + 1 < self.maxWordLength)
+        ##        word3Right = word3Right+1
+        ##        word3Elem = word3Elem + sentenceSingleWordList[word3Right]
+        ##    else:
+        ##        word3Right = word3Left
+        ##        word3Elem = sentenceSingleWordList[word3Left]
+        ##        break
+        #print word1Elem, word2Elem, word3Elem
+        return word1Elem, word2Elem, word3Elem, word1Right, word2Right
+
+
+    #-----------------********************-----------------#
+    def MMSEGStep2MaxAverageLength(self, step1Result):
+        pass
+
+    #-----------------********************-----------------#
+    def MMSEGStep3MinVariance(self, step2Result):
+        pass
+
+    #-----------------********************-----------------#
+    def MMSEGStep4MaxWordCount(self, step3Result):
+        pass
+
+
+
+
+#preelemIndex = 0
+wordfilepath = "/home/warrior/gitDir/PythonCode/MyParticiple/dataSource/gold/pku_training_words.utf8"
+mmseg = MMSEG()
+mmseg.getwordsDict(wordfilepath)
+wordelem1 = "。"
+mmseg.findElemInWordDict(wordelem1)
+print mmseg.wordElemIndex
+#preElemIndex = mmseg.wordElemIndex
+#curElemIndex = mmseg.findElemInWordDict(wordelem2, preElemIndex)
+for i in range(mmseg.wordElemIndex,mmseg.wordElemIndex+20):
+    print("%d: %s\n" % (i, mmseg.wordList[i]))

@@ -1,0 +1,13 @@
+
+		<html>
+		<head>
+		<title>新浪通行证</title>
+		<meta http-equiv="refresh" content="0; url=&#39;http://passport.weibo.com/wbsso/login?ssosavestate=1480598859&url=http%3A%2F%2Fweibo.com%2Fu%2F2631208437%2Fhome%3Fwvr%3D5%26lf%3Dreg&ticket=ST-MjYzMTIwODQzNw==-1449064679-xd-AC8FE1E311E34AC1114A2ED305C3CBBA&retcode=0&#39;"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+		</head>
+		<body bgcolor="#ffffff" text="#000000" link="#0000cc" vlink="#551a8b" alink="#ff0000">
+		<script type="text/javascript" language="javascript">
+		location.replace("http://passport.weibo.com/wbsso/login?ssosavestate=1480598859&url=http%3A%2F%2Fweibo.com%2Fu%2F2631208437%2Fhome%3Fwvr%3D5%26lf%3Dreg&ticket=ST-MjYzMTIwODQzNw==-1449064679-xd-AC8FE1E311E34AC1114A2ED305C3CBBA&retcode=0");
+		</script>
+		</body>
+		</html>
