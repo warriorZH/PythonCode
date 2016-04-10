@@ -1,0 +1,10827 @@
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----1
+﻿「							      |	﻿
+							      >	「
+練								練
+得								得
+銅皮鐵骨						      |	銅
+」							      |	皮
+							      >	鐵
+							      >	骨」
+露宿								露宿
+早							      |	早慣
+慣							      <
+蚊叮								蚊叮
+INSERTIONS:	3
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	8
+NTRUTH:	9
+NTEST:	11
+TRUE WORDS RECALL:	0.444
+TEST WORDS PRECISION:	0.364
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----2
+本							      |	本港
+港							      |	約有
+約							      |	450至
+有							      |	600名
+450							      |	露宿
+至							      |	者
+600							      <
+名							      <
+露宿者							      <
+，								，
+其中							      |	其
+近							      |	中近
+四分之一							四分之一
+，								，
+即								即
+約							      |	約150
+150							      |	人露
+人							      |	宿
+露宿							      <
+在								在
+深水埗							      |	深水
+							      >	埗
+。								。
+INSERTIONS:	1
+DELETIONS:	4
+SUBSTITUTIONS:	12
+NCHANGE:	17
+NTRUTH:	22
+NTEST:	19
+TRUE WORDS RECALL:	0.273
+TEST WORDS PRECISION:	0.316
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----3
+有								有
+外展								外展
+社工								社工
+稱								稱
+，								，
+露宿者							      |	露宿
+							      >	者
+日間								日間
+多							      |	多到
+到							      <
+商場								商場
+等								等
+冷氣							      |	冷
+場所							      |	氣場
+							      >	所
+避暑								避暑
+，							      |	，流
+流連							      |	連至
+至							      <
+晚上								晚上
+11								11
+、								、
+12								12
+時								時
+，								，
+才								才
+用							      |	用紙
+紙皮							      |	皮
+在								在
+公園								公園
+外							      |	外「
+「							      |	打地
+打地鋪							      |	鋪
+」								」
+，								，
+他們								他們
+早已								早已
+「								「
+練							      |	練得
+得							      |	一身銅
+一							      |	皮
+身							      |	鐵
+銅皮鐵骨						      |	骨
+」								」
+，								，
+徹夜								徹夜
+被								被
+蚊							      |	蚊叮
+叮							      <
+也								也
+習以為常							習以為常
+，								，
+但								但
+社工								社工
+在								在
+炎夏							      |	炎
+							      >	夏
+仍								仍
+會							      |	會頻
+頻頻							      |	頻給
+給							      |	他
+他們							      |	們派
+派發							      |	發
+蚊香								蚊香
+。								。
+INSERTIONS:	3
+DELETIONS:	3
+SUBSTITUTIONS:	23
+NCHANGE:	29
+NTRUTH:	62
+NTEST:	62
+TRUE WORDS RECALL:	0.581
+TEST WORDS PRECISION:	0.581
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----4
+基督教								基督教
+關懷								關懷
+無家者							      |	無家
+							      >	者
+協會								協會
+的								的
+外展								外展
+社工								社工
+，								，
+過去								過去
+一直								一直
+有								有
+探訪								探訪
+李鄭屋							      |	李
+							      >	鄭
+							      >	屋
+遊樂場								遊樂場
+外								外
+的								的
+露宿者							      |	露宿
+							      >	者
+，								，
+該								該
+會							      |	會總
+總幹事							      |	幹事
+賴淑芬							      |	賴
+							      >	淑
+							      >	芬
+說								說
+，								，
+該								該
+處								處
+的								的
+露宿者							      |	露宿
+只							      |	者
+有							      |	只有
+數								數
+人								人
+，								，
+且								且
+流動性								流動性
+很								很
+大								大
+。								。
+INSERTIONS:	6
+DELETIONS:	0
+SUBSTITUTIONS:	9
+NCHANGE:	15
+NTRUTH:	38
+NTEST:	44
+TRUE WORDS RECALL:	0.763
+TEST WORDS PRECISION:	0.659
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----5
+不管								不管
+被								被
+多少								多少
+蚊							      |	蚊叮
+叮							      <
+也								也
+沒							      |	沒什
+什							      <
+感覺								感覺
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	9
+NTEST:	7
+TRUE WORDS RECALL:	0.556
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----6
+她								她
+指								指
+這些								這些
+露宿者							      |	露宿
+							      >	者
+日間								日間
+都							      |	都會
+會							      <
+流連								流連
+於								於
+冷氣								冷氣
+場所								場所
+，								，
+晚上								晚上
+才							      |	才到
+到							      |	遊樂
+遊樂場							      |	場露
+露宿							      |	宿
+，							      |	，但
+但							      <
+礙於								礙於
+遊樂場								遊樂場
+晚上								晚上
+關門								關門
+，								，
+他們								他們
+只								只
+可								可
+在								在
+外圍								外圍
+「								「
+打地鋪							      |	打地
+」							      |	鋪」
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	9
+NCHANGE:	12
+NTRUTH:	33
+NTEST:	32
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.688
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----7
+由於								由於
+附近								附近
+多								多
+草叢								草叢
+，							      |	，晚
+晚上							      |	上人
+人流							      |	流少
+少							      |	，部
+，							      |	分露
+部分							      |	宿者
+露宿者							      <
+又								又
+因為								因為
+個人								個人
+衛生								衛生
+問題								問題
+，								，
+總								總
+成為								成為
+蚊叮								蚊叮
+對象								對象
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	7
+NTRUTH:	22
+NTEST:	21
+TRUE WORDS RECALL:	0.682
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----8
+但								但
+露宿者							      |	露宿
+							      >	者
+早已								早已
+習慣								習慣
+被								被
+蚊								蚊
+叮								叮
+，								，
+不管								不管
+被								被
+多少								多少
+蚊							      |	蚊叮
+叮							      <
+也								也
+沒							      |	沒什
+什							      <
+感覺								感覺
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	3
+NCHANGE:	6
+NTRUTH:	18
+NTEST:	17
+TRUE WORDS RECALL:	0.722
+TEST WORDS PRECISION:	0.765
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----9
+不過								不過
+，								，
+有些								有些
+露宿者							      |	露宿
+							      >	者
+一樣								一樣
+被								被
+蚊								蚊
+叮							      |	叮至
+至							      <
+痕癢								痕癢
+入							      |	入心
+心							      <
+，								，
+要								要
+不斷								不斷
+換								換
+位								位
+找								找
+個							      |	個較
+較							      |	少蚊
+少							      <
+蚊							      <
+的								的
+地方								地方
+睡覺								睡覺
+，								，
+故								故
+徹夜難眠							徹夜難眠
+。								。
+INSERTIONS:	1
+DELETIONS:	4
+SUBSTITUTIONS:	5
+NCHANGE:	10
+NTRUTH:	29
+NTEST:	26
+TRUE WORDS RECALL:	0.690
+TEST WORDS PRECISION:	0.769
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----10
+賴淑芬							      |	賴
+							      >	淑
+							      >	芬
+指								指
+區內								區內
+露宿者							      |	露宿
+							      >	者
+之								之
+家								家
+經常								經常
+「							      |	「爆
+爆滿							      |	滿
+」								」
+，								，
+他們							      |	他
+未必							      |	們
+有							      |	未
+位							      |	必有
+入住							      |	位入
+﹔							      |	住﹔
+INSERTIONS:	3
+DELETIONS:	0
+SUBSTITUTIONS:	10
+NCHANGE:	13
+NTRUTH:	17
+NTEST:	20
+TRUE WORDS RECALL:	0.412
+TEST WORDS PRECISION:	0.350
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----11
+有些								有些
+人								人
+又								又
+不							      |	不願
+願							      <
+遵守								遵守
+宿舍								宿舍
+規矩								規矩
+，								，
+即使								即使
+捱熱							      |	捱
+							      >	熱
+兼								兼
+「							      |	「周
+周身癢							      |	身癢
+」								」
+，								，
+也								也
+寧願								寧願
+露宿								露宿
+街頭								街頭
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	6
+NTRUTH:	21
+NTEST:	21
+TRUE WORDS RECALL:	0.762
+TEST WORDS PRECISION:	0.762
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----12
+但								但
+居於								居於
+附近								附近
+的								的
+街坊							      |	街
+批評							      |	坊批
+有關							      |	評有
+露宿者							      |	關露
+不							      |	宿者
+注重							      |	不注
+衛生							      |	重衛
+							      >	生
+，								，
+促請								促請
+政府								政府
+助								助
+他們								他們
+搬走								搬走
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	7
+NCHANGE:	8
+NTRUTH:	18
+NTEST:	19
+TRUE WORDS RECALL:	0.611
+TEST WORDS PRECISION:	0.579
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----13
+然而								然而
+，								，
+在								在
+南昌街							      |	南
+與							      |	昌
+通州街							      |	街
+							      >	與通
+							      >	州街
+交界								交界
+天橋							      |	天橋底
+底							      <
+生活								生活
+、								、
+依靠								依靠
+綜援								綜援
+過活								過活
+的								的
+露宿者							      |	露宿
+張							      |	者
+先生							      |	張先
+							      >	生
+稱								稱
+，								，
+露宿者							      |	露宿
+							      >	者
+也								也
+很								很
+自律								自律
+，								，
+將								將
+雜物								雜物
+棄置								棄置
+發泡膠箱						      |	發
+內							      |	泡
+							      >	膠
+							      >	箱內
+，								，
+每								每
+晚								晚
+輪流							      |	輪
+將							      |	流將
+垃圾箱							      |	垃圾
+搬							      |	箱
+到							      |	搬到
+附近								附近
+垃圾站								垃圾站
+，								，
+免							      |	免滋
+滋生							      |	生蚊
+蚊蟲							      |	蟲
+。								。
+INSERTIONS:	6
+DELETIONS:	1
+SUBSTITUTIONS:	18
+NCHANGE:	25
+NTRUTH:	45
+NTEST:	50
+TRUE WORDS RECALL:	0.578
+TEST WORDS PRECISION:	0.520
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----14
+「								「
+在								在
+街頭								街頭
+露宿								露宿
+多								多
+年								年
+，								，
+什麼								什麼
+都								都
+習慣								習慣
+了								了
+，								，
+但								但
+即使								即使
+被								被
+蚊								蚊
+叮								叮
+，								，
+也								也
+沒								沒
+辦法								辦法
+。							      |	。」
+」							      <
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	23
+NTEST:	22
+TRUE WORDS RECALL:	0.913
+TEST WORDS PRECISION:	0.955
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----15
+張								張
+又								又
+說								說
+，								，
+踏入								踏入
+夏季								夏季
+會								會
+不時							      |	不
+到							      |	時到
+附近								附近
+公廁								公廁
+洗澡								洗澡
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	13
+NTEST:	13
+TRUE WORDS RECALL:	0.846
+TEST WORDS PRECISION:	0.846
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----16
+社工								社工
+派							      |	派蚊
+蚊香							      |	香
+「								「
+寶物								寶物
+」							      |	」放
+放							      <
+床底								床底
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	8
+NTEST:	7
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.571
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----17
+自稱								自稱
+「							      |	「阿
+阿叔							      |	叔」
+」							      <
+的								的
+露宿者							      |	露宿
+							      >	者
+說								說
+，								，
+社工								社工
+探訪								探訪
+時							      |	時會
+會							      <
+派								派
+蚊香							      |	蚊
+							      >	香
+，								，
+他								他
+將								將
+蚊香							      |	蚊
+							      >	香
+視為								視為
+「								「
+寶物								寶物
+」								」
+，								，
+放								放
+在								在
+床下								床下
+，								，
+免								免
+被								被
+偷走								偷走
+。								。
+INSERTIONS:	3
+DELETIONS:	2
+SUBSTITUTIONS:	6
+NCHANGE:	11
+NTRUTH:	31
+NTEST:	32
+TRUE WORDS RECALL:	0.742
+TEST WORDS PRECISION:	0.719
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----18
+社區								社區
+組織								組織
+協會								協會
+社區								社區
+組織								組織
+幹事								幹事
+吳衛東							      |	吳衛
+							      >	東
+指出								指出
+，								，
+露宿者							      |	露宿
+							      >	者
+對								對
+蚊叮							      |	蚊
+							      >	叮
+早已								早已
+習慣								習慣
+，								，
+但								但
+如今								如今
+有								有
+露宿者							      |	露宿
+							      >	者
+「								「
+中招								中招
+」								」
+，								，
+政府								政府
+應								應
+安排							      |	安
+為							      |	排為
+他們								他們
+注射								注射
+疫苗								疫苗
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	10
+NTRUTH:	31
+NTEST:	35
+TRUE WORDS RECALL:	0.806
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----19
+深水埗							      |	深水
+鴉患							      |	埗鴉
+							      >	患
+可								可
+傳播								傳播
+病毒								病毒
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	3
+NTRUTH:	5
+NTEST:	6
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.500
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----20
+最								最
+新								新
+一								一
+宗								宗
+日本								日本
+腦炎								腦炎
+患者								患者
+露宿								露宿
+李鄭屋							      |	李
+							      >	鄭
+							      >	屋
+遊樂場								遊樂場
+，								，
+該								該
+處							      |	處近
+近							      |	李
+李鄭屋							      |	鄭
+							      >	屋
+古墓								古墓
+一帶								一帶
+，								，
+有								有
+亭台樓閣						      |	亭
+							      >	台
+							      >	樓
+							      >	閣
+流水								流水
+，								，
+公園								公園
+和								和
+屋邨								屋邨
+背後								背後
+的								的
+山坡								山坡
+都								都
+有								有
+茂密							      |	茂
+							      >	密
+草叢								草叢
+，								，
+有								有
+區								區
+議員							      |	議
+指							      |	員指
+蚊子								蚊子
+易								易
+滋生								滋生
+，								，
+雖然								雖然
+附近								附近
+沒有								沒有
+豬隻								豬隻
+可								可
+將								將
+日本								日本
+腦炎								腦炎
+病毒								病毒
+傳							      |	傳給
+給							      <
+蚊子								蚊子
+，								，
+卻								卻
+有								有
+同樣								同樣
+可							      |	可傳
+傳播							      |	播病
+病毒							      |	毒
+的								的
+雀鳥								雀鳥
+，								，
+尤其								尤其
+區內								區內
+家鴉							      |	家
+							      >	鴉
+問題								問題
+嚴重								嚴重
+。								。
+INSERTIONS:	8
+DELETIONS:	1
+SUBSTITUTIONS:	13
+NCHANGE:	22
+NTRUTH:	69
+NTEST:	76
+TRUE WORDS RECALL:	0.797
+TEST WORDS PRECISION:	0.724
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----21
+古墓								古墓
+旁							      |	旁涼
+涼亭							      |	亭多
+多							      <
+長者								長者
+納涼								納涼
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	2
+NCHANGE:	3
+NTRUTH:	6
+NTEST:	5
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----22
+漁護署								漁護署
+過去								過去
+曾								曾
+抽驗							      |	抽
+本							      |	驗本
+港								港
+雀鳥								雀鳥
+樣本								樣本
+，								，
+其中								其中
+烏鴉							      |	烏
+							      >	鴉
+驗出								驗出
+日腦								日腦
+病毒								病毒
+的								的
+比率								比率
+較								較
+高								高
+，								，
+而								而
+深水埗區						      |	深水
+							      >	埗區
+近年								近年
+正							      |	正受
+受							      <
+家鴉								家鴉
+為患							      |	為
+							      >	患
+影響								影響
+，							      |	，集
+集結							      |	結麗
+麗閣邨							      |	閣邨
+一帶								一帶
+。								。
+INSERTIONS:	3
+DELETIONS:	1
+SUBSTITUTIONS:	9
+NCHANGE:	13
+NTRUTH:	32
+NTEST:	34
+TRUE WORDS RECALL:	0.688
+TEST WORDS PRECISION:	0.647
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----23
+研究								研究
+家鴉							      |	家
+							      >	鴉
+問題								問題
+的								的
+大埔								大埔
+環保								環保
+協進會								協進會
+自然								自然
+保育								保育
+顧問								顧問
+詹肇泰							      |	詹肇
+							      >	泰
+認為								認為
+，								，
+雀鳥								雀鳥
+有							      |	有機
+機會							      |	會
+將								將
+日腦								日腦
+病毒								病毒
+傳							      |	傳給
+給							      <
+蚊子								蚊子
+，								，
+但								但
+礙於								礙於
+不								不
+知道								知道
+患者								患者
+是否								是否
+曾								曾
+到								到
+過								過
+郊區								郊區
+或								或
+豬場								豬場
+等								等
+地								地
+，								，
+難以								難以
+單憑								單憑
+區內								區內
+有								有
+家鴉							      |	家
+，							      |	鴉
+便							      |	，便
+認定								認定
+與								與
+個案								個案
+有關								有關
+，								，
+故								故
+不宜								不宜
+作								作
+太								太
+多								多
+猜測								猜測
+。								。
+INSERTIONS:	2
+DELETIONS:	1
+SUBSTITUTIONS:	8
+NCHANGE:	11
+NTRUTH:	57
+NTEST:	58
+TRUE WORDS RECALL:	0.842
+TEST WORDS PRECISION:	0.828
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----24
+有								有
+深水埗							      |	深水
+							      >	埗
+街坊								街坊
+說								說
+，								，
+露宿者							      |	露宿
+常							      |	者常
+在								在
+古墓							      |	古
+旁							      |	墓旁
+的								的
+涼亭								涼亭
+休憩								休憩
+，								，
+該							      |	該涼
+涼亭							      |	亭亦
+亦							      <
+深受								深受
+長者								長者
+歡迎								歡迎
+，								，
+晝夜								晝夜
+都								都
+有								有
+一								一
+批								批
+長者								長者
+到來								到來
+閒談								閒談
+納涼							      |	納
+							      >	涼
+等								等
+，								，
+高峰								高峰
+時							      |	時每
+每							      <
+晚								晚
+有								有
+百							      |	百人
+人							      <
+聚集								聚集
+，								，
+涼亭								涼亭
+附近								附近
+雖								雖
+有								有
+草叢								草叢
+及								及
+大樹								大樹
+，								，
+但								但
+街坊								街坊
+稱							      |	稱蚊
+蚊患							      |	患
+不算								不算
+嚴重								嚴重
+。								。
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	12
+NCHANGE:	17
+NTRUTH:	56
+NTEST:	55
+TRUE WORDS RECALL:	0.732
+TEST WORDS PRECISION:	0.745
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----25
+但								但
+住								住
+在								在
+李鄭屋邨						      |	李
+							      >	鄭
+							      >	屋邨
+附近								附近
+的								的
+李伯							      |	李
+							      >	伯
+說								說
+，								，
+每								每
+日								日
+到								到
+公園								公園
+晨運								晨運
+都							      |	都會
+會							      <
+被								被
+蚊								蚊
+叮								叮
+6								6
+、								、
+7								7
+次								次
+，								，
+夜間								夜間
+及								及
+雨後								雨後
+蚊子								蚊子
+特別								特別
+多								多
+。								。
+INSERTIONS:	3
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	7
+NTRUTH:	31
+NTEST:	33
+TRUE WORDS RECALL:	0.871
+TEST WORDS PRECISION:	0.818
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----26
+深水埗區						      |	深水
+							      >	埗區
+議員								議員
+陳偉明							      |	陳偉
+指							      |	明指
+深水埗							      |	深水
+							      >	埗
+蚊患								蚊患
+嚴重								嚴重
+，								，
+因								因
+區內								區內
+人口								人口
+老化								老化
+，								，
+不少								不少
+長者								長者
+不							      |	不注
+注意							      |	意積
+積水							      |	水問
+問題							      |	題
+，								，
+容易								容易
+養蚊								養蚊
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	8
+NCHANGE:	10
+NTRUTH:	23
+NTEST:	25
+TRUE WORDS RECALL:	0.652
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----27
+記者							      |	記
+昨							      |	者
+查察							      |	昨查
+發現							      |	察發
+							      >	現
+，								，
+李鄭屋邨						      |	李
+							      >	鄭
+							      >	屋邨
+旁邊								旁邊
+有								有
+一								一
+條								條
+長							      |	長約
+約							      |	200米
+200							      <
+米							      <
+的								的
+明渠								明渠
+，								，
+臭氣熏天							臭氣熏天
+，								，
+街坊							      |	街
+說							      |	坊說
+臭味								臭味
+多								多
+年								年
+未								未
+見								見
+改善								改善
+。								。
+INSERTIONS:	3
+DELETIONS:	2
+SUBSTITUTIONS:	9
+NCHANGE:	14
+NTRUTH:	28
+NTEST:	29
+TRUE WORDS RECALL:	0.607
+TEST WORDS PRECISION:	0.586
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----28
+渠務署								渠務署
+表示								表示
+，								，
+今年								今年
+4月								4月
+開始								開始
+已								已
+加強								加強
+渠道								渠道
+除草								除草
+去							      |	去積
+積水							      |	水
+工作								工作
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	14
+NTEST:	14
+TRUE WORDS RECALL:	0.857
+TEST WORDS PRECISION:	0.857
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----29
+房屋署								房屋署
+發言人								發言人
+表示								表示
+，								，
+李鄭屋邨						      |	李
+							      >	鄭
+							      >	屋
+							      >	邨
+是								是
+已								已
+出售								出售
+公屋								公屋
+，								，
+負責								負責
+管理								管理
+的								的
+房協								房協
+近日							      |	近
+							      >	日
+已								已
+加強								加強
+滅蚊								滅蚊
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	6
+NTRUTH:	19
+NTEST:	23
+TRUE WORDS RECALL:	0.895
+TEST WORDS PRECISION:	0.739
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----30
+媽媽								媽媽
+囡囡								囡囡
+出入								出入
+噴							      |	噴蚊
+蚊怕水							      |	怕水
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	5
+NTEST:	5
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----31
+林太							      |	林
+							      >	太
+與								與
+女兒								女兒
+出出入入						      |	出
+都							      |	出入
+會							      |	入
+							      >	都會
+路經								路經
+李鄭屋							      |	李
+遊樂場							      |	鄭
+							      >	屋遊
+							      >	樂場
+對開								對開
+的								的
+漢花園							      |	漢
+							      >	花園
+。								。
+INSERTIONS:	5
+DELETIONS:	0
+SUBSTITUTIONS:	7
+NCHANGE:	12
+NTRUTH:	13
+NTEST:	18
+TRUE WORDS RECALL:	0.462
+TEST WORDS PRECISION:	0.333
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----32
+她								她
+表示								表示
+自己								自己
+跟								跟
+囡囡								囡囡
+間中								間中
+也								也
+會								會
+被								被
+蚊								蚊
+叮								叮
+，								，
+但								但
+她								她
+認為								認為
+避無可避							避無可避
+，								，
+就算								就算
+被								被
+蚊								蚊
+叮								叮
+，								，
+也								也
+不							      |	不是
+是							      <
+太								太
+嚴重								嚴重
+，								，
+故								故
+不								不
+太							      |	太害
+害怕							      |	怕
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	33
+NTEST:	32
+TRUE WORDS RECALL:	0.879
+TEST WORDS PRECISION:	0.906
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----33
+不過								不過
+，								，
+日後								日後
+外出								外出
+時								時
+都							      |	都會
+會							      <
+噴								噴
+蚊怕水								蚊怕水
+，								，
+做足								做足
+防蚊								防蚊
+措施								措施
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	14
+NTEST:	13
+TRUE WORDS RECALL:	0.857
+TEST WORDS PRECISION:	0.923
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----34
+麥氏								麥氏
+三								三
+姊妹								姊妹
+六							      |	六腳
+腳							      |	蚊
+蚊叮印							      |	叮印
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	3
+NTRUTH:	6
+NTEST:	6
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.500
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----35
+麥氏								麥氏
+三								三
+姊妹								姊妹
+每								每
+日								日
+都								都
+會							      |	會到
+到							      |	李
+李鄭屋邨						      |	鄭
+							      >	屋
+							      >	邨
+的								的
+公園								公園
+玩耍								玩耍
+，								，
+每								每
+次								次
+回家								回家
+後								後
+滿								滿
+腳								腳
+都								都
+留有								留有
+又								又
+紅								紅
+又								又
+腫								腫
+的								的
+蚊叮印							      |	蚊
+							      >	叮
+							      >	印
+，								，
+痕癢								痕癢
+難耐								難耐
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	8
+NTRUTH:	31
+NTEST:	35
+TRUE WORDS RECALL:	0.871
+TEST WORDS PRECISION:	0.771
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----36
+麥								麥
+父								父
+笑說							      |	笑
+﹕							      |	說
+「							      |	﹕「
+想							      |	想要
+要							      <
+勸喻								勸喻
+她們								她們
+不要								不要
+出街								出街
+玩								玩
+，								，
+很								很
+難								難
+了								了
+﹗								﹗
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	5
+NTRUTH:	17
+NTEST:	16
+TRUE WORDS RECALL:	0.706
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----37
+唯有								唯有
+帶								帶
+她們								她們
+到								到
+一些								一些
+較							      |	較少
+少							      <
+蚊								蚊
+的								的
+地方								地方
+玩耍								玩耍
+。							      |	。」
+」							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	13
+NTEST:	11
+TRUE WORDS RECALL:	0.692
+TEST WORDS PRECISION:	0.818
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----38
+他								他
+表示								表示
+四周								四周
+都							      |	都會
+會							      <
+有								有
+蚊								蚊
+，								，
+擔心								擔心
+也								也
+無用								無用
+，								，
+以後								以後
+外出								外出
+或許								或許
+會								會
+為							      |	為三
+三							      |	個女
+個							      |	兒噴
+女兒							      |	蚊怕
+噴							      |	水
+蚊怕水							      <
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	23
+NTEST:	21
+TRUE WORDS RECALL:	0.652
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----39
+機電署							      |	機電
+估計							      |	署估
+停電							      |	計停
+							      >	電
+因								因
+「								「
+大							      |	大開
+開							      |	冷
+冷氣							      |	氣」
+」							      <
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	9
+NTEST:	9
+TRUE WORDS RECALL:	0.222
+TEST WORDS PRECISION:	0.222
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----40
+繼								繼
+牛頭角							      |	牛頭
+住宅區							      |	角住
+							      >	宅區
+周四								周四
+深夜								深夜
+停電								停電
+3								3
+小時								小時
+，								，
+尖沙嘴								尖沙嘴
+酒店區							      |	酒店
+前晚							      |	區前
+亦							      |	晚亦
+停電								停電
+5							      |	5至
+至							      |	20分
+20							      |	鐘
+分鐘							      <
+，								，
+經濟							      |	經
+發展							      |	濟發
+及							      |	展及
+勞工								勞工
+局長								局長
+葉澍堃							      |	葉澍
+對							      |	堃對
+接連								接連
+有							      |	有停
+停電							      |	電事
+事故							      |	故非
+非常							      |	常關
+關注							      |	注
+，								，
+已								已
+要求								要求
+電力								電力
+公司								公司
+解釋								解釋
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	18
+NCHANGE:	20
+NTRUTH:	39
+NTEST:	39
+TRUE WORDS RECALL:	0.513
+TEST WORDS PRECISION:	0.513
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----41
+機電								機電
+工程								工程
+署長								署長
+黎仕海							      |	黎仕
+							      >	海
+說								說
+，								，
+「								「
+表面								表面
+原因								原因
+」							      |	」疑
+疑							      |	與天
+與							      |	氣
+天氣							      <
+酷熱								酷熱
+、								、
+市民								市民
+大								大
+開								開
+冷氣								冷氣
+有關								有關
+，								，
+本								本
+周								周
+將							      |	將與
+與							      <
+電力								電力
+公司								公司
+深入								深入
+研究								研究
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	8
+NTRUTH:	30
+NTEST:	29
+TRUE WORDS RECALL:	0.767
+TEST WORDS PRECISION:	0.793
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----42
+中華								中華
+電力								電力
+承認								承認
+，								，
+持續								持續
+高溫								高溫
+令								令
+供電								供電
+系統								系統
+壓力								壓力
+增								增
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	12
+NTEST:	12
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----43
+本								本
+周							      |	周與
+與							      <
+中電								中電
+研究								研究
+原因								原因
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	6
+NTEST:	5
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.800
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----44
+尖沙嘴								尖沙嘴
+中間道								中間道
+及								及
+棉登徑								棉登徑
+一帶								一帶
+前晚								前晚
+8								8
+時								時
+許								許
+突								突
+停電								停電
+，								，
+半島								半島
+酒店								酒店
+、								、
+九龍								九龍
+酒店								酒店
+及								及
+重慶								重慶
+大廈								大廈
+等								等
+受								受
+影響								影響
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	24
+NTEST:	24
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----45
+半島								半島
+酒店								酒店
+表示								表示
+，								，
+當時								當時
+啟動								啟動
+後備								後備
+電力								電力
+系統							      |	系
+為							      |	統為
+主要								主要
+通道								通道
+提供								提供
+照明								照明
+，								，
+多								多
+間							      |	間餐
+餐廳							      |	廳
+亦								亦
+有								有
+點							      |	點洋
+洋燭							      |	燭
+，								，
+不至								不至
+漆黑								漆黑
+一								一
+片								片
+，								，
+電力								電力
+在								在
+5								5
+分鐘								分鐘
+內								內
+恢復								恢復
+，								，
+無							      |	無發
+發生							      |	生大
+大							      <
+混亂								混亂
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	8
+NCHANGE:	9
+NTRUTH:	40
+NTEST:	39
+TRUE WORDS RECALL:	0.775
+TEST WORDS PRECISION:	0.795
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----46
+中電								中電
+發言人								發言人
+解釋								解釋
+，								，
+前晚								前晚
+8								8
+時								時
+許								許
+尖沙嘴								尖沙嘴
+麼地道								麼地道
+變電站								變電站
+的								的
+變壓器							      |	變壓
+							      >	器
+機件								機件
+故障								故障
+，								，
+停頓								停頓
+3							      |	3分
+分鐘							      |	鐘﹔
+﹔							      <
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	5
+NTRUTH:	20
+NTEST:	20
+TRUE WORDS RECALL:	0.800
+TEST WORDS PRECISION:	0.800
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----47
+至於								至於
+牛頭角							      |	牛頭
+周四							      |	角周
+晚							      |	四晚
+的								的
+事故								事故
+，								，
+則								則
+因								因
+該							      |	該區
+區							      |	兩條
+兩							      <
+條							      <
+電纜								電纜
+非常								非常
+罕有								罕有
+地							      |	地同
+同時							      |	時
+故障								故障
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	7
+NCHANGE:	9
+NTRUTH:	20
+NTEST:	18
+TRUE WORDS RECALL:	0.550
+TEST WORDS PRECISION:	0.611
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----48
+發言人								發言人
+說								說
+，								，
+夏季								夏季
+用電量								用電量
+向來								向來
+較								較
+高								高
+，								，
+天氣								天氣
+持續								持續
+酷熱							      |	酷
+							      >	熱
+令								令
+供電								供電
+系統								系統
+增加								增加
+，								，
+故障								故障
+風險								風險
+亦								亦
+較								較
+高								高
+，								，
+但							      |	但兩
+兩							      |	宗事
+宗							      |	故是
+事故							      |	否與
+是否							      |	天
+與							      |	氣
+天氣							      |	有
+有關							      |	關
+，								，
+有待								有待
+深入								深入
+調查								調查
+，								，
+中電								中電
+會								會
+加強								加強
+監察								監察
+供電								供電
+系統								系統
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	9
+NCHANGE:	10
+NTRUTH:	43
+NTEST:	44
+TRUE WORDS RECALL:	0.791
+TEST WORDS PRECISION:	0.773
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----49
+葉澍堃							      |	葉
+							      >	澍
+							      >	堃
+昨								昨
+表示								表示
+已								已
+要求								要求
+電力								電力
+公司								公司
+提交								提交
+報告								報告
+解釋								解釋
+原因								原因
+及								及
+有								有
+何							      |	何措
+措施							      |	施確
+確保							      |	保減
+減少							      |	少停
+停電							      |	電
+，								，
+政府								政府
+非常								非常
+關注								關注
+事件								事件
+，								，
+希望								希望
+盡快								盡快
+取得								取得
+報告								報告
+讓								讓
+部門								部門
+跟進								跟進
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	32
+NTEST:	34
+TRUE WORDS RECALL:	0.812
+TEST WORDS PRECISION:	0.765
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----50
+機電								機電
+工程								工程
+署長								署長
+黎仕海							      |	黎仕
+							      >	海
+接受								接受
+本							      |	本報
+報							      <
+查詢								查詢
+時								時
+說								說
+，								，
+暫							      |	暫未
+未							      <
+收到								收到
+牛頭角							      |	牛頭
+							      >	角
+及								及
+尖沙嘴								尖沙嘴
+停電								停電
+報告								報告
+，								，
+明天								明天
+會								會
+跟進								跟進
+，								，
+希望								希望
+本							      |	本周
+周							      |	內與
+內							      <
+與							      <
+電力								電力
+公司								公司
+深入								深入
+探討								探討
+。								。
+INSERTIONS:	2
+DELETIONS:	4
+SUBSTITUTIONS:	6
+NCHANGE:	12
+NTRUTH:	34
+NTEST:	32
+TRUE WORDS RECALL:	0.706
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----51
+「							      |	「這
+這							      |	幾天
+幾							      |	好熱
+天							      |	，市
+好							      |	民開
+熱							      <
+，							      <
+市民							      <
+開							      <
+多								多
+了								了
+冷氣								冷氣
+，								，
+這								這
+是								是
+表面上								表面上
+懷疑								懷疑
+的								的
+原因								原因
+，								，
+究竟								究竟
+是否								是否
+真正								真正
+原因								原因
+，								，
+必須								必須
+取								取
+更								更
+多								多
+資料								資料
+。							      |	。」
+」							      <
+INSERTIONS:	0
+DELETIONS:	5
+SUBSTITUTIONS:	6
+NCHANGE:	11
+NTRUTH:	32
+NTEST:	27
+TRUE WORDS RECALL:	0.656
+TEST WORDS PRECISION:	0.778
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----52
+黎仕海							      |	黎仕
+							      >	海
+說								說
+，								，
+本							      |	本港
+港							      |	總產
+總產電量						      |	電
+							      >	量
+足以								足以
+應付								應付
+用電								用電
+需求								需求
+，								，
+向來							      |	向
+有							      |	來有
+約							      |	約30％
+30							      <
+％							      <
+後備								後備
+電力								電力
+供應								供應
+作							      |	作緩
+緩衝							      |	衝
+，								，
+供求								供求
+並無								並無
+緊張								緊張
+。								。
+INSERTIONS:	2
+DELETIONS:	2
+SUBSTITUTIONS:	9
+NCHANGE:	13
+NTRUTH:	26
+NTEST:	26
+TRUE WORDS RECALL:	0.577
+TEST WORDS PRECISION:	0.577
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----53
+地球								地球
+之								之
+友								友
+籲								籲
+節制							      |	節
+開							      |	制開
+冷氣								冷氣
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	7
+NTEST:	7
+TRUE WORDS RECALL:	0.714
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----54
+地球								地球
+之								之
+友								友
+助理							      |	助
+總幹事							      |	理總
+劉祉鋒							      |	幹事
+							      >	劉祉
+							      >	鋒
+稱								稱
+，							      |	，市
+市民							      |	民
+在								在
+天氣								天氣
+熱							      |	熱時
+時							      <
+冷氣								冷氣
+大							      |	大開
+開							      <
+，								，
+令								令
+用電量								用電量
+上升								上升
+，								，
+電力								電力
+公司								公司
+於是								於是
+增加								增加
+燒							      |	燒煤
+煤							      |	發
+發電							      |	電
+，								，
+導致								導致
+溫室								溫室
+效應								效應
+加劇								加劇
+，								，
+造成								造成
+惡性								惡性
+循環								循環
+。								。
+INSERTIONS:	2
+DELETIONS:	2
+SUBSTITUTIONS:	10
+NCHANGE:	14
+NTRUTH:	38
+NTEST:	38
+TRUE WORDS RECALL:	0.684
+TEST WORDS PRECISION:	0.684
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----55
+他								他
+呼籲							      |	呼籲市
+市民							      |	民節
+節制							      |	制開
+開							      |	冷
+冷氣							      |	氣
+，								，
+政府								政府
+部門								部門
+及								及
+立法會								立法會
+也								也
+應							      |	應「
+「							      <
+帶頭								帶頭
+」							      |	」將
+將							      <
+冷氣								冷氣
+溫度								溫度
+調							      |	調到
+到							      |	24至
+24							      |	25℃
+至							      <
+25							      <
+℃							      <
+。								。
+INSERTIONS:	0
+DELETIONS:	5
+SUBSTITUTIONS:	10
+NCHANGE:	15
+NTRUTH:	26
+NTEST:	21
+TRUE WORDS RECALL:	0.423
+TEST WORDS PRECISION:	0.524
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----56
+葉澍堃							      |	葉澍
+︰							      |	堃︰
+機場								機場
+故障								故障
+響							      |	響警
+警號							      |	號
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	6
+NTEST:	6
+TRUE WORDS RECALL:	0.333
+TEST WORDS PRECISION:	0.333
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----57
+香港								香港
+國際								國際
+機場								機場
+繼								繼
+上月								上月
+停電								停電
+後								後
+，								，
+前日								前日
+再								再
+發生								發生
+冷氣								冷氣
+故障								故障
+，							      |	，經
+經濟							      |	濟發
+發展							      |	展及
+及							      <
+勞工								勞工
+局長								局長
+葉澍堃							      |	葉澍
+							      >	堃
+形容								形容
+這								這
+是								是
+警號								警號
+，								，
+並							      |	並指
+指							      <
+雖然								雖然
+機場								機場
+的								的
+水準								水準
+相當								相當
+高								高
+，							      |	，但
+但							      |	如繼
+如							      |	續發
+繼續							      |	生此
+發生							      |	類事
+此							      |	故「
+類							      |	會對
+事故							      <
+「							      <
+會							      <
+對							      <
+機場								機場
+（								（
+聲譽								聲譽
+）								）
+不								不
+好							      |	好」
+」							      <
+。								。
+INSERTIONS:	1
+DELETIONS:	7
+SUBSTITUTIONS:	13
+NCHANGE:	21
+NTRUTH:	52
+NTEST:	46
+TRUE WORDS RECALL:	0.615
+TEST WORDS PRECISION:	0.696
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----58
+葉澍堃							      |	葉
+昨							      |	澍
+表示							      |	堃
+							      >	昨表
+							      >	示
+，								，
+已							      |	已要
+要求							      |	求機
+機管局							      |	管局
+就								就
+客運								客運
+大樓								大樓
+冷氣								冷氣
+系統								系統
+故障								故障
+交							      |	交報
+報告							      |	告
+，								，
+機管局								機管局
+會								會
+調查								調查
+起因								起因
+並								並
+檢視								檢視
+其他								其他
+電腦								電腦
+及								及
+行李								行李
+系統								系統
+，								，
+確保								確保
+機場								機場
+運作								運作
+暢順								暢順
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	8
+NCHANGE:	10
+NTRUTH:	33
+NTEST:	35
+TRUE WORDS RECALL:	0.758
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----59
+對於								對於
+機管局								機管局
+在								在
+故障								故障
+中							      |	中只
+只							      |	派20
+派							      <
+20							      <
+職員								職員
+通知								通知
+旅客								旅客
+，								，
+葉澍堃							      |	葉
+							      >	澍
+							      >	堃
+認為								認為
+機管局								機管局
+在								在
+處理								處理
+上								上
+可								可
+做得								做得
+更							      |	更好
+好							      <
+。								。
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	4
+NCHANGE:	9
+NTRUTH:	23
+NTEST:	22
+TRUE WORDS RECALL:	0.696
+TEST WORDS PRECISION:	0.727
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----60
+機管局								機管局
+表示								表示
+，								，
+將								將
+聯同								聯同
+主要								主要
+供應商								供應商
+、								、
+承辦商							      |	承辦
+及							      |	商及
+系統								系統
+製造商								製造商
+組成								組成
+專責								專責
+小組								小組
+，								，
+檢視								檢視
+所有								所有
+主要								主要
+運作								運作
+系統								系統
+，								，
+進一步								進一步
+提升								提升
+可靠性								可靠性
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	26
+NTEST:	26
+TRUE WORDS RECALL:	0.923
+TEST WORDS PRECISION:	0.923
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----61
+機管局								機管局
+解釋								解釋
+，								，
+前晚								前晚
+的								的
+冷氣								冷氣
+故障								故障
+源於								源於
+失靈								失靈
+的								的
+整流器							      |	整流
+令							      |	器令
+保護								保護
+電路								電路
+中斷								中斷
+，								，
+導致								導致
+用作								用作
+冷卻								冷卻
+空調								空調
+的								的
+海水								海水
+供應								供應
+系統								系統
+自動								自動
+關閉								關閉
+，								，
+現時								現時
+整流器							      |	整流
+已							      |	器已
+更換							      |	更
+							      >	換
+，								，
+另								另
+當局								當局
+會								會
+裝設								裝設
+更								更
+多								多
+整流器							      |	整流
+增強							      |	器增
+系統							      |	強
+							      >	系
+							      >	統
+的								的
+可靠性								可靠性
+。								。
+INSERTIONS:	3
+DELETIONS:	0
+SUBSTITUTIONS:	8
+NCHANGE:	11
+NTRUTH:	44
+NTEST:	47
+TRUE WORDS RECALL:	0.818
+TEST WORDS PRECISION:	0.766
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----62
+市民								市民
+籲							      |	籲放
+放							      |	「熱
+「							      |	假」
+熱假							      <
+」							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	3
+NCHANGE:	5
+NTRUTH:	6
+NTEST:	4
+TRUE WORDS RECALL:	0.167
+TEST WORDS PRECISION:	0.250
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----63
+「								「
+都								都
+39.1							      |	39
+度							      |	1度
+破								破
+歷史								歷史
+高溫								高溫
+紀錄								紀錄
+了								了
+，								，
+學生								學生
+還要								還要
+冒著							      |	冒
+							      >	著
+酷暑								酷暑
+回							      |	回校
+校							      <
+期末								期末
+考試								考試
+﹗								﹗
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	6
+NTRUTH:	19
+NTEST:	19
+TRUE WORDS RECALL:	0.737
+TEST WORDS PRECISION:	0.737
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----64
+掛								掛
+高溫								高溫
+預警								預警
+能								能
+不								不
+能								能
+像								像
+暴雨								暴雨
+、								、
+颱風								颱風
+預警								預警
+信號								信號
+那樣							      |	那
+讓							      |	樣讓
+學生								學生
+停課								停課
+、								、
+放							      |	放個
+個							      <
+『								『
+熱假							      |	熱
+							      >	假
+』								』
+啊								啊
+﹖							      |	﹖」
+」							      <
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	8
+NTRUTH:	25
+NTEST:	24
+TRUE WORDS RECALL:	0.720
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----65
+到								到
+昨天								昨天
+為止								為止
+，								，
+廣州								廣州
+已								已
+連續							      |	連
+6							      |	續6
+天							      |	天掛
+掛							      <
+高溫								高溫
+預警								預警
+，								，
+氣溫								氣溫
+更								更
+升							      |	升至
+至							      |	50年
+50							      <
+年							      <
+來								來
+最							      |	最高
+高							      <
+。								。
+INSERTIONS:	0
+DELETIONS:	4
+SUBSTITUTIONS:	6
+NCHANGE:	10
+NTRUTH:	23
+NTEST:	19
+TRUE WORDS RECALL:	0.565
+TEST WORDS PRECISION:	0.684
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----66
+酷暑								酷暑
+下								下
+，								，
+滿							      |	滿城
+城							      |	洋紫
+洋紫荊樹						      |	荊樹
+一							      |	一夜
+夜							      |	間換
+間							      |	上「
+換上							      |	金
+「							      |	裝
+金裝							      <
+」								」
+，								，
+彷彿								彷彿
+北方								北方
+的								的
+深秋								深秋
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	8
+NCHANGE:	9
+NTRUTH:	19
+NTEST:	18
+TRUE WORDS RECALL:	0.526
+TEST WORDS PRECISION:	0.556
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----67
+中國								中國
+園藝								園藝
+學會								學會
+理事								理事
+、								、
+高級								高級
+工程師								工程師
+張喬松							      |	張
+							      >	喬
+							      >	松
+說								說
+，							      |	，洋
+洋紫荊							      |	紫荊
+變							      |	變黃
+黃							      <
+和								和
+落葉								落葉
+，								，
+是								是
+一								一
+種								種
+換								換
+葉								葉
+現象								現象
+，								，
+每								每
+年								年
+都							      |	都會
+會							      <
+出現								出現
+，								，
+但								但
+像								像
+這								這
+種							      |	種同
+同							      <
+時間								時間
+普遍								普遍
+換							      |	換葉
+葉							      <
+的								的
+現象								現象
+非常								非常
+少見								少見
+，								，
+可能								可能
+與							      |	與持
+持續							      |	續
+高溫								高溫
+有關								有關
+。								。
+INSERTIONS:	2
+DELETIONS:	4
+SUBSTITUTIONS:	9
+NCHANGE:	15
+NTRUTH:	49
+NTEST:	47
+TRUE WORDS RECALL:	0.735
+TEST WORDS PRECISION:	0.766
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----68
+不少							      |	不少市
+市民							      |	民認
+認為							      |	為
+，								，
+目前								目前
+大多數								大多數
+學校								學校
+課室								課室
+沒有								沒有
+冷氣								冷氣
+，								，
+孩子								孩子
+很							      |	很易
+易							      <
+中暑								中暑
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	5
+NTRUTH:	16
+NTEST:	15
+TRUE WORDS RECALL:	0.688
+TEST WORDS PRECISION:	0.733
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----69
+據悉								據悉
+，								，
+北歐								北歐
+一些								一些
+國家								國家
+的								的
+勞動								勞動
+法規								法規
+有								有
+放							      |	放「
+「							      <
+熱假								熱假
+」								」
+的								的
+相關								相關
+規定								規定
+，							      |	，但
+但							      <
+中國								中國
+在								在
+這								這
+方面								方面
+並無								並無
+明文規定							明文規定
+，								，
+一些								一些
+城市								城市
+曾								曾
+臨時							      |	臨
+試							      |	時
+過							      |	試過
+高溫								高溫
+停產								停產
+﹔								﹔
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	34
+NTEST:	32
+TRUE WORDS RECALL:	0.794
+TEST WORDS PRECISION:	0.844
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----70
+毗鄰								毗鄰
+廣東								廣東
+的								的
+香港								香港
+，								，
+雖								雖
+設有								設有
+酷熱							      |	酷
+警告							      |	熱警
+信號							      |	告信
+							      >	號
+，								，
+也								也
+沒有								沒有
+「							      |	「熱
+熱假							      |	假」
+」							      <
+制度								制度
+的								的
+概念								概念
+與								與
+設計								設計
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	22
+NTEST:	22
+TRUE WORDS RECALL:	0.727
+TEST WORDS PRECISION:	0.727
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----71
+廣東省								廣東省
+氣象								氣象
+部門								部門
+表示								表示
+，								，
+高溫								高溫
+對							      |	對人
+人體							      |	體
+健康								健康
+乃至								乃至
+生命								生命
+的								的
+影響								影響
+很								很
+大								大
+，								，
+確有								確有
+必要								必要
+制訂								制訂
+更								更
+詳細								詳細
+的								的
+高溫								高溫
+分							      |	分級
+級							      <
+信號								信號
+並							      |	並上
+上報							      |	報省
+省							      <
+政府								政府
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	31
+NTEST:	29
+TRUE WORDS RECALL:	0.774
+TEST WORDS PRECISION:	0.828
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----72
+東山島							      |	東
+本							      |	山島
+月							      |	本月
+軍演								軍演
+王牌								王牌
+盡							      |	盡出
+出							      |	海陸
+海陸空							      |	空聯
+聯陣							      |	陣
+奪								奪
+台海							      |	台
+制空權							      |	海制
+							      >	空權
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	9
+NCHANGE:	10
+NTRUTH:	12
+NTEST:	13
+TRUE WORDS RECALL:	0.250
+TEST WORDS PRECISION:	0.231
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----73
+台海兩岸							台海兩岸
+的								的
+軍事								軍事
+緊張								緊張
+氣氛								氣氛
+有								有
+升溫								升溫
+跡象								跡象
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	9
+NTEST:	9
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----74
+在								在
+美軍								美軍
+本								本
+月							      |	月中
+中旬							      |	旬
+即將								即將
+前所未有							前所未有
+地								地
+調集							      |	調
+							      >	集
+7								7
+個								個
+航空母艦							航空母艦
+戰鬥群								戰鬥群
+，								，
+前往								前往
+攻擊								攻擊
+範圍								範圍
+覆蓋								覆蓋
+中國大陸							中國大陸
+的								的
+太平洋								太平洋
+海域								海域
+舉行								舉行
+大型								大型
+軍演								軍演
+前								前
+，								，
+解放軍							      |	解放
+亦							      |	軍亦
+頻頻								頻頻
+展開								展開
+軍演								軍演
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	5
+NCHANGE:	6
+NTRUTH:	33
+NTEST:	34
+TRUE WORDS RECALL:	0.848
+TEST WORDS PRECISION:	0.824
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----75
+據							      |	據報
+報道							      |	道
+，								，
+廣州								廣州
+軍區								軍區
+空軍								空軍
+某								某
+部								部
+數十							      |	數
+架							      |	十架
+戰機								戰機
+日前								日前
+輾轉								輾轉
+數千								數千
+公里								公里
+，								，
+開展							      |	開
+殲敵							      |	展殲
+演習							      |	敵演
+﹔							      |	習﹔
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	8
+NCHANGE:	8
+NTRUTH:	20
+NTEST:	20
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----76
+而							      |	而解
+解放軍							      |	放軍
+本							      |	本月
+月							      |	更將
+更							      <
+將							      <
+在								在
+距								距
+台灣								台灣
+澎湖								澎湖
+僅								僅
+150								150
+浬								浬
+的								的
+東山島								東山島
+舉行								舉行
+大規模							      |	大規
+海陸空							      |	模海
+							      >	陸空
+聯合								聯合
+軍演								軍演
+，							      |	，演
+演習							      |	習
+重點								重點
+將								將
+進一步								進一步
+將								將
+台灣								台灣
+空軍								空軍
+活動								活動
+範圍								範圍
+逼							      |	逼向
+向							      <
+本島								本島
+，								，
+限制								限制
+台灣								台灣
+空軍								空軍
+的								的
+活動								活動
+空間								空間
+，								，
+最後								最後
+完全								完全
+掌握								掌握
+台海								台海
+制空權								制空權
+，								，
+屆時								屆時
+，								，
+幾乎								幾乎
+所有								所有
+先進								先進
+武器								武器
+都								都
+將								將
+上場								上場
+。								。
+INSERTIONS:	1
+DELETIONS:	3
+SUBSTITUTIONS:	9
+NCHANGE:	13
+NTRUTH:	57
+NTEST:	55
+TRUE WORDS RECALL:	0.789
+TEST WORDS PRECISION:	0.818
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----77
+廣州								廣州
+軍區								軍區
+戰機								戰機
+演習								演習
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	4
+NTEST:	4
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----78
+據							      |	據中
+中新社							      |	新社
+消息								消息
+，							      |	，廣
+廣州							      |	州軍
+軍區							      |	區空
+空軍							      |	軍
+某								某
+部								部
+日前								日前
+以							      |	以現
+現代							      |	代空
+空戰							      |	戰為
+為							      <
+背景								背景
+進行								進行
+演練								演練
+，								，
+數十							      |	數
+架							      |	十架
+戰機								戰機
+輾轉								輾轉
+數千								數千
+公里								公里
+，								，
+連續								連續
+攻擊								攻擊
+「							      |	「敵
+敵軍							      |	軍」
+」							      <
+軍事								軍事
+、								、
+交通								交通
+等								等
+重要								重要
+目標								目標
+，								，
+癱瘓								癱瘓
+了								了
+「								「
+敵人								敵人
+」								」
+的								的
+作戰								作戰
+能力								能力
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	13
+NCHANGE:	15
+NTRUTH:	46
+NTEST:	44
+TRUE WORDS RECALL:	0.674
+TEST WORDS PRECISION:	0.705
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----79
+而								而
+據							      |	據《
+《							      <
+中國								中國
+青年報							      |	青年
+》							      |	報》
+引述								引述
+外交部								外交部
+證實								證實
+，								，
+繼								繼
+2001								2001
+年								年
+東山島								東山島
+大規模								大規模
+聯合								聯合
+登陸								登陸
+演習								演習
+後								後
+，								，
+本							      |	本月
+月							      <
+福建								福建
+東山島								東山島
+將								將
+再次								再次
+舉行								舉行
+海陸空							      |	海
+							      >	陸空
+聯合								聯合
+軍事								軍事
+演習								演習
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	8
+NTRUTH:	32
+NTEST:	31
+TRUE WORDS RECALL:	0.781
+TEST WORDS PRECISION:	0.806
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----80
+今年								今年
+最								最
+大							      |	大規模
+規模							      <
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	4
+NTEST:	3
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.667
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----81
+報道								報道
+稱								稱
+，								，
+東山島								東山島
+演習								演習
+始於								始於
+1996							      |	1996年
+年							      <
+，								，
+到								到
+目前								目前
+為止								為止
+已								已
+進行								進行
+了								了
+8								8
+次								次
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	18
+NTEST:	17
+TRUE WORDS RECALL:	0.889
+TEST WORDS PRECISION:	0.941
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----82
+報道								報道
+指出								指出
+，								，
+演習								演習
+地點								地點
+選								選
+在								在
+東山島								東山島
+，								，
+是								是
+因為								因為
+閩南								閩南
+東山島								東山島
+自古								自古
+為								為
+兵家必爭之地						      |	兵家
+							      >	必爭之地
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	17
+NTEST:	18
+TRUE WORDS RECALL:	0.941
+TEST WORDS PRECISION:	0.889
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----83
+東山島								東山島
+位於								位於
+台灣海峽							台灣海峽
+西部								西部
+最								最
+南端								南端
+，								，
+對面								對面
+98							      |	98浬
+浬							      |	處是
+處							      |	澎
+是							      |	湖
+澎湖							      <
+，								，
+166								166
+浬							      |	浬處
+處							      <
+是								是
+高雄								高雄
+，								，
+海岸								海岸
+的								的
+地形								地形
+地貌								地貌
+很								很
+像								像
+台灣								台灣
+的								的
+西海岸							      |	西海
+							      >	岸
+，								，
+非常								非常
+適合								適合
+舉行								舉行
+三軍								三軍
+聯合								聯合
+性質								性質
+的								的
+登陸								登陸
+作戰								作戰
+演習								演習
+，								，
+有								有
+很								很
+強								強
+的								的
+實戰								實戰
+針對性								針對性
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	6
+NCHANGE:	9
+NTRUTH:	48
+NTEST:	47
+TRUE WORDS RECALL:	0.833
+TEST WORDS PRECISION:	0.851
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----84
+選								選
+在								在
+6							      |	6至
+至							      <
+7月								7月
+間							      |	間軍
+軍演							      |	演
+，								，
+則								則
+是								是
+因為								因為
+此時								此時
+台灣海峽							台灣海峽
+正								正
+逢								逢
+東北								東北
+季風								季風
+﹔								﹔
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	18
+NTEST:	17
+TRUE WORDS RECALL:	0.778
+TEST WORDS PRECISION:	0.824
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----85
+當地								當地
+漁民								漁民
+形容								形容
+，								，
+此時								此時
+「								「
+在								在
+東山							      |	東
+丟							      |	山丟
+塊							      |	塊木
+木頭							      |	頭
+，								，
+都								都
+正好								正好
+漂							      |	漂到
+到							      |	澎
+澎湖							      |	湖
+去							      |	去」
+」							      <
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	8
+NCHANGE:	9
+NTRUTH:	20
+NTEST:	19
+TRUE WORDS RECALL:	0.550
+TEST WORDS PRECISION:	0.579
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----86
+如果								如果
+是								是
+軍艦								軍艦
+，								，
+只需							      |	只
+3							      |	需3
+小時								小時
+就								就
+可								可
+到達								到達
+澎湖								澎湖
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	12
+NTEST:	12
+TRUE WORDS RECALL:	0.833
+TEST WORDS PRECISION:	0.833
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----87
+報道								報道
+稱								稱
+，								，
+東山島								東山島
+演習								演習
+是								是
+三軍								三軍
+聯合								聯合
+作戰								作戰
+演習								演習
+、								、
+是								是
+解放軍								解放軍
+年度								年度
+最								最
+大							      |	大規模
+規模							      <
+例行								例行
+演習								演習
+，								，
+也是								也是
+展示								展示
+解放軍								解放軍
+精銳								精銳
+的								的
+舞台								舞台
+，								，
+對							      |	對台
+台							      <
+作戰								作戰
+的								的
+「							      |	「拳
+拳頭							      |	頭」
+」							      <
+力量								力量
+紛紛								紛紛
+登台								登台
+亮相								亮相
+。								。
+INSERTIONS:	0
+DELETIONS:	3
+SUBSTITUTIONS:	4
+NCHANGE:	7
+NTRUTH:	39
+NTEST:	36
+TRUE WORDS RECALL:	0.821
+TEST WORDS PRECISION:	0.889
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----88
+東山島								東山島
+的								的
+每								每
+一								一
+次								次
+軍演								軍演
+都								都
+有								有
+新							      |	新亮
+亮點							      |	點
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	11
+NTEST:	11
+TRUE WORDS RECALL:	0.818
+TEST WORDS PRECISION:	0.818
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----89
+這							      |	這次
+次							      <
+演習								演習
+除							      |	除有
+有							      |	導彈
+導彈旅							      |	旅
+、								、
+坦克旅							      |	坦克
+							      >	旅
+、								、
+陸戰旅							      |	陸
+							      >	戰
+							      >	旅
+、								、
+多								多
+艘							      |	艘戰
+戰艦							      |	艦
+和								和
+潛艇								潛艇
+參與								參與
+外								外
+，							      |	，解
+解放軍							      |	放軍
+幾乎								幾乎
+所有								所有
+先進								先進
+武器								武器
+都								都
+將								將
+上場								上場
+。								。
+INSERTIONS:	3
+DELETIONS:	1
+SUBSTITUTIONS:	10
+NCHANGE:	14
+NTRUTH:	28
+NTEST:	30
+TRUE WORDS RECALL:	0.607
+TEST WORDS PRECISION:	0.567
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----90
+實質								實質
+警告								警告
+台獨								台獨
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	3
+NTEST:	3
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----91
+報道								報道
+指出								指出
+，								，
+即將								即將
+開始								開始
+的								的
+2004							      |	2004演
+演習							      |	習
+，								，
+很								很
+有								有
+可能								可能
+將							      |	將重
+重點							      |	點放
+放							      <
+在								在
+對							      |	對台
+台灣							      |	灣
+制空權								制空權
+的								的
+爭奪								爭奪
+上								上
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	7
+NTRUTH:	23
+NTEST:	22
+TRUE WORDS RECALL:	0.696
+TEST WORDS PRECISION:	0.727
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----92
+報道								報道
+引述								引述
+軍事								軍事
+專家								專家
+分析								分析
+，								，
+此								此
+次								次
+「								「
+爭奪								爭奪
+台海								台海
+制空權								制空權
+」								」
+的								的
+演練								演練
+，								，
+不再								不再
+是								是
+以往								以往
+針對								針對
+「								「
+台獨								台獨
+」								」
+的								的
+「							      |	「預
+預防性							      |	防性
+」								」
+軍事								軍事
+操演								操演
+，								，
+而								而
+在								在
+相當								相當
+程度								程度
+上							      |	上隱
+隱含							      |	含
+著								著
+「							      |	「主
+主動							      |	動」
+」							      <
+、								、
+「							      |	「積
+積極							      |	極」
+」							      |	與「
+與							      |	攻
+「							      |	擊
+攻擊							      <
+」								」
+的								的
+軍事								軍事
+操演								操演
+，								，
+是								是
+對								對
+「								「
+台獨							      |	台
+」							      |	獨」
+分子								分子
+的								的
+實質								實質
+警告								警告
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	13
+NCHANGE:	15
+NTRUTH:	62
+NTEST:	60
+TRUE WORDS RECALL:	0.758
+TEST WORDS PRECISION:	0.783
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----93
+戰時								戰時
+華工								華工
+東京								東京
+抗議								抗議
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	4
+NTEST:	4
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----94
+41							      |	41名
+名							      |	「花
+「							      |	岡
+花岡							      <
+事件								事件
+」								」
+倖存								倖存
+的								的
+中國								中國
+勞工								勞工
+和								和
+死難者								死難者
+家屬								家屬
+前日								前日
+（								（
+2							      |	2日
+日							      <
+）								）
+在								在
+東京								東京
+向								向
+日本								日本
+政府								政府
+遞交							      |	遞
+一							      |	交一
+份							      |	份有
+有							      <
+近								近
+8萬								8萬
+人								人
+簽名								簽名
+的								的
+請願書							      |	請願
+							      >	書
+，								，
+並								並
+在								在
+街上								街上
+抗議								抗議
+，								，
+要求								要求
+日本								日本
+政府								政府
+道歉								道歉
+和								和
+賠償								賠償
+。								。
+INSERTIONS:	1
+DELETIONS:	3
+SUBSTITUTIONS:	8
+NCHANGE:	12
+NTRUTH:	46
+NTEST:	44
+TRUE WORDS RECALL:	0.761
+TEST WORDS PRECISION:	0.795
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----95
+「								「
+花岡							      |	花
+							      >	岡
+事件								事件
+」							      |	」發
+發生							      |	生於
+於							      |	1945年
+1945							      <
+年							      <
+6月								6月
+30							      |	30日
+日							      <
+晚								晚
+，								，
+700								700
+多								多
+名								名
+被								被
+強擄								強擄
+到								到
+日本								日本
+秋田縣							      |	秋田
+							      >	縣
+花岡								花岡
+礦山								礦山
+的								的
+中國								中國
+勞工								勞工
+因								因
+不堪								不堪
+忍受								忍受
+非人								非人
+的								的
+待遇								待遇
+而								而
+暴動								暴動
+，							      |	，但
+但							      |	遭鎮
+遭							      |	壓
+鎮壓							      <
+，								，
+3								3
+天							      |	天內
+內							      <
+共有								共有
+130							      |	130多
+多							      <
+名								名
+華工								華工
+被								被
+拷打							      |	拷
+折磨							      |	打折磨
+致死								致死
+。								。
+INSERTIONS:	2
+DELETIONS:	6
+SUBSTITUTIONS:	13
+NCHANGE:	21
+NTRUTH:	52
+NTEST:	48
+TRUE WORDS RECALL:	0.635
+TEST WORDS PRECISION:	0.688
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----96
+據								據
+統計								統計
+，								，
+從								從
+1944							      |	1944年
+年							      <
+8月								8月
+至								至
+1945							      |	1945年
+年							      <
+11月								11月
+間								間
+，								，
+在								在
+花岡								花岡
+的								的
+986							      |	986名
+名							      <
+華工								華工
+中								中
+，								，
+超過							      |	超
+400							      |	過
+人							      |	400人
+死亡								死亡
+。								。
+INSERTIONS:	0
+DELETIONS:	3
+SUBSTITUTIONS:	6
+NCHANGE:	9
+NTRUTH:	26
+NTEST:	23
+TRUE WORDS RECALL:	0.654
+TEST WORDS PRECISION:	0.739
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----97
+2000							      |	2000年
+年							      |	11
+11月							      |	月
+，								，
+在								在
+經過								經過
+5							      |	5年
+年							      <
+多								多
+的								的
+艱苦								艱苦
+訴訟								訴訟
+後								後
+，							      |	，苦
+苦主							      |	主及
+及							      |	死難
+死難者							      |	者
+家屬							      |	家
+							      >	屬
+與								與
+被告								被告
+日本								日本
+鹿島								鹿島
+建設								建設
+公司								公司
+達成								達成
+和解								和解
+，								，
+鹿島								鹿島
+公司								公司
+向								向
+華工								華工
+謝罪								謝罪
+並							      |	並賠
+賠償							      |	償5
+5億							      |	億日
+日圓							      |	圓
+，								，
+但								但
+日本								日本
+政府								政府
+至今								至今
+仍								仍
+拒絕								拒絕
+道歉								道歉
+和								和
+賠償								賠償
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	13
+NCHANGE:	15
+NTRUTH:	47
+NTEST:	47
+TRUE WORDS RECALL:	0.702
+TEST WORDS PRECISION:	0.702
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----98
+審計長								審計長
+強調								強調
+獨立								獨立
+總理								總理
+也								也
+不								不
+能								能
+干預								干預
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	8
+NTEST:	8
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----99
+掀起								掀起
+席捲								席捲
+全							      |	全國
+國							      |	「審
+「							      |	計風
+審計							      |	暴」
+風暴							      <
+」							      <
+的								的
+國家								國家
+審計署								審計署
+審計長								審計長
+李金華							      |	李
+							      >	金華
+，								，
+日前								日前
+會見								會見
+外賓								外賓
+時								時
+說								說
+，								，
+揭露							      |	揭
+腐敗							      |	露腐
+問題							      |	敗問
+是							      |	題是
+中國								中國
+審計								審計
+機關								機關
+的								的
+重要								重要
+任務								任務
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	9
+NCHANGE:	12
+NTRUTH:	31
+NTEST:	30
+TRUE WORDS RECALL:	0.645
+TEST WORDS PRECISION:	0.667
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----100
+李金華							      |	李
+							      >	金華
+強調								強調
+，								，
+按照							      |	按
+《							      |	照《
+憲法								憲法
+》								》
+規定								規定
+，								，
+審計								審計
+機關								機關
+不							      |	不受
+受							      <
+任何								任何
+行政								行政
+機關								機關
+、								、
+社會								社會
+團體								團體
+和								和
+個人								個人
+干涉								干涉
+，								，
+連							      |	連國
+國務院							      |	務院
+總理								總理
+也								也
+不								不
+能								能
+干預								干預
+案件								案件
+調查								調查
+過程								過程
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	34
+NTEST:	34
+TRUE WORDS RECALL:	0.794
+TEST WORDS PRECISION:	0.794
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----101
+李金華							      |	李
+							      >	金華
+指出								指出
+，								，
+中國								中國
+在								在
+由								由
+計劃經濟							計劃經濟
+向								向
+市場經濟							市場經濟
+轉軌								轉軌
+過程								過程
+中								中
+，								，
+一些								一些
+腐敗								腐敗
+問題								問題
+既							      |	既有
+有							      <
+計劃經濟							計劃經濟
+的								的
+痕跡								痕跡
+，								，
+也							      |	也有
+有							      <
+市場經濟							市場經濟
+的								的
+特點								特點
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	3
+NCHANGE:	6
+NTRUTH:	28
+NTEST:	27
+TRUE WORDS RECALL:	0.821
+TEST WORDS PRECISION:	0.852
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----102
+國家								國家
+審計								審計
+面臨								面臨
+的								的
+一								一
+個								個
+重要								重要
+任務								任務
+是								是
+不斷								不斷
+揭露								揭露
+和							      |	和查
+查處							      |	處違
+違反							      |	反法
+法律							      |	律
+法規								法規
+的								的
+問題								問題
+，								，
+揭露								揭露
+和								和
+查處								查處
+腐敗								腐敗
+問題								問題
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	25
+NTEST:	25
+TRUE WORDS RECALL:	0.840
+TEST WORDS PRECISION:	0.840
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----103
+這些								這些
+年								年
+來								來
+，								，
+中國								中國
+審計								審計
+機關								機關
+的								的
+主要								主要
+目標								目標
+是								是
+，								，
+通過								通過
+審計								審計
+促進								促進
+政府								政府
+部門								部門
+的								的
+權力								權力
+受到								受到
+制約								制約
+，								，
+促進								促進
+政府								政府
+行政								行政
+行為								行為
+的								的
+公開								公開
+透明								透明
+，								，
+從而								從而
+逐步								逐步
+鏟除								鏟除
+滋生								滋生
+腐敗								腐敗
+的								的
+溫床								溫床
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	38
+NTEST:	38
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----104
+溫總								溫總
+看								看
+烤鴨								烤鴨
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	3
+NTEST:	3
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----105
+總理								總理
+溫家寶								溫家寶
+前天								前天
+（								（
+2							      |	2日
+日							      <
+）								）
+在								在
+北京								北京
+展覽館								展覽館
+參觀								參觀
+中國								中國
+國際								國際
+服務業								服務業
+大會								大會
+和								和
+展覽會								展覽會
+，								，
+來到								來到
+著名								著名
+的								的
+北京								北京
+全聚德							      |	全聚
+烤鴨店							      |	德烤
+展台							      |	鴨
+							      >	店展
+							      >	台
+與								與
+職員								職員
+閒聊								閒聊
+。								。
+INSERTIONS:	2
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	7
+NTRUTH:	29
+NTEST:	30
+TRUE WORDS RECALL:	0.828
+TEST WORDS PRECISION:	0.800
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----106
+左								左
+為								為
+北京市委							北京市委
+書記								書記
+劉淇								劉淇
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	6
+NTEST:	6
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----107
+溫家寶								溫家寶
+強調								強調
+，								，
+發展								發展
+服務業								服務業
+要								要
+堅持								堅持
+走								走
+改革開放							改革開放
+的								的
+路								路
+，								，
+要								要
+充分								充分
+發揮								發揮
+市場								市場
+機制								機制
+的								的
+作用								作用
+，							      |	，鼓
+鼓勵							      |	勵多
+多							      <
+渠道								渠道
+、								、
+多元化								多元化
+發展								發展
+服務業							      |	服務
+﹔							      |	業﹔
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	5
+NTRUTH:	28
+NTEST:	27
+TRUE WORDS RECALL:	0.821
+TEST WORDS PRECISION:	0.852
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----108
+要								要
+加強								加強
+國際								國際
+合作								合作
+和								和
+交流								交流
+，							      |	，學
+學習							      |	習
+和								和
+借鑑								借鑑
+國外								國外
+的								的
+先進								先進
+經驗								經驗
+，								，
+提高								提高
+中國								中國
+服務業								服務業
+發展								發展
+的								的
+水平								水平
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	22
+NTEST:	22
+TRUE WORDS RECALL:	0.909
+TEST WORDS PRECISION:	0.909
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----109
+貴州							      |	貴
+茶葉							      |	州茶
+冒充							      |	葉冒
+龍井							      |	充龍
+葉							      |	井葉
+小							      |	小形
+形							      |	扁渾
+扁							      |	水摸
+渾水摸魚						      |	魚
+大批								大批
+流向								流向
+全							      |	全國
+國							      <
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	10
+NCHANGE:	11
+NTRUTH:	13
+NTEST:	12
+TRUE WORDS RECALL:	0.154
+TEST WORDS PRECISION:	0.167
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----110
+內地								內地
+假冒偽劣							假冒偽劣
+產品								產品
+猖獗								猖獗
+，								，
+據							      |	據新
+新華社							      |	華社
+揭露								揭露
+，								，
+馳名								馳名
+海內外								海內外
+的								的
+「							      |	「西
+西湖							      |	湖
+龍井							      |	龍
+							      >	井
+」								」
+，							      |	，市
+市面							      |	面上
+上							      <
+許多								許多
+是								是
+冒牌貨							      |	冒牌
+							      >	貨
+，								，
+其中								其中
+貴州								貴州
+產茶區							      |	產
+							      >	茶
+							      >	區
+以								以
+每								每
+公斤								公斤
+百							      |	百來
+來							      |	元人
+元							      |	民幣
+人民幣							      <
+的								的
+春茶							      |	春
+							      >	茶
+、								、
+抬價								抬價
+三四								三四
+倍								倍
+假冒								假冒
+四五百							      |	四五
+							      >	百
+元								元
+的								的
+「								「
+龍井								龍井
+新茶								新茶
+」							      |	」尤
+尤其							      |	其猖
+猖獗							      |	獗
+，								，
+每								每
+年								年
+3月								3月
+就								就
+開始								開始
+大批								大批
+流向								流向
+全							      |	全國
+國							      <
+各								各
+地								地
+，								，
+而								而
+此時								此時
+在								在
+龍井茶							      |	龍井
+							      >	茶
+的								的
+原產地								原產地
+浙江								浙江
+，								，
+茶樹							      |	茶
+							      >	樹
+才								才
+剛剛								剛剛
+抽芽								抽芽
+。								。
+INSERTIONS:	8
+DELETIONS:	3
+SUBSTITUTIONS:	20
+NCHANGE:	31
+NTRUTH:	75
+NTEST:	80
+TRUE WORDS RECALL:	0.693
+TEST WORDS PRECISION:	0.650
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----111
+新華社								新華社
+記者								記者
+從								從
+貴州								貴州
+開始								開始
+，								，
+遠赴								遠赴
+安徽								安徽
+、								、
+浙江								浙江
+，								，
+千里								千里
+追蹤								追蹤
+調查								調查
+，								，
+發現							      |	發
+假							      |	現假
+龍井								龍井
+從							      |	從生
+生產							      |	產到
+到							      <
+流通								流通
+、								、
+行銷								行銷
+全							      |	全國
+國							      <
+的								的
+路線圖								路線圖
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	29
+NTEST:	27
+TRUE WORDS RECALL:	0.759
+TEST WORDS PRECISION:	0.815
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----112
+茶商								茶商
+收購								收購
+運							      |	運往
+往							      <
+江浙								江浙
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	5
+NTEST:	4
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----113
+晴隆縣							      |	晴隆
+是							      |	縣是
+貴州省							      |	貴州
+							      >	省
+著名								著名
+茶鄉							      |	茶
+							      >	鄉
+，								，
+盛產							      |	盛
+扁形茶							      |	產扁
+							      >	形茶
+。								。
+INSERTIONS:	3
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	9
+NTRUTH:	9
+NTEST:	12
+TRUE WORDS RECALL:	0.333
+TEST WORDS PRECISION:	0.250
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----114
+今年								今年
+3月								3月
+1							      |	1日
+日							      <
+，								，
+35								35
+歲							      |	歲浙
+浙江							      |	江茶
+茶商							      |	商梁
+梁利根							      |	利根
+從							      |	從江
+江蘇							      |	蘇到
+到							      |	晴
+晴隆							      |	隆
+，								，
+與								與
+4							      |	4名
+名							      <
+同鄉								同鄉
+一道								一道
+，								，
+在								在
+3月								3月
+5							      |	5日
+日							      <
+春茶								春茶
+上市								上市
+後								後
+的								的
+十							      |	十多
+多							      |	天內
+天							      |	，收
+內							      |	購2
+，							      |	5
+收購							      |	萬
+2.5萬							      <
+公斤								公斤
+茶葉								茶葉
+運回								運回
+浙江								浙江
+。								。
+INSERTIONS:	0
+DELETIONS:	4
+SUBSTITUTIONS:	17
+NCHANGE:	21
+NTRUTH:	41
+NTEST:	37
+TRUE WORDS RECALL:	0.488
+TEST WORDS PRECISION:	0.541
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----115
+3月								3月
+21							      |	21日
+日							      <
+，								，
+梁利根							      |	梁利
+再							      |	根再
+轉							      |	轉到
+到							      <
+貴州								貴州
+湄潭縣							      |	湄潭
+收							      |	縣收
+茶								茶
+，								，
+就								就
+當地								當地
+製茶廠							      |	製
+							      >	茶
+							      >	廠
+加工								加工
+茶青								茶青
+後							      |	後將
+將							      <
+成品								成品
+運回								運回
+江蘇								江蘇
+。								。
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	8
+NCHANGE:	13
+NTRUTH:	24
+NTEST:	23
+TRUE WORDS RECALL:	0.542
+TEST WORDS PRECISION:	0.565
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----116
+梁利根							      |	梁利
+							      >	根
+說								說
+，								，
+貴州								貴州
+的								的
+小葉茶							      |	小葉
+品種							      |	茶品
+與							      |	種與
+龍井								龍井
+類似							      |	類
+							      >	似
+，								，
+早些								早些
+年							      |	年浙
+浙江							      |	江茶
+茶商							      |	商只
+只							      |	收茶
+收							      |	青
+茶青							      <
+，								，
+要								要
+找								找
+浙江								浙江
+師傅								師傅
+過來								過來
+加工								加工
+成							      |	成「
+「							      |	龍
+龍井							      |	井
+」								」
+，								，
+但								但
+現在								現在
+當地								當地
+茶農							      |	茶
+							      >	農
+已								已
+學								學
+會							      |	會炒
+炒製							      |	製技
+技術							      |	術
+，								，
+加工								加工
+製作								製作
+已								已
+實現								實現
+本地化								本地化
+。								。
+INSERTIONS:	3
+DELETIONS:	1
+SUBSTITUTIONS:	17
+NCHANGE:	21
+NTRUTH:	46
+NTEST:	48
+TRUE WORDS RECALL:	0.609
+TEST WORDS PRECISION:	0.583
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----117
+假							      |	假湄
+湄潭縣							      |	潭
+年產							      |	縣年
+1800							      |	產1800
+噸								噸
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	5
+NTEST:	5
+TRUE WORDS RECALL:	0.200
+TEST WORDS PRECISION:	0.200
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----118
+報道								報道
+稱								稱
+，								，
+外地							      |	外
+茶商							      |	地茶
+入							      |	商入
+貴州								貴州
+收							      |	收茶
+茶							      <
+始於								始於
+90							      |	90年
+年代							      |	代初
+初							      <
+，								，
+其中								其中
+尤								尤
+以								以
+浙								浙
+、								、
+皖								皖
+、								、
+閩								閩
+、								、
+蘇							      |	蘇茶
+茶商							      |	商為
+為							      <
+最								最
+多								多
+。								。
+INSERTIONS:	0
+DELETIONS:	3
+SUBSTITUTIONS:	8
+NCHANGE:	11
+NTRUTH:	29
+NTEST:	26
+TRUE WORDS RECALL:	0.621
+TEST WORDS PRECISION:	0.692
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----119
+位於								位於
+縣城								縣城
+邊								邊
+的								的
+「								「
+西南								西南
+茶城							      |	茶
+							      >	城
+」								」
+是								是
+湄潭縣							      |	湄
+							      >	潭縣
+最								最
+大								大
+的								的
+茶葉								茶葉
+交易								交易
+場所								場所
+，								，
+每逢								每逢
+市集日							      |	市集
+							      >	日
+，								，
+四鄉八里						      |	四
+							      >	鄉
+							      >	八里
+的								的
+茶農								茶農
+都								都
+聚集								聚集
+在								在
+這裏								這裏
+。								。
+INSERTIONS:	5
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	9
+NTRUTH:	28
+NTEST:	33
+TRUE WORDS RECALL:	0.857
+TEST WORDS PRECISION:	0.727
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----120
+3月								3月
+25							      |	25日
+日							      <
+，								，
+記者								記者
+遇到								遇到
+十幾								十幾
+位								位
+來自								來自
+安徽								安徽
+的								的
+茶商								茶商
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	13
+NTEST:	12
+TRUE WORDS RECALL:	0.846
+TEST WORDS PRECISION:	0.917
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----121
+茶商								茶商
+楊德余							      |	楊
+							      >	德
+							      >	余
+說								說
+，								，
+什麼								什麼
+品種								品種
+的								的
+茶								茶
+都								都
+收								收
+，								，
+比如							      |	比
+用							      |	如用
+龍井								龍井
+技術								技術
+加工								加工
+的								的
+小葉種							      |	小葉
+扁形茶							      |	種扁
+							      >	形茶
+，								，
+浙江							      |	浙
+人							      |	江人
+拿去								拿去
+當								當
+龍井							      |	龍
+							      >	井
+賣								賣
+，								，
+而								而
+卷形茶							      |	卷
+							      >	形茶
+在								在
+江蘇								江蘇
+作為								作為
+碧螺春							      |	碧
+							      >	螺
+							      >	春
+賣								賣
+，								，
+黃芽							      |	黃
+							      >	芽
+則								則
+在								在
+安徽								安徽
+當作								當作
+黃山								黃山
+黃芽							      |	黃
+							      >	芽
+賣								賣
+，								，
+廣西							      |	廣
+人							      |	西人
+收							      |	收針
+針茶							      |	茶去
+去							      |	作花
+作							      |	茶
+花茶							      <
+的								的
+原料茶							      |	原料
+							      >	茶
+。								。
+INSERTIONS:	10
+DELETIONS:	1
+SUBSTITUTIONS:	19
+NCHANGE:	30
+NTRUTH:	54
+NTEST:	63
+TRUE WORDS RECALL:	0.630
+TEST WORDS PRECISION:	0.540
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----122
+多數							      |	多
+假							      |	數假
+龍井								龍井
+通過								通過
+郵寄								郵寄
+銷							      |	銷往
+往							      <
+外地								外地
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	9
+NTEST:	8
+TRUE WORDS RECALL:	0.556
+TEST WORDS PRECISION:	0.625
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----123
+每							      |	每年
+年							      <
+3月								3月
+中旬								中旬
+至								至
+4月初								4月初
+，								，
+是								是
+湄潭縣							      |	湄
+春茶							      |	潭
+							      >	縣
+							      >	春
+							      >	茶
+出產								出產
+的								的
+高峰期								高峰期
+，								，
+此時								此時
+，								，
+湄潭縣							      |	湄
+							      >	潭
+							      >	縣
+郵政局								郵政局
+最大宗							      |	最
+							      >	大宗
+的								的
+生意								生意
+就是								就是
+處理								處理
+寄							      |	寄往
+往							      <
+外地								外地
+的								的
+茶葉								茶葉
+。								。
+INSERTIONS:	6
+DELETIONS:	2
+SUBSTITUTIONS:	6
+NCHANGE:	14
+NTRUTH:	29
+NTEST:	33
+TRUE WORDS RECALL:	0.724
+TEST WORDS PRECISION:	0.636
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----124
+清明								清明
+前								前
+，								，
+開始							      |	開
+有							      |	始有
+小量								小量
+茶葉								茶葉
+郵寄							      |	郵
+﹔							      |	寄﹔
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	9
+NTEST:	9
+TRUE WORDS RECALL:	0.556
+TEST WORDS PRECISION:	0.556
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----125
+春茶								春茶
+上市								上市
+後								後
+，								，
+最							      |	最多
+多							      <
+時								時
+一								一
+天								天
+要								要
+處理								處理
+幾百								幾百
+件								件
+，								，
+分別								分別
+寄							      |	寄到
+到							      <
+安徽								安徽
+、								、
+江蘇								江蘇
+、								、
+山東								山東
+、								、
+陝西								陝西
+、								、
+北京								北京
+、								、
+成都								成都
+、								、
+重慶								重慶
+等								等
+地								地
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	33
+NTEST:	31
+TRUE WORDS RECALL:	0.879
+TEST WORDS PRECISION:	0.935
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----126
+湄潭縣							      |	湄潭
+副							      |	縣副
+縣長								縣長
+楊游明							      |	楊游
+說							      |	明說
+，								，
+湄潭							      |	湄
+年產							      |	潭年
+茶葉							      |	產茶
+近							      |	葉近
+1800								1800
+噸								噸
+，								，
+一半								一半
+以上								以上
+遠銷								遠銷
+外省							      |	外
+							      >	省
+，								，
+由於							      |	由
+很							      |	於
+多							      |	很多
+交易								交易
+在							      |	在市
+市場							      |	場外
+外							      <
+進行								進行
+，							      |	，到
+到底							      |	底有
+有							      <
+多少								多少
+茶葉								茶葉
+假冒								假冒
+「							      |	「龍
+龍井							      |	井」
+」							      <
+外銷								外銷
+無法								無法
+統計								統計
+。								。
+INSERTIONS:	1
+DELETIONS:	3
+SUBSTITUTIONS:	18
+NCHANGE:	22
+NTRUTH:	39
+NTEST:	37
+TRUE WORDS RECALL:	0.462
+TEST WORDS PRECISION:	0.486
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----127
+賺取								賺取
+三四								三四
+倍								倍
+暴利								暴利
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	4
+NTEST:	4
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----128
+一							      |	一名
+名							      <
+浙江								浙江
+新昌								新昌
+的								的
+茶商								茶商
+說								說
+，								，
+正宗								正宗
+龍井								龍井
+產量								產量
+有限								有限
+，								，
+需求量								需求量
+大								大
+，								，
+價格								價格
+高								高
+，								，
+但								但
+慕名								慕名
+到								到
+產區								產區
+買								買
+茶								茶
+的								的
+外地								外地
+消費者								消費者
+卻								卻
+趨之若鶩							趨之若鶩
+，								，
+而								而
+貴州茶							      |	貴
+							      >	州茶
+品質								品質
+不							      |	不差
+差							      <
+，								，
+混雜								混雜
+在								在
+中間								中間
+根本								根本
+分							      |	分不
+不							      <
+出來								出來
+。								。
+INSERTIONS:	1
+DELETIONS:	3
+SUBSTITUTIONS:	4
+NCHANGE:	8
+NTRUTH:	45
+NTEST:	43
+TRUE WORDS RECALL:	0.844
+TEST WORDS PRECISION:	0.884
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----129
+在								在
+貴州								貴州
+每								每
+公斤								公斤
+春茶							      |	春
+平均價							      |	茶
+不							      |	平均
+超過							      |	價
+120							      |	不超
+元							      |	過120
+人民幣							      |	元人
+，							      |	民幣
+到							      |	，到
+浙江								浙江
+後							      |	後冒
+冒充							      |	充龍
+龍井							      |	井
+可								可
+賣								賣
+四五百							      |	四
+							      >	五百
+元								元
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	13
+NCHANGE:	14
+NTRUTH:	22
+NTEST:	23
+TRUE WORDS RECALL:	0.409
+TEST WORDS PRECISION:	0.391
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----130
+安徽								安徽
+茶商								茶商
+楊德余							      |	楊
+							      >	德
+							      >	余
+今年								今年
+3月								3月
+從							      |	從貴
+貴州							      |	州採
+採購							      |	購近
+近							      <
+1500								1500
+公斤								公斤
+茶葉								茶葉
+，								，
+運								運
+到								到
+安徽								安徽
+後								後
+幾							      |	幾天
+天							      <
+就								就
+賣							      |	賣光
+光							      <
+。								。
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	6
+NCHANGE:	11
+NTRUTH:	23
+NTEST:	22
+TRUE WORDS RECALL:	0.609
+TEST WORDS PRECISION:	0.636
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----131
+能								能
+賺								賺
+暴利								暴利
+，								，
+是								是
+假							      |	假龍
+龍井茶							      |	井茶
+源源不絕						      |	源源
+							      >	不絕
+行銷								行銷
+全							      |	全國
+國							      <
+的								的
+原因								原因
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	6
+NTRUTH:	14
+NTEST:	14
+TRUE WORDS RECALL:	0.643
+TEST WORDS PRECISION:	0.643
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----132
+蒲公英							      |	蒲
+							      >	公
+							      >	英
+蹂躪								蹂躪
+台灣								台灣
+殺								殺
+14							      |	14人
+人							      <
+21萬								21萬
+戶								戶
+停電								停電
+INSERTIONS:	2
+DELETIONS:	1
+SUBSTITUTIONS:	2
+NCHANGE:	5
+NTRUTH:	9
+NTEST:	10
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----133
+颱風								颱風
+「								「
+蒲公英							      |	蒲
+							      >	公英
+」								」
+已								已
+離開								離開
+台灣								台灣
+，								，
+但								但
+卻								卻
+為								為
+台灣								台灣
+帶來								帶來
+有史以來							有史以來
+最								最
+強勁								強勁
+的								的
+西南								西南
+氣流								氣流
+、								、
+強風								強風
+豪雨								豪雨
+，								，
+全							      |	全台
+台							      <
+災情								災情
+不斷								不斷
+，								，
+部分								部分
+山區								山區
+因							      |	因溪
+溪水							      |	水暴
+暴漲							      |	漲而
+而							      <
+山洪								山洪
+暴發								暴發
+，								，
+累計								累計
+有								有
+21萬								21萬
+餘							      |	餘戶
+戶							      <
+停電								停電
+。								。
+INSERTIONS:	1
+DELETIONS:	3
+SUBSTITUTIONS:	6
+NCHANGE:	10
+NTRUTH:	44
+NTEST:	42
+TRUE WORDS RECALL:	0.795
+TEST WORDS PRECISION:	0.833
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----134
+根據								根據
+災害								災害
+應變								應變
+中心								中心
+昨晚								昨晚
+最								最
+新							      |	新統
+統計							      |	計
+，								，
+全								全
+台								台
+至今								至今
+已								已
+有								有
+14							      |	14人
+人							      <
+死亡								死亡
+、								、
+6								6
+人								人
+受傷								受傷
+、								、
+8								8
+人							      |	人失
+失蹤							      |	蹤﹔
+﹔							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	26
+NTEST:	24
+TRUE WORDS RECALL:	0.731
+TEST WORDS PRECISION:	0.792
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----135
+綠島								綠島
+上							      |	上還
+還有							      |	有
+60							      |	60名
+名							      <
+遊客								遊客
+受困								受困
+，								，
+暫時								暫時
+沒有								沒有
+辦法								辦法
+返回								返回
+台灣								台灣
+本島								本島
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	15
+NTEST:	14
+TRUE WORDS RECALL:	0.733
+TEST WORDS PRECISION:	0.786
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----136
+農業								農業
+損失								損失
+9.87億							      |	987
+新台幣							      |	億新
+							      >	台幣
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	3
+NTRUTH:	4
+NTEST:	5
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.400
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----137
+台灣								台灣
+的								的
+農								農
+、								、
+林								林
+、								、
+漁								漁
+、								、
+牧業								牧業
+也								也
+受								受
+重創								重創
+，								，
+據								據
+台灣								台灣
+農業								農業
+委員會								委員會
+昨日								昨日
+上午								上午
+的								的
+統計								統計
+，								，
+損失								損失
+金額								金額
+達							      |	達9
+9.87億							      |	87億
+新台幣							      |	新
+							      >	台
+							      >	幣
+（								（
+約							      |	約2
+2.3億							      |	3億
+港元							      |	港
+							      >	元
+）								）
+，								，
+其中								其中
+以								以
+花蓮縣								花蓮縣
+農作物								農作物
+受損								受損
+最								最
+嚴重								嚴重
+，								，
+高							      |	高達
+達							      |	22
+2.2億							      |	億新
+新台幣							      |	台幣
+（								（
+約							      |	約5100
+5100萬							      |	萬港
+港元							      |	元
+）								）
+。								。
+INSERTIONS:	3
+DELETIONS:	0
+SUBSTITUTIONS:	13
+NCHANGE:	16
+NTRUTH:	51
+NTEST:	54
+TRUE WORDS RECALL:	0.745
+TEST WORDS PRECISION:	0.704
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----138
+至於								至於
+造成								造成
+如此								如此
+重大								重大
+災情								災情
+的								的
+原因								原因
+，								，
+台灣								台灣
+中央								中央
+氣象局							      |	氣象
+指							      |	局指
+是								是
+因為								因為
+受到								受到
+蒲公英							      |	蒲
+							      >	公
+							      >	英
+引進								引進
+強烈								強烈
+西南								西南
+氣流								氣流
+影響								影響
+，								，
+而								而
+未來							      |	未
+3							      |	來3
+到								到
+4							      |	4天
+天							      |	台
+台灣							      |	灣
+仍								仍
+持續								持續
+有								有
+豪雨								豪雨
+，								，
+並							      |	並伴
+伴隨							      |	隨強
+強							      |	陣
+陣風							      |	風
+及								及
+雷暴							      |	雷
+							      >	暴
+，								，
+須								須
+嚴加								嚴加
+防範								防範
+，								，
+山區								山區
+應							      |	應嚴
+嚴防							      |	防落
+落石							      |	石
+、								、
+坍方								坍方
+、								、
+山洪								山洪
+暴發								暴發
+及								及
+河水								河水
+暴漲								暴漲
+，								，
+低窪								低窪
+地區								地區
+嚴防								嚴防
+淹水								淹水
+，								，
+各								各
+地區							      |	地
+應							      |	區應
+防範								防範
+雷擊							      |	雷
+							      >	擊
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	19
+NCHANGE:	23
+NTRUTH:	69
+NTEST:	73
+TRUE WORDS RECALL:	0.725
+TEST WORDS PRECISION:	0.685
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----139
+山洪								山洪
+暴發								暴發
+活埋								活埋
+祖孫								祖孫
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	4
+NTEST:	4
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----140
+蒲公英							      |	蒲
+							      >	公
+							      >	英
+前天								前天
+離開								離開
+台灣								台灣
+，								，
+但								但
+它								它
+的								的
+威力								威力
+昨日								昨日
+才								才
+真正								真正
+發揮								發揮
+，								，
+台灣							      |	台
+中							      |	灣中
+、								、
+南部								南部
+地區							      |	地
+自							      |	區自
+清晨								清晨
+開始								開始
+就								就
+豪雨								豪雨
+不斷								不斷
+，								，
+阿里山								阿里山
+等								等
+部分								部分
+地區								地區
+的								的
+累積								累積
+雨量								雨量
+都								都
+在								在
+1000								1000
+毫米								毫米
+以上								以上
+，								，
+雖然								雖然
+大雨								大雨
+紓緩								紓緩
+了								了
+中								中
+、								、
+南部								南部
+稍								稍
+早							      |	早前
+前							      <
+的								的
+乾旱								乾旱
+情形								情形
+，								，
+但								但
+雨水								雨水
+一下子								一下子
+過								過
+多								多
+，								，
+再								再
+加上								加上
+海水								海水
+倒灌								倒灌
+，								，
+令								令
+低窪								低窪
+地區								地區
+嚴重								嚴重
+積水								積水
+，								，
+花蓮								花蓮
+、								、
+台南								台南
+、								、
+嘉義								嘉義
+、								、
+屏東								屏東
+、								、
+雲林								雲林
+、								、
+台中								台中
+都								都
+有								有
+民眾								民眾
+因此								因此
+受困								受困
+。								。
+INSERTIONS:	2
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	9
+NTRUTH:	87
+NTEST:	88
+TRUE WORDS RECALL:	0.920
+TEST WORDS PRECISION:	0.909
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----141
+台灣								台灣
+中部								中部
+橫貫								橫貫
+公路								公路
+多								多
+處								處
+路段								路段
+坍方								坍方
+，								，
+且								且
+有								有
+山洪								山洪
+暴發								暴發
+，								，
+造成								造成
+部分								部分
+路段								路段
+交通								交通
+中斷								中斷
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	20
+NTEST:	20
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----142
+南投								南投
+山區								山區
+有								有
+兩							      |	兩名
+名							      <
+民眾								民眾
+遭								遭
+溪水								溪水
+沖							      |	沖走
+走							      <
+，								，
+台中							      |	台
+東勢鎮							      |	中
+一							      |	東
+對							      |	勢鎮
+							      >	一對
+祖孫								祖孫
+被								被
+山洪								山洪
+活埋								活埋
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	6
+NCHANGE:	9
+NTRUTH:	20
+NTEST:	19
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.632
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----143
+此外								此外
+，								，
+南投								南投
+、								、
+台中								台中
+還有								還有
+10								10
+人								人
+因為								因為
+土石								土石
+坍塌								坍塌
+被困								被困
+，								，
+正								正
+待								待
+消防隊員							消防隊員
+救援								救援
+，								，
+目前								目前
+傷亡								傷亡
+情況								情況
+不明								不明
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	23
+NTEST:	23
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----144
+民眾								民眾
+指								指
+龍捲風								龍捲風
+毀								毀
+屋頂								屋頂
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	5
+NTEST:	5
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----145
+嘉義								嘉義
+、								、
+雲林								雲林
+地區								地區
+除了								除了
+海水							      |	海
+倒灌							      |	水倒
+淹							      |	灌淹
+大水								大水
+之外								之外
+，								，
+昨日								昨日
+凌晨								凌晨
+還								還
+出現								出現
+強烈								強烈
+陣風								陣風
+，								，
+嘉義								嘉義
+鐵路								鐵路
+公園								公園
+的								的
+小							      |	小火
+火車							      |	車車
+車廂							      |	廂與
+與							      |	松湖
+松湖宮							      |	宮前
+前							      <
+的								的
+百							      |	百年
+年							      |	老榕
+老							      |	樹
+榕樹							      <
+被								被
+吹								吹
+倒								倒
+，								，
+雲林								雲林
+部分								部分
+民宅								民宅
+屋頂								屋頂
+都								都
+被								被
+吹								吹
+毀								毀
+，								，
+民眾							      |	民
+指							      |	眾指
+是								是
+龍捲風								龍捲風
+造成								造成
+的								的
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	13
+NCHANGE:	15
+NTRUTH:	53
+NTEST:	51
+TRUE WORDS RECALL:	0.717
+TEST WORDS PRECISION:	0.745
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----146
+不過								不過
+，								，
+氣象局								氣象局
+強調								強調
+，								，
+除非								除非
+有人								有人
+目擊								目擊
+龍捲風								龍捲風
+的								的
+漏斗形							      |	漏斗
+旋轉							      |	形旋
+雲團							      |	轉
+							      >	雲
+							      >	團
+，								，
+否則								否則
+昨天								昨天
+凌晨								凌晨
+的								的
+強烈								強烈
+陣雨							      |	陣
+							      >	雨
+很								很
+可能								可能
+是								是
+蒲公英							      |	蒲
+							      >	公英
+引進								引進
+的								的
+旺盛								旺盛
+氣流								氣流
+中								中
+的								的
+對流								對流
+雷雨雲							      |	雷雨
+							      >	雲
+造成								造成
+的								的
+下衝								下衝
+氣流								氣流
+。								。
+INSERTIONS:	5
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	11
+NTRUTH:	37
+NTEST:	42
+TRUE WORDS RECALL:	0.838
+TEST WORDS PRECISION:	0.738
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----147
+GP							      |	GP電
+電池廠							      |	池廠
+鎘毒							      |	鎘
+疑							      |	毒疑
+禍及								禍及
+村民								村民
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	6
+NTEST:	6
+TRUE WORDS RECALL:	0.333
+TEST WORDS PRECISION:	0.333
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----148
+廣東							      |	廣
+惠州市							      |	東惠
+							      >	州市
+港資								港資
+電池廠							      |	電池
+工人							      |	廠工
+鎘							      |	人鎘
+中毒							      |	中
+事件							      |	毒事
+							      >	件
+有								有
+擴散								擴散
+趨勢								趨勢
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	7
+NCHANGE:	9
+NTRUTH:	12
+NTEST:	14
+TRUE WORDS RECALL:	0.417
+TEST WORDS PRECISION:	0.357
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----149
+昨日								昨日
+當地							      |	當
+多							      |	地多
+名							      |	名村
+村民							      |	民報
+報稱							      |	稱
+，								，
+驗身								驗身
+發現								發現
+尿液								尿液
+鎘								鎘
+含量								含量
+超標								超標
+，								，
+意味								意味
+除								除
+工廠								工廠
+員工								員工
+外								外
+，								，
+周圍								周圍
+村民								村民
+也								也
+懷疑								懷疑
+遭受								遭受
+感染								感染
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	5
+NCHANGE:	5
+NTRUTH:	27
+NTEST:	27
+TRUE WORDS RECALL:	0.815
+TEST WORDS PRECISION:	0.815
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----150
+目前								目前
+，								，
+港資廠							      |	港資
+							      >	廠
+所在地								所在地
+的								的
+大批							      |	大批村
+村民							      |	民及
+及							      <
+住戶								住戶
+人心惶惶							人心惶惶
+，								，
+許多								許多
+人							      |	人連
+連							      |	自來
+自來水							      |	水
+都								都
+不敢							      |	不
+飲							      |	敢飲
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	8
+NCHANGE:	10
+NTRUTH:	19
+NTEST:	19
+TRUE WORDS RECALL:	0.526
+TEST WORDS PRECISION:	0.526
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----151
+惠州								惠州
+政府								政府
+對此								對此
+尚未								尚未
+採取								採取
+特別								特別
+措施								措施
+，								，
+只							      |	只將
+將							      <
+上百								上百
+名								名
+中毒								中毒
+工人								工人
+送往								送往
+當地								當地
+及								及
+廣州							      |	廣
+多							      |	州多
+間							      |	間醫
+醫院							      |	院治
+治療							      |	療
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	7
+NTRUTH:	23
+NTEST:	22
+TRUE WORDS RECALL:	0.696
+TEST WORDS PRECISION:	0.727
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----152
+發生								發生
+氧化鎘							      |	氧化
+							      >	鎘
+中毒								中毒
+的								的
+工廠								工廠
+為							      |	為生
+生產							      |	產本
+本							      |	港十
+港							      |	大名
+十							      |	牌「
+大							      |	GP超
+名牌							      |	霸電
+「							      |	池」
+GP							      <
+超霸							      <
+電池							      <
+」							      <
+的								的
+超霸								超霸
+電池								電池
+有限公司							有限公司
+，								，
+工廠								工廠
+位於							      |	位
+惠州市							      |	於惠
+小金口鎮						      |	州市
+大樹林村						      |	小
+							      >	金
+							      >	口鎮
+							      >	大樹
+							      >	林
+							      >	村
+。								。
+INSERTIONS:	6
+DELETIONS:	4
+SUBSTITUTIONS:	13
+NCHANGE:	23
+NTRUTH:	28
+NTEST:	30
+TRUE WORDS RECALL:	0.393
+TEST WORDS PRECISION:	0.367
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----153
+該							      |	該廠
+廠							      |	有千
+有							      |	餘名
+千							      <
+餘							      <
+名							      <
+工人								工人
+，								，
+多數							      |	多
+為							      |	數為
+女工								女工
+，								，
+而								而
+附近								附近
+大樹林村						      |	大樹
+則							      |	林
+有							      |	村
+3000							      |	則有
+多							      |	3000多
+名							      |	名村
+村民							      |	民及
+及							      <
+外來								外來
+人口								人口
+。								。
+INSERTIONS:	0
+DELETIONS:	4
+SUBSTITUTIONS:	12
+NCHANGE:	16
+NTRUTH:	25
+NTEST:	21
+TRUE WORDS RECALL:	0.360
+TEST WORDS PRECISION:	0.429
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----154
+村民								村民
+懷疑								懷疑
+自來水							      |	自來
+受							      |	水受
+污染								污染
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	5
+NTEST:	5
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----155
+據							      |	據記
+記者							      |	者
+昨日								昨日
+在								在
+現場								現場
+了解							      |	了
+							      >	解
+，								，
+因								因
+有								有
+多								多
+名							      |	名村
+村民							      |	民
+懷疑								懷疑
+也								也
+因								因
+氧化鎘							      |	氧化
+							      >	鎘
+中毒								中毒
+，								，
+令								令
+當地								當地
+居民								居民
+人心惶惶							人心惶惶
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	23
+NTEST:	25
+TRUE WORDS RECALL:	0.739
+TEST WORDS PRECISION:	0.680
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----156
+有								有
+村民								村民
+說								說
+，								，
+聽聞								聽聞
+此							      |	此事
+事							      <
+後								後
+較為								較為
+擔心								擔心
+，								，
+因為								因為
+搞								搞
+不								不
+懂								懂
+氧化鎘							      |	氧化
+到底							      |	鎘到
+							      >	底
+是								是
+什麼								什麼
+東西								東西
+，								，
+自己								自己
+即使								即使
+不							      |	不小
+小心							      |	心染
+染上							      |	上
+都								都
+不會								不會
+察覺								察覺
+，								，
+也								也
+不								不
+知道								知道
+到								到
+哪裏								哪裏
+檢驗								檢驗
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	37
+NTEST:	37
+TRUE WORDS RECALL:	0.811
+TEST WORDS PRECISION:	0.811
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----157
+還有								還有
+一些								一些
+村民								村民
+批評								批評
+惠州								惠州
+政府								政府
+事發								事發
+後								後
+反應								反應
+遲鈍								遲鈍
+，								，
+電池廠							      |	電池
+							      >	廠
+工人								工人
+中毒								中毒
+之								之
+事								事
+已經								已經
+鬧								鬧
+了								了
+很								很
+久								久
+，								，
+但								但
+當地								當地
+政府								政府
+往往								往往
+站								站
+在								在
+廠方								廠方
+立場								立場
+，								，
+對								對
+工人								工人
+要求								要求
+不理不睬						      |	不理
+							      >	不
+							      >	睬
+，								，
+現在								現在
+事件								事件
+搞大								搞大
+了								了
+，								，
+不僅								不僅
+港資廠							      |	港
+							      >	資廠
+上百								上百
+名								名
+員工								員工
+中毒								中毒
+，								，
+連							      |	連周
+周圍							      |	圍村
+村民							      |	民
+也								也
+受								受
+影響								影響
+，								，
+可是								可是
+政府								政府
+至今								至今
+未								未
+採取								採取
+什麼								什麼
+具體								具體
+措施								措施
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	10
+NTRUTH:	64
+NTEST:	68
+TRUE WORDS RECALL:	0.906
+TEST WORDS PRECISION:	0.853
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----158
+一							      |	一名
+名							      |	朱姓
+朱							      <
+姓							      <
+載客								載客
+電單車							      |	電單
+司機							      |	車司
+向							      |	機向
+記者								記者
+說								說
+，								，
+上								上
+星期							      |	星期去
+去							      |	該港
+該							      |	資電
+港資							      |	池廠
+電池廠							      <
+見工								見工
+，								，
+檢查								檢查
+身體								身體
+時							      |	時卻
+卻							      <
+查出								查出
+自己								自己
+也							      |	也是
+是							      |	氧化
+氧化鎘							      |	鎘
+含量								含量
+超標								超標
+，								，
+但								但
+屬							      |	屬較
+較							      <
+輕微								輕微
+中毒								中毒
+。								。
+INSERTIONS:	0
+DELETIONS:	5
+SUBSTITUTIONS:	14
+NCHANGE:	19
+NTRUTH:	37
+NTEST:	32
+TRUE WORDS RECALL:	0.486
+TEST WORDS PRECISION:	0.562
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----159
+朱							      |	朱先生
+先生							      <
+很								很
+奇怪								奇怪
+，								，
+自己								自己
+並非								並非
+該							      |	該廠
+廠							      <
+員工								員工
+，								，
+為何								為何
+也								也
+會								會
+氧化鎘							      |	氧化
+							      >	鎘
+含量								含量
+超標								超標
+﹖								﹖
+他								他
+後來								後來
+了解								了解
+到								到
+，								，
+村裏								村裏
+有								有
+多								多
+名							      |	名村
+村民							      |	民
+也								也
+出現								出現
+類似								類似
+徵狀								徵狀
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	8
+NTRUTH:	33
+NTEST:	32
+TRUE WORDS RECALL:	0.788
+TEST WORDS PRECISION:	0.812
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----160
+當地								當地
+有人								有人
+分析								分析
+，								，
+這								這
+可能								可能
+是								是
+自來水								自來水
+受到								受到
+污染								污染
+，								，
+一些								一些
+村民								村民
+因此								因此
+連								連
+村裏								村裏
+的								的
+自來水								自來水
+也								也
+不敢							      |	不
+喝							      |	敢喝
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	22
+NTEST:	22
+TRUE WORDS RECALL:	0.909
+TEST WORDS PRECISION:	0.909
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----161
+據							      |	據港
+港資							      |	資電
+電池廠							      |	池廠
+多							      |	多名
+名							      <
+女工								女工
+透露								透露
+，								，
+接觸								接觸
+氧化鎘							      |	氧化
+多							      |	鎘多
+了								了
+，								，
+會								會
+出現								出現
+全身								全身
+無力								無力
+、								、
+喉嚨痛							      |	喉
+							      >	嚨痛
+、								、
+頭暈								頭暈
+等								等
+徵狀								徵狀
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	7
+NCHANGE:	9
+NTRUTH:	24
+NTEST:	24
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.667
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----162
+女工							      |	女
+姚							      |	工姚
+小姐								小姐
+表示								表示
+，								，
+自己								自己
+早些								早些
+年								年
+經常								經常
+手爛腳爛						      |	手爛
+							      >	腳
+							      >	爛
+，								，
+有時								有時
+因								因
+痕癢								痕癢
+把							      |	把手
+手上							      |	上
+的								的
+皮肉								皮肉
+都								都
+抓							      |	抓破
+破							      |	抓損
+抓							      <
+損							      <
+，								，
+她								她
+為此								為此
+多								多
+次							      |	次去
+去							      <
+醫院								醫院
+求診								求診
+，								，
+但								但
+搞								搞
+不							      |	不清
+清							      <
+是								是
+什麼								什麼
+病								病
+，								，
+直到								直到
+最近								最近
+才							      |	才明
+明白							      |	白
+是								是
+氧化鎘							      |	氧化
+							      >	鎘
+中毒								中毒
+。								。
+INSERTIONS:	3
+DELETIONS:	4
+SUBSTITUTIONS:	12
+NCHANGE:	19
+NTRUTH:	48
+NTEST:	47
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.681
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----163
+據								據
+了解							      |	了
+							      >	解
+，								，
+目前								目前
+最								最
+嚴重								嚴重
+的								的
+中毒								中毒
+員工								員工
+出現								出現
+腎臟								腎臟
+受損								受損
+情況								情況
+，								，
+還有								還有
+懷孕								懷孕
+女工								女工
+因此								因此
+兩								兩
+次								次
+流產								流產
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	22
+NTEST:	23
+TRUE WORDS RECALL:	0.955
+TEST WORDS PRECISION:	0.913
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----164
+當地								當地
+藥學							      |	藥
+							      >	學
+專家								專家
+指出								指出
+，								，
+氧化鎘							      |	氧化
+							      >	鎘
+可								可
+致癌								致癌
+，								，
+其								其
+毒性								毒性
+較								較
+慢								慢
+，								，
+但								但
+正常人							      |	正常
+若							      |	人若
+吸入								吸入
+1							      |	1克
+克							      |	氧化
+氧化鎘							      |	鎘
+即								即
+可								可
+致命								致命
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	7
+NCHANGE:	9
+NTRUTH:	25
+NTEST:	27
+TRUE WORDS RECALL:	0.720
+TEST WORDS PRECISION:	0.667
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----165
+黑面								黑面
+琵鷺								琵鷺
+大連								大連
+覓食								覓食
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	4
+NTEST:	4
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----166
+國際							      |	國
+瀕危							      |	際瀕
+鳥類							      |	危鳥
+「							      |	類「
+黑臉								黑臉
+琵鷺								琵鷺
+」								」
+在								在
+中國大陸							中國大陸
+的								的
+覓食								覓食
+地點								地點
+一直								一直
+是								是
+謎								謎
+，								，
+近日								近日
+專家								專家
+首次								首次
+發現								發現
+遼寧								遼寧
+大連								大連
+莊河港							      |	莊
+與							      |	河港
+蛤蠣島							      |	與蛤
+之間							      |	蠣島
+							      >	之
+							      >	間
+的								的
+海灘								海灘
+原來								原來
+就							      |	就是
+是							      |	繁殖
+繁殖期							      |	期
+黑臉								黑臉
+琵鷺								琵鷺
+的								的
+覓食地							      |	覓食
+							      >	地
+。								。
+INSERTIONS:	3
+DELETIONS:	0
+SUBSTITUTIONS:	12
+NCHANGE:	15
+NTRUTH:	37
+NTEST:	40
+TRUE WORDS RECALL:	0.676
+TEST WORDS PRECISION:	0.625
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----167
+黑臉								黑臉
+琵鷺								琵鷺
+全球								全球
+僅存							      |	僅
+1000							      |	存1000
+隻								隻
+左右								左右
+，								，
+在								在
+北韓								北韓
+和								和
+中國								中國
+東北								東北
+繁殖								繁殖
+，								，
+於								於
+台灣								台灣
+、								、
+香港								香港
+、								、
+越南								越南
+等								等
+地								地
+過冬								過冬
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	25
+NTEST:	25
+TRUE WORDS RECALL:	0.920
+TEST WORDS PRECISION:	0.920
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----168
+黑臉								黑臉
+琵鷺								琵鷺
+在								在
+中國大陸							中國大陸
+唯一								唯一
+的								的
+繁殖地								繁殖地
+，								，
+是								是
+在								在
+大連								大連
+長海縣							      |	長
+石城島鄉						      |	海
+							      >	縣
+							      >	石城
+							      >	島鄉
+的								的
+形人砣子						      |	形人
+，							      |	砣子
+但是							      |	，但
+覓食							      <
+地							      <
+始終							      <
+是								是
+個							      |	覓食
+謎							      |	地始
+							      >	終是
+							      >	個謎
+。								。
+INSERTIONS:	5
+DELETIONS:	3
+SUBSTITUTIONS:	7
+NCHANGE:	15
+NTRUTH:	24
+NTEST:	26
+TRUE WORDS RECALL:	0.583
+TEST WORDS PRECISION:	0.538
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----169
+新華社								新華社
+說								說
+，								，
+上月								上月
+27							      |	27日
+日							      <
+，								，
+瀋陽								瀋陽
+理工								理工
+大學								大學
+生態								生態
+環境								環境
+研究室							      |	研究
+副教授							      |	室副
+周海翔							      |	教授
+							      >	周海
+							      >	翔
+以及								以及
+志願者								志願者
+組成								組成
+的								的
+調查隊								調查隊
+，								，
+透過								透過
+高倍							      |	高
+望遠鏡							      |	倍望
+觀察							      |	遠
+到							      |	鏡觀
+一							      |	察到
+隻							      |	一隻
+黑臉								黑臉
+琵鷺								琵鷺
+正在								正在
+莊河港							      |	莊河
+與							      |	港與
+蛤蠣島							      |	蛤蠣
+							      >	島
+之間								之間
+退潮								退潮
+後								後
+留下								留下
+的								的
+海溝								海溝
+附近								附近
+覓食								覓食
+小							      |	小魚
+魚							      <
+。								。
+INSERTIONS:	3
+DELETIONS:	2
+SUBSTITUTIONS:	14
+NCHANGE:	19
+NTRUTH:	45
+NTEST:	46
+TRUE WORDS RECALL:	0.644
+TEST WORDS PRECISION:	0.630
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----170
+調查								調查
+人員								人員
+隨即								隨即
+跟蹤								跟蹤
+調查								調查
+，								，
+又								又
+在								在
+同一								同一
+區域								區域
+先後								先後
+發現								發現
+6							      |	6隻
+隻							      <
+黑臉								黑臉
+琵鷺							      |	琵
+							      >	鷺
+，								，
+從而								從而
+揭開								揭開
+繁殖期							      |	繁殖
+							      >	期
+黑臉								黑臉
+琵鷺								琵鷺
+在								在
+中國								中國
+的								的
+覓食地							      |	覓食
+							      >	地
+之								之
+謎								謎
+。								。
+INSERTIONS:	3
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	8
+NTRUTH:	29
+NTEST:	31
+TRUE WORDS RECALL:	0.828
+TEST WORDS PRECISION:	0.774
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----171
+內蒙							      |	內
+黃河							      |	蒙黃
+流域							      |	河流
+漂							      |	域漂
+死魚								死魚
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	5
+NTEST:	5
+TRUE WORDS RECALL:	0.200
+TEST WORDS PRECISION:	0.200
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----172
+黃河							      |	黃
+內蒙古							      |	河內
+烏拉特前旗						      |	蒙古
+							      >	烏拉
+							      >	特前
+							      >	旗
+的								的
+三湖河口段						      |	三
+							      >	湖
+							      >	河口
+							      >	段
+上月底								上月底
+嚴重								嚴重
+污染								污染
+，								，
+河水								河水
+發黑								發黑
+發臭							      |	發
+							      >	臭
+，								，
+魚類								魚類
+大批								大批
+死亡								死亡
+，								，
+包頭市								包頭市
+被迫								被迫
+關閉								關閉
+了								了
+3								3
+個							      |	個黃
+黃河							      |	河水
+水廠							      |	廠取
+取水口							      |	水
+							      >	口
+，								，
+緊急								緊急
+啟動								啟動
+應急								應急
+供水								供水
+系統								系統
+。								。
+INSERTIONS:	8
+DELETIONS:	0
+SUBSTITUTIONS:	9
+NCHANGE:	17
+NTRUTH:	33
+NTEST:	41
+TRUE WORDS RECALL:	0.727
+TEST WORDS PRECISION:	0.585
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----173
+三湖河口段						      |	三湖
+							      >	河口段
+河面								河面
+上月								上月
+被								被
+造紙廠								造紙廠
+廢水								廢水
+污染								污染
+，								，
+出現								出現
+幾千								幾千
+條								條
+死魚							      |	死
+							      >	魚
+，								，
+最								最
+長								長
+的								的
+大有								大有
+一								一
+呎								呎
+半								半
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	21
+NTEST:	23
+TRUE WORDS RECALL:	0.905
+TEST WORDS PRECISION:	0.826
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----174
+死魚							      |	死
+							      >	魚
+的								的
+種類								種類
+不僅								不僅
+有							      |	有黃
+黃河							      |	河鯉
+鯉魚							      |	魚
+，								，
+還有								還有
+自治區級						      |	自治
+							      >	區級
+保護								保護
+動物								動物
+黃河								黃河
+鯰魚								鯰魚
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	15
+NTEST:	17
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.588
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----175
+這							      |	這次
+次							      <
+污染								污染
+是								是
+上游								上游
+烏拉特前旗						      |	烏拉
+							      >	特前
+							      >	旗
+的								的
+塞外星							      |	塞外
+							      >	星
+、								、
+北辰								北辰
+、								、
+華章							      |	華
+3							      |	章
+家							      |	3家
+造紙廠							      |	造紙
+違規							      |	廠違
+							      >	規
+排放								排放
+污水								污水
+造成								造成
+。								。
+INSERTIONS:	4
+DELETIONS:	1
+SUBSTITUTIONS:	8
+NCHANGE:	13
+NTRUTH:	20
+NTEST:	23
+TRUE WORDS RECALL:	0.550
+TEST WORDS PRECISION:	0.478
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----176
+當局								當局
+本							      |	本月
+月							      |	1日
+1							      <
+日							      <
+已								已
+責令								責令
+塞外星							      |	塞外
+							      >	星
+、								、
+北辰								北辰
+立即								立即
+停產								停產
+治理								治理
+污染								污染
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	3
+NCHANGE:	6
+NTRUTH:	15
+NTEST:	14
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----177
+廣東								廣東
+貨車								貨車
+墜							      |	墜水
+水庫							      |	庫10
+10							      <
+死傷								死傷
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	2
+NCHANGE:	3
+NTRUTH:	6
+NTEST:	5
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----178
+廣東								廣東
+雷州							      |	雷
+本							      |	州
+月							      |	本月
+2							      |	2日
+日							      <
+發生								發生
+嚴重								嚴重
+車禍								車禍
+，								，
+一								一
+輛								輛
+載有								載有
+10								10
+人								人
+的								的
+農用								農用
+小							      |	小貨
+貨車							      |	車
+在								在
+爬坡							      |	爬
+時							      |	坡時
+故障								故障
+，								，
+失控								失控
+墜落								墜落
+斜坡								斜坡
+下							      |	下一
+一							      |	個水
+個							      |	深達
+水深							      |	4米
+達							      <
+4							      <
+米							      <
+多								多
+的								的
+堵海								堵海
+大壩								大壩
+閘口							      |	閘
+							      >	口
+，								，
+1							      |	1人
+人							      <
+當場								當場
+死亡								死亡
+，								，
+另外								另外
+9								9
+人								人
+嚴重								嚴重
+受傷								受傷
+，								，
+其中								其中
+3							      |	3人
+人							      <
+生命								生命
+垂危							      |	垂
+							      >	危
+。								。
+INSERTIONS:	2
+DELETIONS:	6
+SUBSTITUTIONS:	16
+NCHANGE:	24
+NTRUTH:	57
+NTEST:	53
+TRUE WORDS RECALL:	0.614
+TEST WORDS PRECISION:	0.660
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----179
+當地								當地
+有關								有關
+部門								部門
+正								正
+加緊								加緊
+調查								調查
+事故								事故
+原因								原因
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	9
+NTEST:	9
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----180
+董							      |	董救
+救火							      |	火超
+超額							      |	額
+教師								教師
+今年								今年
+保							      |	保不
+不							      <
+失業								失業
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	5
+NTRUTH:	8
+NTEST:	7
+TRUE WORDS RECALL:	0.375
+TEST WORDS PRECISION:	0.429
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----181
+正當							      |	正
+百							      |	當百
+多								多
+名								名
+超額								超額
+教師								教師
+昨午								昨午
+3								3
+時							      |	時開
+開始							      |	始
+在								在
+皇后像								皇后像
+廣場								廣場
+絕食							      |	絕
+							      >	食
+之際								之際
+，								，
+特首								特首
+董建華								董建華
+火速								火速
+「							      |	「救
+救火							      |	火」
+」							      <
+，								，
+突然								突然
+發表							      |	發
+聲明							      |	表聲
+答應							      |	明答
+與							      |	應與
+教協								教協
+見面								見面
+，							      |	，「
+「							      <
+下令								下令
+」								」
+教統局長							教統局長
+李國章								李國章
+認真								認真
+研究								研究
+超額								超額
+教師								教師
+的								的
+問題								問題
+，								，
+制訂								制訂
+公平								公平
+、								、
+合理								合理
+、								、
+持久								持久
+的								的
+解決								解決
+方案								方案
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	12
+NCHANGE:	15
+NTRUTH:	53
+NTEST:	52
+TRUE WORDS RECALL:	0.736
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----182
+李國章								李國章
+「								「
+拍							      |	拍膊
+膊頭							      |	頭」
+」							      <
+游說								游說
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	2
+NCHANGE:	3
+NTRUTH:	6
+NTEST:	5
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----183
+教統局								教統局
+消息								消息
+人士								人士
+昨晚								昨晚
+透露								透露
+，								，
+局方								局方
+決定								決定
+「								「
+包底								包底
+」								」
+，								，
+保證								保證
+全部								全部
+超額								超額
+教師								教師
+今年								今年
+不會								不會
+失業								失業
+，								，
+即使								即使
+未能								未能
+找								找
+得								得
+全職								全職
+教席								教席
+，								，
+亦								亦
+可								可
+保證								保證
+安排								安排
+作							      |	作特
+特設							      |	設代
+代課							      |	課教
+教師							      |	師職
+職位							      |	位﹔
+﹔							      <
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	6
+NTRUTH:	37
+NTEST:	36
+TRUE WORDS RECALL:	0.838
+TEST WORDS PRECISION:	0.861
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----184
+李國章								李國章
+將								將
+會							      |	會「
+「							      |	拍膊
+拍							      |	頭
+膊頭							      <
+」								」
+，								，
+親自							      |	親
+游說							      |	自游
+							      >	說
+各								各
+校								校
+聘請								聘請
+超額								超額
+教師								教師
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	16
+NTEST:	16
+TRUE WORDS RECALL:	0.625
+TEST WORDS PRECISION:	0.625
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----185
+學者								學者
+﹕							      |	﹕董
+董							      |	等
+等於							      |	於
+回應								回應
+七一								七一
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	3
+NTRUTH:	6
+NTEST:	6
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.500
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----186
+對於								對於
+特首								特首
+介入								介入
+，								，
+中大								中大
+政治								政治
+及								及
+行政								行政
+學系								學系
+高級								高級
+導師								導師
+蔡子強							      |	蔡子
+							      >	強
+認為								認為
+，								，
+事件								事件
+可能								可能
+會							      |	會有
+有							      |	轉
+轉機							      |	機
+，								，
+李國章								李國章
+隨時								隨時
+會								會
+以								以
+超額								超額
+教師								教師
+作							      |	作籌
+籌碼							      |	碼
+，								，
+向								向
+特首								特首
+爭取								爭取
+更								更
+多								多
+資源								資源
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	7
+NTRUTH:	36
+NTEST:	37
+TRUE WORDS RECALL:	0.833
+TEST WORDS PRECISION:	0.811
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----187
+同時								同時
+，								，
+董建華								董建華
+的								的
+反應								反應
+等於								等於
+回應								回應
+「							      |	「七
+七一							      |	一
+」								」
+後							      |	後市
+市民							      |	民
+的								的
+民意								民意
+，								，
+董								董
+希望								希望
+在								在
+民怨								民怨
+未								未
+升級								升級
+前							      |	前解
+解決							      |	決問
+問題							      |	題
+，								，
+故								故
+迅速								迅速
+介入								介入
+「							      |	「降
+降溫							      |	溫」
+」							      <
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	9
+NCHANGE:	10
+NTRUTH:	32
+NTEST:	31
+TRUE WORDS RECALL:	0.688
+TEST WORDS PRECISION:	0.710
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----188
+至於								至於
+特設								特設
+代課								代課
+教師								教師
+的								的
+薪金								薪金
+方面								方面
+，								，
+消息								消息
+人士								人士
+稱								稱
+，								，
+暫時								暫時
+只能								只能
+按								按
+申訴								申訴
+專員								專員
+公署								公署
+的								的
+建議								建議
+支薪								支薪
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	22
+NTEST:	22
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----189
+而								而
+申訴								申訴
+專員								專員
+公署								公署
+亦								亦
+已								已
+答允							      |	答
+與							      |	允與
+教協								教協
+直接								直接
+見面								見面
+，								，
+商討								商討
+如何								如何
+解決								解決
+超額								超額
+教師								教師
+的								的
+問題								問題
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	20
+NTEST:	20
+TRUE WORDS RECALL:	0.900
+TEST WORDS PRECISION:	0.900
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----190
+教協								教協
+為								為
+超額								超額
+教師								教師
+問題								問題
+，								，
+昨午								昨午
+組織							      |	組
+百							      |	織百
+多								多
+名							      |	名教
+教師							      |	師絕
+絕食							      |	食
+，								，
+特首辦							      |	特首
+							      >	辦
+發言人								發言人
+即								即
+發出								發出
+聲明								聲明
+，							      |	，指
+指							      <
+收到								收到
+教協								教協
+會長								會長
+張文光								張文光
+的								的
+來函								來函
+，								，
+希望								希望
+與								與
+特首								特首
+會面								會面
+討論								討論
+超額								超額
+教師								教師
+問題								問題
+，								，
+特首								特首
+非常								非常
+關注								關注
+此								此
+問題								問題
+，								，
+並								並
+已							      |	已要
+要求							      |	求李
+李國章							      |	國章
+繼續								繼續
+認真								認真
+研究								研究
+，								，
+並							      |	並與
+與							      <
+所有								所有
+相關								相關
+人士								人士
+和								和
+團體								團體
+，								，
+包括								包括
+教協								教協
+討論								討論
+此							      |	此事
+事							      <
+，								，
+以								以
+制訂								制訂
+解決								解決
+方案								方案
+。								。
+INSERTIONS:	1
+DELETIONS:	3
+SUBSTITUTIONS:	12
+NCHANGE:	16
+NTRUTH:	70
+NTEST:	68
+TRUE WORDS RECALL:	0.786
+TEST WORDS PRECISION:	0.809
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----191
+特首辦							      |	特首
+							      >	辦
+發言人								發言人
+指出								指出
+，								，
+特首							      |	特
+願意							      |	首願
+與							      |	意與
+教協								教協
+見面								見面
+，								，
+現時								現時
+雙方								雙方
+仍								仍
+在								在
+商討								商討
+合適								合適
+的								的
+見面								見面
+時間								時間
+，								，
+未								未
+決定								決定
+特首								特首
+和								和
+李國章								李國章
+會否								會否
+一同							      |	一同與
+與							      <
+教協								教協
+會面								會面
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	31
+NTEST:	31
+TRUE WORDS RECALL:	0.806
+TEST WORDS PRECISION:	0.806
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----192
+張文光								張文光
+感謝								感謝
+特首								特首
+願								願
+見								見
+教協								教協
+，								，
+而								而
+特首辦							      |	特
+							      >	首辦
+希望								希望
+教協							      |	教
+代表							      |	協代
+先							      |	表先
+見								見
+李國章								李國章
+，								，
+再							      |	再見
+見							      <
+董建華								董建華
+，								，
+故								故
+昨日								昨日
+已								已
+發信								發信
+邀請								邀請
+李國章								李國章
+於								於
+下周一							      |	下周
+會面							      |	一會
+							      >	面
+，								，
+希望								希望
+早日								早日
+解決								解決
+問題								問題
+，								，
+以免								以免
+教師								教師
+行動								行動
+持續								持續
+升溫								升溫
+。								。
+INSERTIONS:	2
+DELETIONS:	1
+SUBSTITUTIONS:	7
+NCHANGE:	10
+NTRUTH:	41
+NTEST:	42
+TRUE WORDS RECALL:	0.805
+TEST WORDS PRECISION:	0.786
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----193
+董								董
+將							      |	將與
+與							      <
+教協								教協
+會晤								會晤
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	5
+NTEST:	4
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----194
+李國章								李國章
+昨日								昨日
+說								說
+，								，
+特首							      |	特
+曾							      |	首曾
+告訴								告訴
+他								他
+收到								收到
+教協								教協
+的								的
+信件								信件
+，								，
+雙方							      |	雙
+願							      |	方願
+保持								保持
+溝通								溝通
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	18
+NTEST:	18
+TRUE WORDS RECALL:	0.778
+TEST WORDS PRECISION:	0.778
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----195
+他								他
+說								說
+，								，
+超額								超額
+教師								教師
+未來								未來
+會								會
+繼續								繼續
+出現								出現
+，								，
+局方								局方
+以前								以前
+維護								維護
+超額								超額
+教師								教師
+延長								延長
+優先								優先
+聘用								聘用
+期								期
+，								，
+但								但
+被								被
+申訴								申訴
+專員								專員
+公署								公署
+批評								批評
+，								，
+故								故
+作出								作出
+改變								改變
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	31
+NTEST:	31
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----196
+而								而
+局方								局方
+已								已
+去信								去信
+辦學								辦學
+團體								團體
+，								，
+鼓勵								鼓勵
+學校								學校
+優先								優先
+考慮								考慮
+聘請								聘請
+超額								超額
+教師								教師
+，							      |	，但
+但							      <
+不會								不會
+強迫								強迫
+學校								學校
+聘請								聘請
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	21
+NTEST:	20
+TRUE WORDS RECALL:	0.905
+TEST WORDS PRECISION:	0.950
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----197
+教改								教改
+支援								支援
+可								可
+吸納								吸納
+130							      |	130人
+人							      <
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	6
+NTEST:	5
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.800
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----198
+李國章								李國章
+說								說
+，								，
+政府								政府
+撥出								撥出
+5.5億							      |	55
+元							      |	億元
+支援								支援
+學校								學校
+教改								教改
+的								的
+計劃								計劃
+，								，
+部分								部分
+可								可
+用作								用作
+提供								提供
+130							      |	130個
+個							      <
+教席								教席
+，								，
+加上								加上
+現時								現時
+教席								教席
+空缺								空缺
+，							      |	，合
+合共							      |	共約
+約							      |	有500
+有							      |	個空
+500							      |	缺
+個							      <
+空缺							      <
+，								，
+相信								相信
+可								可
+吸納								吸納
+超額								超額
+教師								教師
+及								及
+新								新
+畢業生								畢業生
+。								。
+INSERTIONS:	0
+DELETIONS:	3
+SUBSTITUTIONS:	8
+NCHANGE:	11
+NTRUTH:	42
+NTEST:	39
+TRUE WORDS RECALL:	0.738
+TEST WORDS PRECISION:	0.795
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----199
+但								但
+張文光								張文光
+指								指
+該								該
+支援								支援
+計劃								計劃
+細節								細節
+及							      |	及時
+時間							      |	間
+未定								未定
+，								，
+不								不
+可能								可能
+在								在
+新								新
+學年								學年
+推行								推行
+，								，
+故							      |	故無
+無助							      |	助解
+解決							      |	決問
+問題							      |	題
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	6
+NTRUTH:	23
+NTEST:	23
+TRUE WORDS RECALL:	0.739
+TEST WORDS PRECISION:	0.739
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----200
+張							      |	張與
+與							      |	李
+李國章							      |	國章
+見面								見面
+時								時
+，								，
+將								將
+會								會
+提出								提出
+短期								短期
+及								及
+中期								中期
+解決								解決
+辦法								辦法
+，								，
+如							      |	如建
+建議							      |	議學
+學校							      |	校
+聘請								聘請
+超額								超額
+教師								教師
+及								及
+新								新
+畢業								畢業
+教師								教師
+各								各
+一半								一半
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	6
+NTRUTH:	28
+NTEST:	28
+TRUE WORDS RECALL:	0.786
+TEST WORDS PRECISION:	0.786
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----201
+逾							      |	逾百
+百							      <
+教師								教師
+冒雨								冒雨
+絕食								絕食
+張文光							      |	張文
+							      >	光
+﹕								﹕
+每								每
+星期								星期
+都								都
+絕食								絕食
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	11
+NTEST:	11
+TRUE WORDS RECALL:	0.727
+TEST WORDS PRECISION:	0.727
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----202
+逾								逾
+100							      |	100名
+名							      <
+教師								教師
+昨午								昨午
+3								3
+時								時
+在								在
+皇后像								皇后像
+廣場								廣場
+，								，
+冒雨								冒雨
+開始								開始
+24							      |	24小
+小時							      |	時絕
+絕食							      |	食靜
+靜坐							      |	坐﹔
+﹔							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	18
+NTEST:	16
+TRUE WORDS RECALL:	0.611
+TEST WORDS PRECISION:	0.688
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----203
+教協								教協
+會長								會長
+張文光								張文光
+聲言								聲言
+若								若
+超額								超額
+教師								教師
+就業								就業
+問題								問題
+仍								仍
+未能								未能
+改善								改善
+，								，
+「								「
+每								每
+星期								星期
+都								都
+絕食								絕食
+」								」
+，								，
+不少								不少
+超額								超額
+教師								教師
+也								也
+表示								表示
+會								會
+繼續								繼續
+支持								支持
+絕食								絕食
+行動								行動
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	31
+NTEST:	31
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----204
+張							      |	張指
+指							      <
+今年								今年
+教席								教席
+足夠								足夠
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	5
+NTEST:	4
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----205
+張文光							      |	張文
+說							      |	光說
+﹕							      |	﹕「
+「							      <
+今年								今年
+教席								教席
+足夠								足夠
+，								，
+若								若
+因								因
+執行								執行
+方法								方法
+產生								產生
+超額								超額
+教師								教師
+問題								問題
+，								，
+是								是
+可憐								可憐
+及								及
+遺憾								遺憾
+的								的
+。							      |	。」
+」							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	4
+NCHANGE:	6
+NTRUTH:	24
+NTEST:	22
+TRUE WORDS RECALL:	0.750
+TEST WORDS PRECISION:	0.818
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----206
+他								他
+稱							      |	稱若
+若							      <
+超額								超額
+教師								教師
+就業								就業
+問題								問題
+不								不
+能								能
+有								有
+重大								重大
+改善								改善
+，								，
+下周							      |	下
+將							      |	周將
+繼續								繼續
+發起								發起
+絕食								絕食
+靜坐								靜坐
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	20
+NTEST:	19
+TRUE WORDS RECALL:	0.800
+TEST WORDS PRECISION:	0.842
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----207
+逾								逾
+100							      |	100名
+名							      <
+教師								教師
+昨								昨
+在								在
+驟雨								驟雨
+中							      |	中絕
+絕食							      |	食靜
+靜坐							      |	坐
+，								，
+去年								去年
+因							      |	因北
+北區							      |	區縮
+縮班							      |	班
+而								而
+成為								成為
+超額								超額
+教師								教師
+的								的
+陳							      |	陳小
+小姐							      |	姐說
+說							      |	﹕「
+﹕							      <
+「							      <
+去年								去年
+縮班								縮班
+時								時
+剛								剛
+懷孕								懷孕
+，								，
+有								有
+被								被
+歧視								歧視
+的								的
+感覺								感覺
+，								，
+到								到
+聘請								聘請
+普通話								普通話
+教師								教師
+的								的
+學校								學校
+面試								面試
+時								時
+，								，
+學校								學校
+突然								突然
+轉							      |	轉請
+請							      <
+體育								體育
+教師								教師
+。							      |	。」
+」							      <
+INSERTIONS:	0
+DELETIONS:	5
+SUBSTITUTIONS:	12
+NCHANGE:	17
+NTRUTH:	54
+NTEST:	49
+TRUE WORDS RECALL:	0.685
+TEST WORDS PRECISION:	0.755
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----208
+那								那
+段								段
+時間								時間
+徬徨								徬徨
+得							      |	得哭
+哭							      <
+起來								起來
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	8
+NTEST:	7
+TRUE WORDS RECALL:	0.750
+TEST WORDS PRECISION:	0.857
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----209
+自							      |	自成
+成為							      |	為超
+超額							      |	額教
+教師							      |	師後
+後							      |	，陳
+，							      <
+陳							      <
+小姐								小姐
+寄							      |	寄出
+出							      |	約400
+約							      |	封求
+400							      |	職
+封							      |	信
+求職信							      <
+，								，
+但								但
+只							      |	只獲
+獲							      <
+寥寥								寥寥
+的								的
+面試								面試
+機會								機會
+。								。
+INSERTIONS:	0
+DELETIONS:	4
+SUBSTITUTIONS:	11
+NCHANGE:	15
+NTRUTH:	23
+NTEST:	19
+TRUE WORDS RECALL:	0.348
+TEST WORDS PRECISION:	0.421
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----210
+有								有
+5							      |	5年
+年							      <
+教學								教學
+經驗								經驗
+的								的
+她								她
+過去								過去
+一								一
+年								年
+擔任								擔任
+「								「
+漂流								漂流
+教師								教師
+」								」
+，								，
+薪酬							      |	薪
+近							      |	酬近
+原職								原職
+的								的
+九								九
+成								成
+，								，
+但								但
+一半								一半
+開支							      |	開
+需							      |	支
+供樓							      |	需供
+﹔							      |	樓﹔
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	7
+NCHANGE:	8
+NTRUTH:	29
+NTEST:	28
+TRUE WORDS RECALL:	0.724
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----211
+本							      |	本年
+年							      <
+她								她
+達							      |	達普
+普通話							      |	通話
+基準								基準
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	7
+NTEST:	6
+TRUE WORDS RECALL:	0.429
+TEST WORDS PRECISION:	0.500
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----212
+上周								上周
+亦有								亦有
+參與								參與
+靜坐								靜坐
+的								的
+她								她
+說								說
+，								，
+若								若
+下周								下周
+教協								教協
+再								再
+發起								發起
+絕食								絕食
+行動							      |	行
+							      >	動
+，								，
+仍								仍
+會								會
+支持								支持
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	20
+NTEST:	21
+TRUE WORDS RECALL:	0.950
+TEST WORDS PRECISION:	0.905
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----213
+「							      |	「若
+若							      <
+失業								失業
+派							      |	派傳
+傳單							      |	單
+也								也
+做							      |	做」
+」							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	4
+NCHANGE:	6
+NTRUTH:	8
+NTEST:	6
+TRUE WORDS RECALL:	0.250
+TEST WORDS PRECISION:	0.333
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----214
+有								有
+20							      |	20年
+年							      <
+教學								教學
+經驗								經驗
+的								的
+黃							      |	黃老
+老師							      |	師
+去年								去年
+因								因
+上水								上水
+縮班								縮班
+，								，
+被迫							      |	被
+當							      |	迫
+「							      |	當「
+漂流								漂流
+教師								教師
+」								」
+，								，
+並								並
+正								正
+修讀								修讀
+英語								英語
+基準								基準
+，								，
+雖然								雖然
+仍								仍
+有							      |	有近
+近							      <
+原職								原職
+九							      |	九成
+成							      <
+的								的
+月薪								月薪
+，								，
+但								但
+她								她
+說								說
+﹕							      |	﹕「
+「							      <
+長子								長子
+在								在
+英國								英國
+讀								讀
+預科								預科
+，								，
+每								每
+年								年
+要								要
+10							      |	10多
+多							      <
+萬								萬
+元								元
+，							      |	，差
+差不多							      |	不多
+用							      |	用盡
+盡							      |	積
+積蓄							      |	蓄
+，								，
+不								不
+知							      |	知怎
+怎							      |	算好
+算							      |	。」
+好							      <
+。							      <
+」							      <
+INSERTIONS:	0
+DELETIONS:	8
+SUBSTITUTIONS:	18
+NCHANGE:	26
+NTRUTH:	67
+NTEST:	59
+TRUE WORDS RECALL:	0.612
+TEST WORDS PRECISION:	0.695
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----215
+她								她
+說							      |	說若
+若							      <
+失業								失業
+，							      |	，派
+派							      <
+傳單								傳單
+都							      |	都會
+會							      <
+做								做
+。								。
+INSERTIONS:	0
+DELETIONS:	3
+SUBSTITUTIONS:	3
+NCHANGE:	6
+NTRUTH:	11
+NTEST:	8
+TRUE WORDS RECALL:	0.455
+TEST WORDS PRECISION:	0.625
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----216
+教統局長							教統局長
+李國章								李國章
+昨日								昨日
+出席								出席
+電台								電台
+節目								節目
+時								時
+說								說
+，								，
+希望								希望
+教師								教師
+以								以
+健康								健康
+為								為
+重								重
+，								，
+不要								不要
+做								做
+傷害								傷害
+自己								自己
+的								的
+事								事
+，								，
+冀								冀
+透過								透過
+對話								對話
+解決								解決
+問題								問題
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	29
+NTEST:	29
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----217
+劉遵義							      |	劉遵
+晤							      |	義晤
+中大生							      |	中
+被指							      |	大生
+無							      |	被
+							      >	指無
+誠意								誠意
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	5
+NCHANGE:	6
+NTRUTH:	6
+NTEST:	7
+TRUE WORDS RECALL:	0.167
+TEST WORDS PRECISION:	0.143
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----218
+剛							      |	剛履
+履新							      |	新
+的								的
+中文								中文
+大學								大學
+校長								校長
+劉遵義								劉遵義
+，								，
+昨日								昨日
+首次								首次
+在								在
+中大								中大
+大學								大學
+賓館								賓館
+與							      |	與四
+四							      <
+書院								書院
+學生會								學生會
+、								、
+中大								中大
+學生會								學生會
+及								及
+各								各
+屬會								屬會
+等							      |	等近
+近							      |	40名
+40							      <
+名							      <
+學生								學生
+見面								見面
+，								，
+他								他
+在								在
+演辭								演辭
+中							      |	中說
+說							      <
+希望								希望
+大學								大學
+可以								可以
+盡快								盡快
+轉為								轉為
+四年制								四年制
+，								，
+並								並
+希望								希望
+未來							      |	未
+中大							      |	來中
+每							      |	大每
+名								名
+學生								學生
+也								也
+可								可
+入住								入住
+宿舍								宿舍
+。								。
+INSERTIONS:	0
+DELETIONS:	4
+SUBSTITUTIONS:	9
+NCHANGE:	13
+NTRUTH:	55
+NTEST:	51
+TRUE WORDS RECALL:	0.764
+TEST WORDS PRECISION:	0.824
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----219
+但								但
+中大								中大
+學生會							      |	學生
+對							      |	會對
+見面								見面
+感到								感到
+失望								失望
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	8
+NTEST:	8
+TRUE WORDS RECALL:	0.750
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----220
+劉遵義								劉遵義
+在							      |	在會
+會面							      |	面
+時								時
+說								說
+，								，
+3改4							      |	3改
+對							      |	4對
+大學								大學
+發展								發展
+很								很
+重要								重要
+，								，
+認為								認為
+三年制								三年制
+對								對
+學生								學生
+來說								來說
+較								較
+辛苦								辛苦
+，							      |	，若
+若							      <
+改為								改為
+四年制								四年制
+，								，
+學生								學生
+更								更
+可								可
+享受								享受
+大學								大學
+生活								生活
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	6
+NTRUTH:	32
+NTEST:	31
+TRUE WORDS RECALL:	0.812
+TEST WORDS PRECISION:	0.839
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----221
+他								他
+說								說
+，								，
+雖然								雖然
+近								近
+一兩								一兩
+年								年
+未能								未能
+安排								安排
+到								到
+每								每
+名								名
+中大								中大
+學生								學生
+也								也
+可								可
+入住								入住
+宿舍								宿舍
+，								，
+但								但
+希望								希望
+未來							      |	未
+可							      |	來可
+做到								做到
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	25
+NTEST:	25
+TRUE WORDS RECALL:	0.920
+TEST WORDS PRECISION:	0.920
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----222
+但								但
+中大								中大
+學生會								學生會
+外務								外務
+副							      |	副會
+會長							      |	長勞
+勞康言							      |	康言
+對								對
+見面								見面
+感							      |	感失
+失望							      |	望
+，								，
+指								指
+劉								劉
+未有								未有
+回答								回答
+學生								學生
+問及								問及
+中大								中大
+資源								資源
+分配								分配
+、								、
+殺系							      |	殺
+							      >	系
+等								等
+問題								問題
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	7
+NTRUTH:	26
+NTEST:	27
+TRUE WORDS RECALL:	0.769
+TEST WORDS PRECISION:	0.741
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----223
+她								她
+指								指
+，								，
+新任								新任
+校長								校長
+在								在
+今次								今次
+會見								會見
+中							      |	中無
+無							      <
+誠意								誠意
+，							      |	，近
+近							      |	40名
+40							      <
+名							      <
+學生								學生
+才								才
+見面								見面
+一								一
+小時								小時
+，								，
+像								像
+開							      |	開派
+派對							      |	對多
+多							      |	過似
+過							      <
+似							      <
+會面								會面
+，								，
+故							      |	故中
+中大							      |	大學
+學生會							      |	生會
+希望								希望
+校長							      |	校
+日後							      |	長日
+可							      |	後
+加強							      |	可加
+與							      |	強與
+學生								學生
+的								的
+溝通								溝通
+。								。
+INSERTIONS:	0
+DELETIONS:	5
+SUBSTITUTIONS:	14
+NCHANGE:	19
+NTRUTH:	42
+NTEST:	37
+TRUE WORDS RECALL:	0.548
+TEST WORDS PRECISION:	0.622
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----224
+她								她
+說								說
+劉								劉
+校長								校長
+已								已
+答應							      |	答
+本							      |	應
+月底							      |	本月
+再							      |	底再
+與							      |	與學
+學生會							      |	生會
+見面								見面
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	6
+NTRUTH:	13
+NTEST:	13
+TRUE WORDS RECALL:	0.538
+TEST WORDS PRECISION:	0.538
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----225
+中大								中大
+發言人								發言人
+說								說
+，								，
+校長								校長
+很								很
+重視								重視
+學生								學生
+及								及
+教員								教員
+之間								之間
+的								的
+溝通								溝通
+，							      |	，日
+日後							      |	後會
+會							      <
+再								再
+與							      |	與學
+學生							      |	生及
+及							      |	教職
+教職員							      |	員有
+有							      <
+更								更
+深入								深入
+接觸								接觸
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	26
+NTEST:	24
+TRUE WORDS RECALL:	0.692
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----226
+指								指
+要求								要求
+重審								重審
+雙普選								雙普選
+							      >	不理
+							      >	智中
+							      >	聯
+							      >	辦
+							      >	﹕人
+							      >	大決
+							      >	定
+不								不
+理智							      |	容改
+中聯辦							      <
+﹕							      <
+人大							      <
+決定							      <
+不容							      <
+改							      <
+INSERTIONS:	7
+DELETIONS:	6
+SUBSTITUTIONS:	1
+NCHANGE:	14
+NTRUTH:	12
+NTEST:	13
+TRUE WORDS RECALL:	0.417
+TEST WORDS PRECISION:	0.385
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----227
+在								在
+數以十萬計						      |	數以十萬
+							      >	計
+市民								市民
+參加								參加
+「								「
+七一								七一
+遊行								遊行
+」								」
+後								後
+，								，
+22							      |	22名
+名							      |	民主
+民主派							      |	派議
+議員							      |	員聯
+聯署							      |	署要
+要求							      |	求中
+中央							      |	央重
+重新							      |	新審
+審視							      |	視
+07								07
+、								、
+08							      |	08年
+年							      |	「雙
+「							      |	普選
+雙普選							      <
+」								」
+的								的
+可能性							      |	可能
+﹔							      |	性﹔
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	15
+NCHANGE:	17
+NTRUTH:	29
+NTEST:	29
+TRUE WORDS RECALL:	0.448
+TEST WORDS PRECISION:	0.448
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----228
+中聯辦							      |	中聯
+副							      |	辦副
+主任								主任
+李剛								李剛
+昨日								昨日
+以								以
+「								「
+明知不可為而為之					      |	明知
+							      >	不可
+							      >	為
+							      >	而
+							      >	為之
+」								」
+、								、
+「							      |	「與
+與							      <
+當前								當前
+社會								社會
+溝通								溝通
+的								的
+氣氛								氣氛
+相							      |	相違
+違背							      |	背」
+」							      <
+形容								形容
+這							      |	這訴
+訴求							      |	求
+。								。
+INSERTIONS:	4
+DELETIONS:	2
+SUBSTITUTIONS:	8
+NCHANGE:	14
+NTRUTH:	24
+NTEST:	26
+TRUE WORDS RECALL:	0.583
+TEST WORDS PRECISION:	0.538
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----229
+他								他
+重申								重申
+，								，
+全								全
+國							      |	國人
+人大							      |	大常
+常委會							      |	委會
+就								就
+07								07
+、								、
+08								08
+年								年
+香港								香港
+政制								政制
+問題								問題
+所作								所作
+的								的
+決定								決定
+是								是
+「								「
+不容								不容
+更改								更改
+的								的
+」								」
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	3
+NTRUTH:	25
+NTEST:	25
+TRUE WORDS RECALL:	0.880
+TEST WORDS PRECISION:	0.880
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----230
+在								在
+早前								早前
+中央								中央
+與							      |	與民
+民主派							      |	主派
+一								一
+片								片
+「								「
+和風							      |	和
+」							      |	風」
+之後							      |	之
+							      >	後
+，								，
+七一								七一
+遊行								遊行
+至								至
+昨日								昨日
+僅								僅
+3								3
+天								天
+，								，
+中聯辦								中聯辦
+負責人								負責人
+已								已
+兩							      |	兩度
+度							      <
+批評								批評
+遊行								遊行
+組織者								組織者
+及								及
+民主派								民主派
+人士								人士
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	32
+NTEST:	32
+TRUE WORDS RECALL:	0.781
+TEST WORDS PRECISION:	0.781
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----231
+多							      |	多名
+名							      |	民主
+民主派							      |	派議
+議員							      |	員則
+則							      |	強
+強調							      |	調
+，								，
+此							      |	此要
+要求							      |	求不
+不會							      |	會影
+影響							      |	響與
+與							      <
+中央								中央
+溝通								溝通
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	10
+NCHANGE:	11
+NTRUTH:	15
+NTEST:	14
+TRUE WORDS RECALL:	0.267
+TEST WORDS PRECISION:	0.286
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----232
+楊森								楊森
+﹕								﹕
+遊行								遊行
+不								不
+影響								影響
+溝通								溝通
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	6
+NTEST:	6
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----233
+民主黨								民主黨
+主席								主席
+楊森								楊森
+表示								表示
+，								，
+理解								理解
+中聯辦								中聯辦
+對								對
+事件								事件
+的								的
+想法								想法
+，								，
+但								但
+他								他
+不								不
+認同								認同
+遊行								遊行
+會								會
+影響								影響
+民主派							      |	民主
+與							      |	派與
+中央								中央
+的								的
+溝通								溝通
+，							      |	，「
+「							      |	七
+七一							      |	一
+仍								仍
+有								有
+53萬							      |	53
+							      >	萬
+人								人
+上街								上街
+，								，
+我們							      |	我
+是							      |	們是
+民選								民選
+議員								議員
+，								，
+應該								應該
+反映								反映
+市民								市民
+訴求								訴求
+，								，
+否則								否則
+不								不
+能								能
+向							      |	向市
+市民							      |	民
+交代								交代
+。							      |	。」
+」							      <
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	11
+NCHANGE:	13
+NTRUTH:	51
+NTEST:	51
+TRUE WORDS RECALL:	0.765
+TEST WORDS PRECISION:	0.765
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----234
+職工盟								職工盟
+李卓人								李卓人
+亦								亦
+強調								強調
+，								，
+「								「
+任何								任何
+溝通								溝通
+的								的
+基礎								基礎
+都							      |	都是
+是							      <
+市民								市民
+的								的
+聲音								聲音
+和								和
+訴求								訴求
+」								」
+，								，
+他們								他們
+不								不
+能								能
+脫離								脫離
+民意								民意
+與								與
+中央								中央
+溝通								溝通
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	28
+NTEST:	27
+TRUE WORDS RECALL:	0.929
+TEST WORDS PRECISION:	0.963
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----235
+45								45
+條								條
+關注組								關注組
+成員								成員
+余若薇								余若薇
+表示								表示
+，								，
+民主派							      |	民主
+及							      |	派及
+參加								參加
+七一								七一
+遊行								遊行
+的								的
+市民								市民
+，								，
+都								都
+抱著								抱著
+「								「
+明知不可為而為之					      |	明知
+							      >	不可
+							      >	為
+							      >	而
+							      >	為之
+」								」
+的								的
+心態								心態
+上街								上街
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	7
+NTRUTH:	24
+NTEST:	28
+TRUE WORDS RECALL:	0.875
+TEST WORDS PRECISION:	0.750
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----236
+她								她
+指出								指出
+，								，
+民主派								民主派
+並非								並非
+一定								一定
+要								要
+推翻								推翻
+人大								人大
+常委								常委
+的								的
+決定								決定
+，								，
+但								但
+希望								希望
+至少								至少
+可以								可以
+溝通								溝通
+、								、
+商討								商討
+普選								普選
+時間表								時間表
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	23
+NTEST:	23
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----237
+民建聯							      |	民建
+副							      |	聯副
+主席								主席
+譚耀宗								譚耀宗
+認為								認為
+，								，
+這樣								這樣
+困難								困難
+才								才
+開創								開創
+了								了
+和諧								和諧
+合作								合作
+的								的
+局面								局面
+，								，
+民主派							      |	民主
+應							      |	派應
+珍惜								珍惜
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	20
+NTEST:	20
+TRUE WORDS RECALL:	0.800
+TEST WORDS PRECISION:	0.800
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----238
+李剛							      |	李
+﹕							      |	剛﹕
+違背								違背
+溝通								溝通
+氣氛								氣氛
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	5
+NTEST:	5
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----239
+李剛								李剛
+昨日								昨日
+在								在
+回應								回應
+泛民主派							泛民主派
+、								、
+參加								參加
+遊行								遊行
+的								的
+市民								市民
+仍然								仍然
+爭取							      |	爭
+07							      |	取07
+、								、
+08							      |	08年
+年							      <
+落實								落實
+「							      |	「雙
+雙普選							      |	普選
+」								」
+時								時
+，								，
+他								他
+說								說
+﹕								﹕
+「							      |	「全
+全							      |	國人
+國							      |	大作
+人大							      |	為
+作為							      <
+最高								最高
+司法								司法
+機關								機關
+，								，
+作出								作出
+的								的
+決定								決定
+是								是
+不容								不容
+更改								更改
+的								的
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	9
+NCHANGE:	11
+NTRUTH:	42
+NTEST:	40
+TRUE WORDS RECALL:	0.738
+TEST WORDS PRECISION:	0.775
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----240
+所以								所以
+明知不可為而為之					      |	明知
+							      >	不可
+							      >	為
+							      >	而
+							      >	為之
+，								，
+是								是
+不								不
+理智								理智
+的								的
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	1
+NCHANGE:	5
+NTRUTH:	8
+NTEST:	12
+TRUE WORDS RECALL:	0.875
+TEST WORDS PRECISION:	0.583
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----241
+也								也
+與							      |	與當
+當前							      |	前社
+社會							      |	會
+溝通								溝通
+的								的
+氣氛								氣氛
+相							      |	相違
+違背							      |	背
+。							      |	。」
+」							      <
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	6
+NCHANGE:	7
+NTRUTH:	11
+NTEST:	10
+TRUE WORDS RECALL:	0.364
+TEST WORDS PRECISION:	0.400
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----242
+他								他
+又								又
+指出								指出
+，								，
+《								《
+基本法								基本法
+》								》
+已								已
+賦予								賦予
+港人								港人
+遊行								遊行
+表達								表達
+訴求								訴求
+的								的
+權利								權利
+，							      |	，市
+市民							      |	民無
+無論							      |	論用
+用							      <
+什麼								什麼
+形式								形式
+表達								表達
+意見								意見
+，								，
+都								都
+必須								必須
+以								以
+維護								維護
+一國兩制							一國兩制
+及								及
+香港								香港
+長期								長期
+繁榮								繁榮
+穩定								穩定
+作							      |	作出
+出發點							      |	發點
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	6
+NTRUTH:	37
+NTEST:	36
+TRUE WORDS RECALL:	0.838
+TEST WORDS PRECISION:	0.861
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----243
+他								他
+認為								認為
+，								，
+特首								特首
+董建華								董建華
+也								也
+回應								回應
+了								了
+遊行								遊行
+人士								人士
+的								的
+訴求								訴求
+，								，
+呼籲								呼籲
+全體								全體
+港人								港人
+支持								支持
+董								董
+的								的
+工作								工作
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	0
+NCHANGE:	0
+NTRUTH:	21
+NTEST:	21
+TRUE WORDS RECALL:	1.000
+TEST WORDS PRECISION:	1.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----244
+李剛								李剛
+說							      |	說﹕
+﹕							      |	「香
+「							      |	港市
+香港							      |	民
+市民							      <
+有								有
+一些								一些
+訴求								訴求
+，								，
+在								在
+改善								改善
+民生								民生
+方面								方面
+有								有
+一些								一些
+要求								要求
+，								，
+這些								這些
+方面								方面
+中央								中央
+已								已
+非常								非常
+清楚								清楚
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	5
+NTRUTH:	25
+NTEST:	24
+TRUE WORDS RECALL:	0.800
+TEST WORDS PRECISION:	0.833
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----245
+董建華								董建華
+先生								先生
+和								和
+特區								特區
+也								也
+聽							      |	聽得
+得							      <
+非常								非常
+清楚								清楚
+，								，
+也								也
+採取								採取
+一系列								一系列
+措施								措施
+來								來
+改善								改善
+。							      |	。」
+」							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	18
+NTEST:	16
+TRUE WORDS RECALL:	0.778
+TEST WORDS PRECISION:	0.875
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----246
+他								他
+表示								表示
+，							      |	，市
+市民							      |	民應
+應							      <
+多								多
+反映								反映
+有							      |	有建
+建設性							      |	設性
+的								的
+意見								意見
+，								，
+才								才
+有利								有利
+香港								香港
+政制								政制
+發展								發展
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	5
+NTRUTH:	18
+NTEST:	17
+TRUE WORDS RECALL:	0.722
+TEST WORDS PRECISION:	0.765
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----247
+陳弘毅							      |	陳弘
+﹕							      |	毅﹕
+推翻								推翻
+決定								決定
+機會								機會
+渺茫								渺茫
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	6
+NTEST:	6
+TRUE WORDS RECALL:	0.667
+TEST WORDS PRECISION:	0.667
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----248
+基本法								基本法
+委員會								委員會
+港方								港方
+成員								成員
+陳弘毅								陳弘毅
+表示								表示
+，							      |	，要
+要求							      |	求人
+人大							      |	大自行
+自行							      <
+推翻								推翻
+決定								決定
+，								，
+在								在
+法律								法律
+理論								理論
+上								上
+是								是
+可以								可以
+的								的
+，								，
+但								但
+他								他
+認為								認為
+人大								人大
+在								在
+短期								短期
+內								內
+更改								更改
+決定								決定
+的								的
+機會								機會
+「							      |	「十
+十分							      |	分渺
+渺茫							      |	茫」
+」							      <
+。								。
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	37
+NTEST:	35
+TRUE WORDS RECALL:	0.784
+TEST WORDS PRECISION:	0.829
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----249
+行政								行政
+會議								會議
+成員								成員
+廖長城							      |	廖
+							      >	長城
+亦								亦
+質疑								質疑
+，								，
+七一								七一
+上街								上街
+的								的
+市民								市民
+並非								並非
+都							      |	都要
+要求							      |	求07
+07/08							      |	08年
+年							      |	雙
+雙普選							      |	普
+							      >	選
+，								，
+而是								而是
+各								各
+有								有
+訴求								訴求
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	8
+NTRUTH:	23
+NTEST:	25
+TRUE WORDS RECALL:	0.739
+TEST WORDS PRECISION:	0.680
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----250
+他								他
+估計								估計
+特首								特首
+再								再
+提交								提交
+報告								報告
+機會								機會
+很								很
+微								微
+，								，
+而								而
+歷史								歷史
+上							      |	上人
+人大							      |	大常
+常委							      |	委亦
+亦							      <
+未曾								未曾
+推翻								推翻
+自己								自己
+的								的
+決定								決定
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	22
+NTEST:	21
+TRUE WORDS RECALL:	0.818
+TEST WORDS PRECISION:	0.857
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----251
+丁子霖							      |	丁子
+							      >	霖
+發信								發信
+支持								支持
+七一							      |	七
+							      >	一
+遊行								遊行
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	5
+NTEST:	7
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.429
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----252
+據							      |	據博
+博訊							      |	訊新
+新聞網							      |	聞網
+消息								消息
+，								，
+「							      |	「天
+天安門							      |	安門
+母親								母親
+運動							      |	運
+」							      |	動」
+召集人								召集人
+丁子霖							      |	丁
+							      >	子
+							      >	霖
+與								與
+丈夫								丈夫
+發表								發表
+公開信								公開信
+，								，
+形容								形容
+日前								日前
+50								50
+多								多
+萬								萬
+名								名
+市民								市民
+參加								參加
+「								「
+七一								七一
+大遊行								大遊行
+」								」
+，								，
+香港								香港
+同胞								同胞
+的								的
+行動								行動
+「							      |	「令
+令							      |	我
+我們							      |	們
+感動								感動
+和								和
+欣喜								欣喜
+」								」
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	11
+NCHANGE:	13
+NTRUTH:	42
+NTEST:	44
+TRUE WORDS RECALL:	0.738
+TEST WORDS PRECISION:	0.705
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----253
+公開信								公開信
+說								說
+，								，
+去年								去年
+7月								7月
+1							      |	1日
+日							      <
+，								，
+為								為
+反對								反對
+《								《
+基本法								基本法
+》								》
+23							      |	23條
+條							      <
+立法								立法
+，								，
+有								有
+50萬								50萬
+人								人
+上街								上街
+，								，
+擱置								擱置
+了								了
+這								這
+一								一
+惡法							      |	惡
+﹔							      |	法﹔
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	4
+NCHANGE:	6
+NTRUTH:	28
+NTEST:	26
+TRUE WORDS RECALL:	0.786
+TEST WORDS PRECISION:	0.846
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----254
+今天								今天
+，								，
+面對								面對
+近來								近來
+北京								北京
+對							      |	對雙
+雙普選							      |	普選
+的								的
+封殺								封殺
+，								，
+港人								港人
+仍然								仍然
+敢於								敢於
+行使								行使
+自己								自己
+的								的
+權利								權利
+，								，
+再次								再次
+為								為
+捍衛								捍衛
+自由								自由
+和								和
+爭取								爭取
+民主								民主
+而								而
+發聲								發聲
+，								，
+50								50
+多								多
+萬							      |	萬人
+人							      |	冒
+冒著							      |	著
+高溫								高溫
+走上								走上
+街頭								街頭
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	5
+NCHANGE:	5
+NTRUTH:	37
+NTEST:	37
+TRUE WORDS RECALL:	0.865
+TEST WORDS PRECISION:	0.865
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----255
+公開信								公開信
+說								說
+，								，
+作為								作為
+「								「
+六四								六四
+事件								事件
+」							      |	」遺
+遺屬							      |	屬
+，								，
+「								「
+身處								身處
+不准								不准
+點燃								點燃
+祭奠								祭奠
+親人								親人
+的								的
+燭光								燭光
+的								的
+黑暗								黑暗
+大陸								大陸
+，								，
+我們								我們
+自然								自然
+想							      |	想起
+起來							      |	來
+香港								香港
+同胞								同胞
+，								，
+想							      |	想起
+起來							      |	來
+維多利亞							維多利亞
+公園								公園
+，								，
+整整								整整
+15							      |	15年
+年							      <
+了								了
+，								，
+港人								港人
+祭奠								祭奠
+亡靈								亡靈
+的								的
+燭光								燭光
+年年								年年
+閃亮								閃亮
+。							      |	。」
+」							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	8
+NCHANGE:	10
+NTRUTH:	48
+NTEST:	46
+TRUE WORDS RECALL:	0.792
+TEST WORDS PRECISION:	0.826
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----256
+「							      |	「今
+今天							      |	天
+，								，
+儘管								儘管
+我們								我們
+夫婦								夫婦
+無法								無法
+加入								加入
+到								到
+港人							      |	港
+爭							      |	人爭
+民主								民主
+的								的
+行列								行列
+中								中
+，								，
+但								但
+我們								我們
+仍然								仍然
+要								要
+表達								表達
+對								對
+港人								港人
+的								的
+感激								感激
+和								和
+支持								支持
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	4
+NTRUTH:	28
+NTEST:	28
+TRUE WORDS RECALL:	0.857
+TEST WORDS PRECISION:	0.857
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----257
+你們								你們
+的								的
+義舉								義舉
+，								，
+不僅								不僅
+是								是
+在								在
+捍衛								捍衛
+港人								港人
+的								的
+自由								自由
+和							      |	和爭
+爭取							      |	取香
+香港							      |	港
+的								的
+民主								民主
+，								，
+也是								也是
+在								在
+推動								推動
+整個								整個
+中國								中國
+的								的
+民主								民主
+，								，
+鼓勵								鼓勵
+大陸								大陸
+無權者							      |	無權
+們							      |	者
+爭取							      |	們爭
+							      >	取
+自己								自己
+的								的
+民主								民主
+權利								權利
+。							      |	。」
+」							      <
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	7
+NCHANGE:	9
+NTRUTH:	36
+NTEST:	36
+TRUE WORDS RECALL:	0.778
+TEST WORDS PRECISION:	0.778
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----258
+促							      |	促釋
+釋放							      |	放蔣
+蔣彥永							      |	彥永
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	3
+NTRUTH:	3
+NTEST:	3
+TRUE WORDS RECALL:	0.000
+TEST WORDS PRECISION:	0.000
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----259
+公開信							      |	公開
+還							      |	信
+關注							      |	還關
+自							      |	注自
+6月								6月
+2							      |	2日
+日							      <
+失蹤								失蹤
+、								、
+上書								上書
+中央								中央
+要求								要求
+為							      |	為「
+「							      <
+六四								六四
+」								」
+正名								正名
+的								的
+「							      |	「抗
+抗							      |	SARS英
+SARS							      |	雄
+英雄							      <
+」								」
+蔣彥永							      |	蔣
+醫生							      |	彥
+							      >	永醫
+							      >	生
+，								，
+敦促								敦促
+中共								中共
+政權								政權
+立即								立即
+釋放								釋放
+他								他
+。								。
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	11
+NCHANGE:	16
+NTRUTH:	33
+NTEST:	32
+TRUE WORDS RECALL:	0.576
+TEST WORDS PRECISION:	0.594
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----260
+港府								港府
+反駁								反駁
+陸委會								陸委會
+中央								中央
+無							      |	無干
+干預							      |	預
+自治								自治
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	7
+NTEST:	7
+TRUE WORDS RECALL:	0.714
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----261
+就								就
+台灣								台灣
+陸委會								陸委會
+報告								報告
+日前								日前
+指							      |	指香
+香港							      |	港回
+回歸							      |	歸後
+後							      <
+民主								民主
+、								、
+自由								自由
+、								、
+人權								人權
+都								都
+不斷								不斷
+倒退								倒退
+，								，
+特區								特區
+政府								政府
+發言人								發言人
+重申								重申
+，								，
+回歸								回歸
+以來								以來
+，								，
+《								《
+基本法								基本法
+》								》
+所								所
+訂明								訂明
+的								的
+「								「
+一國兩制							一國兩制
+」								」
+原則								原則
+已								已
+獲得								獲得
+全面								全面
+落實								落實
+，								，
+這								這
+項							      |	項成
+成就							      |	就
+廣為								廣為
+國際								國際
+社會								社會
+認同								認同
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	6
+NTRUTH:	49
+NTEST:	48
+TRUE WORDS RECALL:	0.878
+TEST WORDS PRECISION:	0.896
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----262
+中央								中央
+嚴格								嚴格
+遵守								遵守
+《								《
+基本法								基本法
+》								》
+的								的
+規定								規定
+，								，
+完全								完全
+沒有							      |	沒
+干預							      |	有干
+香港							      |	預香
+自治							      |	港自
+範圍							      |	治範
+內							      |	圍內
+的								的
+事務								事務
+。								。
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	6
+NTRUTH:	19
+NTEST:	19
+TRUE WORDS RECALL:	0.684
+TEST WORDS PRECISION:	0.684
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----263
+另外								另外
+，								，
+外交部								外交部
+駐								駐
+港								港
+特派員								特派員
+公署								公署
+發言人								發言人
+聲明								聲明
+指								指
+，								，
+根據								根據
+《								《
+維也納								維也納
+領事								領事
+關係								關係
+公約								公約
+》								》
+，								，
+外國								外國
+駐							      |	駐港
+港							      <
+領事								領事
+官員								官員
+作為								作為
+外國								外國
+政府								政府
+駐								駐
+港								港
+代表								代表
+，								，
+對								對
+特區							      |	特
+政治							      |	區政
+問題							      |	治問
+發表							      |	題發
+評論							      |	表評
+是							      |	論是
+不							      |	不合
+合適							      |	適
+的								的
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	9
+NCHANGE:	10
+NTRUTH:	42
+NTEST:	41
+TRUE WORDS RECALL:	0.762
+TEST WORDS PRECISION:	0.780
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----264
+嶺南派							      |	嶺
+							      >	南派
+大師								大師
+與								與
+趙少昂							      |	趙少
+							      >	昂
+齊名								齊名
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	5
+NTEST:	7
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.429
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----265
+當代								當代
+嶺南派							      |	嶺南
+代表							      |	派代
+畫家							      |	表畫
+楊善深							      |	家
+1913							      |	楊善
+年							      |	深1913
+生							      |	年生
+於								於
+廣東								廣東
+台山							      |	台
+							      >	山
+，								，
+12							      |	12歲
+歲							      |	起臨
+起							      |	摹古
+臨摹							      |	畫
+古畫							      <
+，								，
+曾								曾
+與								與
+嶺南								嶺南
+派系								派系
+第							      |	第一
+一							      <
+代								代
+宗師								宗師
+高劍父							      |	高劍
+為							      |	父為
+鄰								鄰
+，								，
+遂								遂
+向								向
+他								他
+請教								請教
+畫技								畫技
+。								。
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	15
+NCHANGE:	18
+NTRUTH:	36
+NTEST:	35
+TRUE WORDS RECALL:	0.528
+TEST WORDS PRECISION:	0.543
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----266
+楊							      |	楊與
+與							      |	趙少
+趙少昂							      |	昂
+、								、
+關山月							      |	關
+							      >	山月
+和								和
+黎雄才							      |	黎
+							      >	雄才
+並稱								並稱
+嶺南派							      |	嶺南
+							      >	派
+第								第
+二								二
+代								代
+「								「
+四大天王							四大天王
+」								」
+。								。
+INSERTIONS:	3
+DELETIONS:	0
+SUBSTITUTIONS:	6
+NCHANGE:	9
+NTRUTH:	16
+NTEST:	19
+TRUE WORDS RECALL:	0.625
+TEST WORDS PRECISION:	0.526
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----267
+楊								楊
+桃李滿門						      |	桃
+							      >	李
+							      >	滿
+							      >	門
+，								，
+學生								學生
+均								均
+讚								讚
+他								他
+和善								和善
+親切								親切
+，								，
+態度								態度
+積極								積極
+，								，
+而								而
+他								他
+對								對
+嶺南							      |	嶺
+畫派							      |	南畫
+							      >	派
+最								最
+大								大
+貢獻								貢獻
+在於								在於
+其								其
+創新								創新
+精神								精神
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	7
+NTRUTH:	26
+NTEST:	30
+TRUE WORDS RECALL:	0.885
+TEST WORDS PRECISION:	0.767
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----268
+曾								曾
+從								從
+高劍父							      |	高劍
+學							      |	父學畫
+畫							      <
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	2
+NCHANGE:	3
+NTRUTH:	5
+NTEST:	4
+TRUE WORDS RECALL:	0.400
+TEST WORDS PRECISION:	0.500
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----269
+楊							      |	楊曾
+曾							      <
+留學								留學
+日本								日本
+，								，
+畫作								畫作
+曾								曾
+在								在
+各								各
+地								地
+展出								展出
+，							      |	，自
+自							      |	1950年
+1950							      <
+年							      <
+的								的
+20							      |	20年
+年							      <
+間								間
+，								，
+分別								分別
+在								在
+紐約								紐約
+、								、
+三藩市								三藩市
+、								、
+加拿大								加拿大
+、								、
+新加坡								新加坡
+等								等
+地								地
+舉行								舉行
+畫展								畫展
+，							      |	，然
+然而							      |	而
+，							      |	，楊
+楊							      <
+一生								一生
+的								的
+心願								心願
+卻是								卻是
+在								在
+香港								香港
+設立								設立
+個人								個人
+藝術館								藝術館
+。								。
+INSERTIONS:	0
+DELETIONS:	5
+SUBSTITUTIONS:	7
+NCHANGE:	12
+NTRUTH:	47
+NTEST:	42
+TRUE WORDS RECALL:	0.745
+TEST WORDS PRECISION:	0.833
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----270
+楊善深							      |	楊善
+							      >	深
+曾								曾
+獲								獲
+特區								特區
+政府								政府
+頒發								頒發
+「								「
+銀紫荊							      |	銀
+星章							      |	紫
+							      >	荊
+							      >	星
+							      >	章
+」								」
+。								。
+INSERTIONS:	4
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	7
+NTRUTH:	11
+NTEST:	15
+TRUE WORDS RECALL:	0.727
+TEST WORDS PRECISION:	0.533
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----271
+他								他
+於								於
+2002							      |	2002年
+年							      |	將作
+將							      |	品《
+作品							      <
+《							      <
+萬古								萬古
+常青								常青
+》								》
+及								及
+一								一
+巨聯							      |	巨
+贈予							      |	聯贈
+人民							      |	予人
+大會堂							      |	民大
+							      >	會
+							      >	堂
+，								，
+作品								作品
+現							      |	現掛
+掛							      <
+在								在
+會堂								會堂
+內							      |	內顯
+顯著							      |	著
+位置								位置
+。								。
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	10
+NCHANGE:	15
+NTRUTH:	26
+NTEST:	25
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.520
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----272
+中策組							      |	中策
+「							      |	組「
+政黨化							      |	政黨
+							      >	化
+」								」
+政治								政治
+中立								中立
+玩完								玩完
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	4
+NTRUTH:	7
+NTEST:	8
+TRUE WORDS RECALL:	0.571
+TEST WORDS PRECISION:	0.500
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----273
+中央								中央
+政策組							      |	政策
+							      >	組
+是								是
+特區								特區
+政府								政府
+的								的
+最高								最高
+智囊								智囊
+機構								機構
+，								，
+屬於								屬於
+公營								公營
+部門							      |	部
+，							      |	門
+用							      |	，用
+的								的
+是								是
+公帑								公帑
+，								，
+主要								主要
+職責								職責
+之一								之一
+是								是
+定期								定期
+做								做
+民意								民意
+調查								調查
+，								，
+協助								協助
+政府								政府
+高層								高層
+掌握								掌握
+民意								民意
+民情								民情
+，								，
+從而								從而
+改善								改善
+施政								施政
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	4
+NCHANGE:	5
+NTRUTH:	39
+NTEST:	40
+TRUE WORDS RECALL:	0.897
+TEST WORDS PRECISION:	0.875
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----274
+然而								然而
+，							      |	，本
+本							      <
+報								報
+日前								日前
+揭發								揭發
+中策組							      |	中策
+							      >	組
+的								的
+民意								民意
+調查								調查
+問卷								問卷
+設計								設計
+帶有								帶有
+明顯								明顯
+的								的
+政治								政治
+傾向								傾向
+，							      |	，刻
+刻意							      |	意
+針對								針對
+民主派								民主派
+，								，
+部分								部分
+問題								問題
+更								更
+帶有								帶有
+引導性							      |	引導
+							      >	性
+，								，
+違反								違反
+專業								專業
+民調								民調
+應							      |	應有
+有							      <
+的								的
+客觀								客觀
+、								、
+公正								公正
+和								和
+科學								科學
+的								的
+要求							      |	要求﹔
+﹔							      <
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	7
+NCHANGE:	12
+NTRUTH:	42
+NTEST:	41
+TRUE WORDS RECALL:	0.762
+TEST WORDS PRECISION:	0.780
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----275
+加上								加上
+特區								特區
+政府								政府
+實施								實施
+問責制								問責制
+以來								以來
+的								的
+作風								作風
+轉變								轉變
+，								，
+筆者								筆者
+有							      |	有理
+理由							      |	由
+相信								相信
+，								，
+中策組							      |	中
+							      >	策
+							      >	組
+已								已
+淪為								淪為
+黨派								黨派
+政治								政治
+工具								工具
+，								，
+成								成
+了								了
+指導								指導
+建制								建制
+及								及
+保皇黨								保皇黨
+與								與
+民主派								民主派
+鬥爭								鬥爭
+的								的
+「								「
+心戰室								心戰室
+」								」
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	3
+NCHANGE:	5
+NTRUTH:	36
+NTEST:	38
+TRUE WORDS RECALL:	0.917
+TEST WORDS PRECISION:	0.868
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----276
+這							      |	這種
+種							      <
+公營								公營
+機構								機構
+「							      |	「政
+政黨化							      |	黨化
+」								」
+的								的
+趨勢							      |	趨
+若							      |	勢若
+繼續								繼續
+下去								下去
+，								，
+特區								特區
+政府								政府
+過去								過去
+在								在
+制訂								制訂
+及								及
+執行							      |	執
+政策							      |	行政
+上							      |	策上
+謹慎								謹慎
+持守								持守
+的								的
+政治								政治
+中立								中立
+原則								原則
+將							      |	將會
+會							      |	「玩
+「							      |	完」
+玩完							      <
+」							      <
+。								。
+INSERTIONS:	0
+DELETIONS:	3
+SUBSTITUTIONS:	11
+NCHANGE:	14
+NTRUTH:	34
+NTEST:	31
+TRUE WORDS RECALL:	0.588
+TEST WORDS PRECISION:	0.645
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----277
+成								成
+政府								政府
+保皇黨								保皇黨
+心戰室							      |	心戰
+							      >	室
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	4
+NTEST:	5
+TRUE WORDS RECALL:	0.750
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----278
+中策組							      |	中策
+							      >	組
+在								在
+回覆								回覆
+本							      |	本報
+報							      <
+查詢								查詢
+時								時
+，								，
+一再								一再
+強調								強調
+「								「
+有								有
+一								一
+組								組
+高度								高度
+專業								專業
+和								和
+富有								富有
+經驗								經驗
+的								的
+專家								專家
+小組								小組
+設計								設計
+問卷								問卷
+」								」
+，								，
+「								「
+保證								保證
+民調								民調
+達至								達至
+客觀								客觀
+、								、
+公正								公正
+、								、
+科學								科學
+的								的
+要求								要求
+」								」
+，								，
+「								「
+政府								政府
+在								在
+蒐集								蒐集
+民意								民意
+時								時
+，							      |	，取
+取態							      |	態定
+定當							      |	當
+客觀								客觀
+、								、
+公正								公正
+及								及
+持平							      |	持
+」							      |	平」
+，								，
+「								「
+不會								不會
+對							      |	對個
+個別							      |	別政
+政黨							      |	黨
+或								或
+組織								組織
+作							      |	作有
+有							      |	針
+針對性							      |	對性
+的								的
+民調								民調
+」								」
+，								，
+「								「
+無							      |	無必
+必要							      |	要
+亦								亦
+不會								不會
+作出								作出
+有								有
+傾向性							      |	傾
+或							      |	向性
+引導性							      |	或引
+							      >	導性
+的								的
+民意								民意
+調查							      |	調
+」							      |	查」
+。								。
+INSERTIONS:	2
+DELETIONS:	1
+SUBSTITUTIONS:	20
+NCHANGE:	23
+NTRUTH:	84
+NTEST:	85
+TRUE WORDS RECALL:	0.750
+TEST WORDS PRECISION:	0.741
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----279
+換言之								換言之
+，								，
+中策組							      |	中
+對							      |	策組
+其							      |	對其
+自身								自身
+角色								角色
+的								的
+公開								公開
+立場								立場
+仍然								仍然
+是								是
+傳統								傳統
+公營								公營
+機構								機構
+的								的
+一								一
+套								套
+，								，
+即							      |	即要
+要							      <
+保持								保持
+客觀								客觀
+中立								中立
+，								，
+超然								超然
+於								於
+黨派								黨派
+政治								政治
+之上								之上
+。								。
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	4
+NCHANGE:	5
+NTRUTH:	31
+NTEST:	30
+TRUE WORDS RECALL:	0.839
+TEST WORDS PRECISION:	0.867
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----280
+但								但
+實際上							      |	實際
+中策組							      |	上中
+							      >	策組
+根本								根本
+不							      |	不是
+是							      <
+這樣								這樣
+。								。
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	3
+NCHANGE:	5
+NTRUTH:	8
+NTEST:	8
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.500
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----281
+本							      |	本報
+報							      <
+披露								披露
+了								了
+中策組							      |	中策
+							      >	組
+在								在
+6月份							      |	6月
+做							      |	份做
+的								的
+一								一
+次								次
+民調								民調
+問卷								問卷
+，								，
+其中								其中
+最								最
+受							      |	受人
+人							      <
+非議								非議
+的								的
+是								是
+第							      |	第19
+19							      <
+、								、
+20								20
+和								和
+21								21
+條								條
+，								，
+調查員								調查員
+首先								首先
+問							      |	問受
+受訪者							      |	訪者
+﹕							      |	﹕「
+「							      <
+你								你
+擔唔擔心						      |	擔
+							      >	唔擔心
+今年								今年
+嘅								嘅
+七一								七一
+大遊行								大遊行
+，								，
+如果								如果
+有得								有得
+幾十萬								幾十萬
+人								人
+上街								上街
+，								，
+會								會
+畀								畀
+美國								美國
+政府								政府
+有								有
+藉口							      |	藉
+話							      |	口話
+『								『
+一國兩制							一國兩制
+』								』
+出咗								出咗
+問題							      |	問
+							      >	題
+，								，
+因此								因此
+要								要
+削減								削減
+以前								以前
+畀開							      |	畀
+							      >	開
+香港								香港
+嘅								嘅
+貿易								貿易
+優惠								優惠
+呢								呢
+﹖								﹖
+」							      |	」然
+然後							      |	後再
+再							      |	問﹕
+問							      |	「你
+﹕							      |	同唔
+「							      |	同意
+你							      <
+同唔同意						      <
+話								話
+，								，
+如果								如果
+美國								美國
+真係								真係
+對付								對付
+香港								香港
+，								，
+經常								經常
+去							      |	去美
+美國							      |	國
+搞								搞
+游說							      |	游
+活動							      |	說活
+嘅							      |	動嘅
+民主派							      |	民主
+要							      |	派要
+負上								負上
+一								一
+部分								部分
+責任								責任
+呢								呢
+﹖							      |	﹖」
+」							      <
+INSERTIONS:	4
+DELETIONS:	7
+SUBSTITUTIONS:	28
+NCHANGE:	39
+NTRUTH:	104
+NTEST:	101
+TRUE WORDS RECALL:	0.663
+TEST WORDS PRECISION:	0.683
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----282
+接著								接著
+又								又
+問							      |	問﹕
+﹕							      |	「你
+「							      |	同唔
+你							      |	同意
+同唔同意						      |	話香
+話							      |	港
+香港							      <
+會								會
+畀								畀
+美國								美國
+利用								利用
+嚟								嚟
+做								做
+對付								對付
+中國							      |	中
+嘅							      |	國嘅
+棋子								棋子
+呢								呢
+﹖							      |	﹖」
+」							      <
+INSERTIONS:	0
+DELETIONS:	2
+SUBSTITUTIONS:	9
+NCHANGE:	11
+NTRUTH:	22
+NTEST:	20
+TRUE WORDS RECALL:	0.500
+TEST WORDS PRECISION:	0.550
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----283
+眾所周知							眾所周知
+，								，
+美國								美國
+國會								國會
+內								內
+有								有
+議員								議員
+批評								批評
+中國								中國
+政府								政府
+否決								否決
+港人								港人
+去年								去年
+七一								七一
+後								後
+提出								提出
+的								的
+雙普選								雙普選
+要求								要求
+，								，
+建議								建議
+布殊								布殊
+政府								政府
+重新								重新
+審視								審視
+香港								香港
+實行								實行
+「								「
+一國兩制							一國兩制
+」								」
+的								的
+情況								情況
+，								，
+中策組							      |	中
+							      >	策組
+可以								可以
+問								問
+市民								市民
+是否								是否
+認同								認同
+美國								美國
+人								人
+以								以
+這								這
+種								種
+方式								方式
+影響								影響
+香港								香港
+政制								政制
+發展								發展
+，								，
+卻							      |	卻沒
+沒有							      |	有
+理由								理由
+假設								假設
+七一								七一
+遊行								遊行
+若								若
+有								有
+幾十萬								幾十萬
+人							      |	人參
+參加							      |	加
+，								，
+會								會
+招致								招致
+美國								美國
+制裁								制裁
+香港								香港
+。								。
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	5
+NCHANGE:	6
+NTRUTH:	68
+NTEST:	69
+TRUE WORDS RECALL:	0.926
+TEST WORDS PRECISION:	0.913
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----284
+去年								去年
+七一								七一
+有								有
+50萬								50萬
+港人								港人
+上街								上街
+，								，
+秩序井然							秩序井然
+，								，
+包括								包括
+美國								美國
+在內								在內
+的								的
+國際								國際
+社會								社會
+一致								一致
+給予								給予
+高度								高度
+評價								評價
+，								，
+今年								今年
+再								再
+有								有
+幾十萬								幾十萬
+人								人
+上街								上街
+，								，
+怎麼								怎麼
+會							      |	會導
+導致							      |	致美
+美國							      |	國制
+制裁							      |	裁香
+香港							      |	港﹖
+﹖							      <
+INSERTIONS:	0
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	6
+NTRUTH:	34
+NTEST:	33
+TRUE WORDS RECALL:	0.824
+TEST WORDS PRECISION:	0.848
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----285
+中策組							      |	中
+							      >	策組
+提出								提出
+這							      |	這條
+條							      <
+不合								不合
+邏輯								邏輯
+兼							      |	兼有
+有							      <
+高度								高度
+假設性								假設性
+和								和
+引導性							      |	引導
+							      >	性
+的								的
+問題								問題
+，								，
+怎								怎
+能								能
+說							      |	說「
+「							      |	客
+客觀							      |	觀
+、								、
+公正								公正
+、								、
+科學								科學
+」							      |	」﹖
+﹖							      <
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	8
+NCHANGE:	13
+NTRUTH:	26
+NTEST:	25
+TRUE WORDS RECALL:	0.577
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----286
+民調								民調
+明顯								明顯
+含							      |	含針
+針對性							      |	對性
+引導性								引導性
+INSERTIONS:	0
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	2
+NTRUTH:	5
+NTEST:	5
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----287
+七一								七一
+有								有
+幾十萬							      |	幾十
+人							      |	萬人
+上街								上街
+而								而
+最終								最終
+居然								居然
+導致								導致
+美國								美國
+貿易								貿易
+制裁								制裁
+香港								香港
+，								，
+唯一								唯一
+可能								可能
+是								是
+遊行								遊行
+出現								出現
+動亂								動亂
+，								，
+特區								特區
+政府								政府
+武力								武力
+鎮壓								鎮壓
+，								，
+重演								重演
+89							      |	89年
+年							      <
+北京								北京
+民運								民運
+的								的
+悲劇								悲劇
+，								，
+假如								假如
+是								是
+這樣								這樣
+的話								的話
+，								，
+中策組							      |	中
+問							      |	策組
+市民							      |	問市
+該							      |	民該
+由								由
+誰							      |	誰來
+來							      <
+承擔								承擔
+責任								責任
+時								時
+，								，
+應該								應該
+講							      |	講清
+清楚							      |	楚前
+前設							      |	設
+，							      |	，
+持平							      |	持
+地							      |	平地
+問							      |	問市
+市民							      |	民
+責任								責任
+屬於								屬於
+鎮壓者							      |	鎮壓
+							      >	者
+、								、
+遊行者							      |	遊行
+							      >	者
+，								，
+還							      |	還是
+是							      |	制裁
+制裁者							      |	者﹖
+﹖							      <
+INSERTIONS:	2
+DELETIONS:	3
+SUBSTITUTIONS:	21
+NCHANGE:	26
+NTRUTH:	69
+NTEST:	68
+TRUE WORDS RECALL:	0.652
+TEST WORDS PRECISION:	0.662
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----288
+中策組							      |	中策
+撇開							      |	組撇
+前設							      |	開前
+							      >	設
+，								，
+簡單								簡單
+一								一
+句							      |	句「
+「							      <
+如果								如果
+美國								美國
+真係								真係
+對付								對付
+香港								香港
+」								」
+，								，
+便								便
+問							      |	問受
+受訪者							      |	訪者
+「								「
+經常								經常
+去							      |	去美
+美國							      |	國
+搞								搞
+游說							      |	游
+活動							      |	說活
+嘅							      |	動嘅
+民主派							      |	民主
+要							      |	派要
+負上								負上
+一								一
+部分								部分
+責任								責任
+」							      |	」﹖
+﹖							      <
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	14
+NCHANGE:	17
+NTRUTH:	34
+NTEST:	33
+TRUE WORDS RECALL:	0.529
+TEST WORDS PRECISION:	0.545
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----289
+這							      |	這條
+條							      <
+問題								問題
+的								的
+針對性								針對性
+和								和
+引導性							      |	引導
+極為							      |	性極
+明顯							      |	為明
+							      >	顯
+，								，
+客觀								客觀
+公正								公正
+的								的
+學者								學者
+專家								專家
+怎								怎
+可能								可能
+這樣								這樣
+問							      |	問﹖
+﹖							      <
+INSERTIONS:	1
+DELETIONS:	2
+SUBSTITUTIONS:	5
+NCHANGE:	8
+NTRUTH:	20
+NTEST:	19
+TRUE WORDS RECALL:	0.650
+TEST WORDS PRECISION:	0.684
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----290
+問卷								問卷
+還								還
+有							      |	有好
+好							      |	幾條
+幾							      <
+條							      <
+類似								類似
+的								的
+問題								問題
+，								，
+例如								例如
+第							      |	第30
+30							      |	條問
+條							      |	﹕「
+問							      <
+﹕							      <
+「							      <
+你								你
+認為								認為
+立法會								立法會
+裏面								裏面
+各								各
+黨								黨
+各								各
+派								派
+都								都
+有								有
+均衡								均衡
+代表								代表
+好啲								好啲
+呀								呀
+，								，
+定係							      |	定
+							      >	係
+由								由
+民主派							      |	民主
+控制							      |	派控
+咗							      |	制咗
+立法會							      |	立法
+好啲							      |	會好
+							      >	啲
+呢								呢
+﹖							      |	﹖」
+」							      <
+INSERTIONS:	2
+DELETIONS:	6
+SUBSTITUTIONS:	12
+NCHANGE:	20
+NTRUTH:	42
+NTEST:	38
+TRUE WORDS RECALL:	0.571
+TEST WORDS PRECISION:	0.632
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----291
+如果								如果
+這							      |	這條
+條							      <
+問題								問題
+算							      |	算是
+是							      <
+客觀								客觀
+持平								持平
+，								，
+那麼								那麼
+，								，
+按照								按照
+同樣								同樣
+的								的
+邏輯								邏輯
+，								，
+中策組							      |	中
+							      >	策組
+可以								可以
+問							      |	問市
+市民							      |	民﹕
+﹕							      |	「你
+「							      <
+你							      <
+認為								認為
+立法會								立法會
+裏面								裏面
+各								各
+黨								黨
+各								各
+派								派
+都								都
+有								有
+均衡								均衡
+代表								代表
+好啲								好啲
+呀								呀
+，								，
+定係							      |	定
+							      >	係
+由								由
+親								親
+政府								政府
+的								的
+黨派								黨派
+控制							      |	控制咗
+咗							      |	立法
+立法會							      |	會好
+好啲							      |	啲
+呢								呢
+﹖							      |	﹖」
+」							      <
+INSERTIONS:	2
+DELETIONS:	5
+SUBSTITUTIONS:	12
+NCHANGE:	19
+NTRUTH:	50
+NTEST:	47
+TRUE WORDS RECALL:	0.660
+TEST WORDS PRECISION:	0.702
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----292
+執政								執政
+聯盟								聯盟
+組成								組成
+中策組							      |	中
+							      >	策組
+角色								角色
+變								變
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	1
+NCHANGE:	2
+NTRUTH:	6
+NTEST:	7
+TRUE WORDS RECALL:	0.833
+TEST WORDS PRECISION:	0.714
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----293
+又								又
+例如								例如
+，								，
+第							      |	第8
+8							      <
+、								、
+9							      |	9兩
+兩							      |	條問
+條							      |	﹕「
+問							      <
+﹕							      <
+「							      <
+你								你
+認為								認為
+民主派							      |	民主
+係唔係							      |	派係
+							      >	唔係
+出現								出現
+咗							      |	咗內
+內部							      |	部分
+分裂							      |	裂
+呢								呢
+﹖							      |	﹖」
+」							      <
+INSERTIONS:	1
+DELETIONS:	5
+SUBSTITUTIONS:	10
+NCHANGE:	16
+NTRUTH:	23
+NTEST:	19
+TRUE WORDS RECALL:	0.348
+TEST WORDS PRECISION:	0.421
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----294
+「								「
+（								（
+如果								如果
+係								係
+）								）
+你								你
+認為								認為
+民主派							      |	民主
+內部							      |	派內
+分裂							      |	部分
+係唔係							      |	裂係
+							      >	唔係
+好事								好事
+呢								呢
+﹖							      |	﹖」
+」							      <
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	5
+NCHANGE:	7
+NTRUTH:	15
+NTEST:	15
+TRUE WORDS RECALL:	0.600
+TEST WORDS PRECISION:	0.600
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----295
+第							      |	第12
+12							      |	條問
+條							      |	﹕「
+問							      <
+﹕							      <
+「							      <
+你								你
+認為								認為
+民主派							      |	民主
+應唔應該						      |	派應
+繼續							      |	唔應
+同							      |	該繼
+							      >	續同
+中央								中央
+對抗								對抗
+呢								呢
+﹖							      |	﹖」
+」							      <
+INSERTIONS:	1
+DELETIONS:	4
+SUBSTITUTIONS:	8
+NCHANGE:	13
+NTRUTH:	17
+NTEST:	14
+TRUE WORDS RECALL:	0.294
+TEST WORDS PRECISION:	0.357
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----296
+倘若								倘若
+提出								提出
+這些								這些
+問題								問題
+的								的
+是								是
+民主派								民主派
+的								的
+選舉								選舉
+對手								對手
+（								（
+例如								例如
+民建聯								民建聯
+）								）
+，								，
+那								那
+並								並
+不							      |	不令
+令							      |	人奇
+人							      |	怪
+奇怪							      <
+，								，
+中策組							      |	中
+							      >	策組
+既然								既然
+聲稱								聲稱
+客觀								客觀
+中立								中立
+持平								持平
+，								，
+不會								不會
+針對								針對
+個別								個別
+政黨								政黨
+或								或
+組織								組織
+做							      |	做民
+民調							      |	調
+，								，
+為什麼								為什麼
+如此								如此
+熱心								熱心
+去								去
+發掘								發掘
+公眾								公眾
+心目								心目
+中							      |	中民
+民主派							      |	主派
+是否								是否
+分裂								分裂
+、								、
+分裂								分裂
+是否							      |	是
+好事							      |	否好
+﹖							      |	事﹖
+INSERTIONS:	1
+DELETIONS:	1
+SUBSTITUTIONS:	11
+NCHANGE:	13
+NTRUTH:	54
+NTEST:	54
+TRUE WORDS RECALL:	0.778
+TEST WORDS PRECISION:	0.778
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----297
+為什麼								為什麼
+不								不
+問							      |	問市
+市民							      |	民中
+中央							      |	央應
+應不應該						      |	不應
+繼續							      |	該繼
+							      >	續
+打壓								打壓
+民主派							      |	民主
+﹖							      |	派﹖
+INSERTIONS:	1
+DELETIONS:	0
+SUBSTITUTIONS:	7
+NCHANGE:	8
+NTRUTH:	10
+NTEST:	11
+TRUE WORDS RECALL:	0.300
+TEST WORDS PRECISION:	0.273
+--./dividegold/cityu_gold_part0.utf8-------./paperresult/optimize_result.utf8----298
+很								很
+明顯								明顯
+，								，
+中策組							      |	中
+							      >	策組
+的								的
+專家								專家
+小組								小組
+設計								設計
+這些								這些
+問題								問題
+時								時
+，								，
+是								是
+戴								戴
+了								了
+有色眼鏡						      |	有色
+							      >	眼鏡
+的								的
+。								。
+INSERTIONS:	2
+DELETIONS:	0
+SUBSTITUTIONS:	2
+NCHANGE:	4
+NTRUTH:	18
+NTEST:	20
+TRUE WORDS RECALL:	0.889
+TEST WORDS PRECISION:	0.800
+=== SUMMARY:
+=== TOTAL INSERTIONS:	325
+=== TOTAL DELETIONS:	383
+=== TOTAL SUBSTITUTIONS:	1768
+=== TOTAL NCHANGE:	2476
+=== TOTAL TRUE WORD COUNT:	7806
+=== TOTAL TEST WORD COUNT:	7748
+=== TOTAL TRUE WORDS RECALL:	0.724
+=== TOTAL TEST WORDS PRECISION:	0.730
+=== F MEASURE:	0.727
+=== OOV Rate:	0.063
+=== OOV Recall Rate:	0.209
+=== IV Recall Rate:	0.759
+###	./paperresult/optimize_result.utf8	325	383	1768	2476	7806	7748	0.724	0.730	0.727	0.063	0.209	0.759
