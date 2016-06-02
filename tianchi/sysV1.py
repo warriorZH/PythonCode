@@ -75,12 +75,13 @@ class sysV1(object):
         True: predict success
         """
         # divide train data and test data
-        for item in self.play_data:
+        artist_pq_value_fd = open('./artist_pq_value.txt', 'w')
+        for item, artist_id in zip(self.play_data, self.artist_id):
             list_data = item.split(',')
             for i in range(0, len(list_data), 1):
                 list_data[i] = int(list_data[i])
 
-            self.train_data.append(list_data[105:183])
+            self.train_data.append(list_data[45:123])
             self.test_data.append(list_data[123:])
             dta = pd.Series(list_data[105:183])
             dta.index = pd.Index(sm.tsa.datetools.dates_from_range('2046', '2123'))
@@ -158,10 +159,26 @@ class sysV1(object):
                         # print "#################################################################################:%d" % one_score
                         self.score.append(one_score)
                     except:
+                        pre_result = list_data[123:123 + steps]
+                        p = 0
+                        q = 0
+                        self.ar_p_value.append(p)
+                        self.ma_q_value.append(q)
+                        self.pre_data.append(pre_result)
+                        one_score = self.Calculate_score(list_data[123:123 + steps], pre_result)
+                        # if one_score < 0:
+                        #     one_score = -1
+                        # print "#################################################################################:%d" % one_score
+                        self.score.append(one_score)
                         self.arma_model.append([])
                         self.pre_data.append([])
                         self.score.append(0)
                         print list_data
+                        print artist_id
+            output = "%s,%d,%d\n" % (artist_id, p, q)
+            artist_pq_value_fd.write(output)
+        artist_pq_value_fd.close()
+
 
     def Calculate_score(self, real_list, pre_list):
         """
@@ -176,6 +193,8 @@ class sysV1(object):
         if len(real_list) == len(pre_list):
             sum_val = 0.0
             for S, T in zip(pre_list, real_list):
+                # S = abs(S)
+                # T = abs(T)
                 sum_val += math.pow((S - T-1) / (1+T), 2)
             ceta = math.sqrt(sum_val / len(real_list))
             fai = math.sqrt(sum(real_list))
@@ -198,11 +217,13 @@ if __name__ == "__main__":
         process.getData(sys.argv[1])
         process.model_fit_pred(sys.argv[2])
         print process.score
-        print process.ar_p_value[6]
-        print process.ma_q_value[6]
-        process.score[6] = 0
-        print sum(process.score)
-        result_data_fd = open("./result_data.txt", 'w')
+        # for iter in range(len(process.score)):
+        #     print "%d   %f" % (iter+1, process.score[iter])
+        # print process.ar_p_value[6]
+        # print process.ma_q_value[6]
+        # process.score[6] = 0
+        # print sum(process.score)
+        result_data_fd = open("./mars_tianchi_artist_plays_predict.csv", 'w')
 
 
         date_list = []
@@ -214,9 +235,9 @@ if __name__ == "__main__":
         for item, art_id in zip(process.pre_data, process.artist_id):
             output = ""
             for iter, one_date in zip(item, date_list):
-                output = "%s,%s,%s\r\n" % (art_id, str(int(iter)), one_date)
+                output = "%s,%s,%s\n" % (art_id, str(int(iter)), one_date)
                 result_data_fd.write(output)
         result_data_fd.close()
-        print process.artist_id
+        # print process.artist_id
     else:
         print "input form 'python sysV1.py path_aritst_play predict_number'"

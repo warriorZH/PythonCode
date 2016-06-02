@@ -37,8 +37,12 @@
 # bb = aa[:-2]#.split('\r\n')[0]
 # print bb
 
-aa = [1,2,3]
-bb = [4,5,6]
-cc = [7,8,9]
-for a,b,c in zip(aa,bb,cc):
-    print a,b,c
+# aa = [1,2,3]
+# bb = [4,5,6]
+# cc = [7,8,9]
+# for a,b,c in zip(aa,bb,cc):
+#     print a,b,c
+
+aa = [1, -2, 3]
+bb = abs(aa)
+print bb
